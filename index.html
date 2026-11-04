@@ -1,0 +1,61 @@
+<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard Fundadors STOXX Europe 600 (Prototip)</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:0;background:#f6f7f9;color:#1d2330}
+header{background:#1d3557;color:#fff;padding:16px 20px}h1{margin:0;font-size:1.3rem}
+.banner{background:#ffe8a3;color:#5a4300;padding:10px 20px;font-weight:600;border-bottom:1px solid #e0c060}
+main{padding:16px 20px;max-width:1300px;margin:auto}
+.kpis{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:14px}.kpi{background:#fff;border-radius:8px;padding:12px 16px;box-shadow:0 1px 3px #0002;min-width:150px}
+.kpi b{display:block;font-size:1.5rem}
+.ctl{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}input,select,button{padding:8px;border:1px solid #ccd;border-radius:6px;font-size:.95rem}
+button{background:#1d3557;color:#fff;cursor:pointer}
+.wrap{overflow-x:auto;background:#fff;border-radius:8px;box-shadow:0 1px 3px #0002}
+table{border-collapse:collapse;width:100%;font-size:.9rem}th,td{padding:8px 10px;border-bottom:1px solid #eee;text-align:left}
+th{cursor:pointer;background:#eef1f6;position:sticky;top:0;white-space:nowrap}tr.r:hover{background:#f0f5ff;cursor:pointer}
+.st{padding:2px 8px;border-radius:10px;font-size:.8rem}.pendent{background:#eee}.proposada{background:#dbeafe}.verificada{background:#d1fae5}.discutida{background:#fde2e2}
+.ex{background:#ffe8a3;color:#5a4300;font-size:.75rem;padding:1px 6px;border-radius:4px;margin-left:4px}
+#det{position:fixed;inset:0;background:#0006;display:none;align-items:flex-start;justify-content:center;overflow:auto}
+#det .c{background:#fff;margin:30px 10px;padding:20px;border-radius:10px;max-width:800px;width:100%}
+.ev{border:1px solid #ddd;border-radius:8px;padding:10px;margin:8px 0;font-size:.88rem;word-break:break-all}
+blockquote{margin:6px 0;padding:6px 10px;background:#f6f7f9;border-left:3px solid #1d3557}
+.pg{display:flex;gap:8px;align-items:center;margin:10px 0}
+</style></head><body>
+<header><h1>Dashboard Fundadors · STOXX Europe 600</h1><div>Base de dades de fundadors i any de fundació amb evidència arxivada</div></header>
+<div class="banner">PROTOTIP. Dades d'índex extretes de l'informe semestral iShares STOXX Europe 600 UCITS ETF (DE) a 31/10/2017. Les fitxes marcades "DADA D'EXEMPLE" són il·lustratives i no estan verificades.</div>
+<main>
+<div class="kpis"><div class="kpi"><b id="k1"></b>Empreses</div><div class="kpi"><b id="k2"></b>Amb evidència</div><div class="kpi"><b id="k3"></b>Verificades</div><div class="kpi"><b id="k4"></b>Països (ISIN)</div></div>
+<div class="ctl"><input id="q" placeholder="Cerca per nom o ISIN" size="28"><select id="fp"><option value="">Tots els països</option></select>
+<select id="fs"><option value="">Tots els estats</option><option>pendent</option><option>proposada</option><option>verificada</option><option>discutida</option></select>
+<button id="csv">Descarrega CSV</button></div>
+<div class="wrap"><table><thead><tr><th data-k="isin">ISIN</th><th data-k="nom">Empresa</th><th data-k="pais">País</th><th data-k="any">Any de fundació</th><th data-k="fund">Fundador/s</th><th data-k="estat">Estat</th><th data-k="nev">Evidències</th></tr></thead><tbody id="tb"></tbody></table></div>
+<div class="pg"><button id="prev">Anterior</button><span id="pi"></span><button id="next">Següent</button></div>
+</main>
+<div id="det"><div class="c" id="dc"></div></div>
+<script>
+// Dades d'exemple il·lustratives (NO verificades)
+const EX={"DE000A1EWWW0":{any:"(exemple) 1949",fund:["(exemple) Nom Fundador"],estat:"proposada"},
+"CH0012221716":{any:"(exemple) 1988",fund:["(exemple) Fundador A","(exemple) Fundador B"],estat:"discutida"},
+"GB0007980591":{any:"(exemple) 1909",fund:["(exemple) Nom Fundador"],estat:"verificada"}};
+function exEv(r){return[{url:"https://exemple.org/informe-anual.pdf",tipus:"primària",captura:"2026-11-04T10:00:00Z",hash:"0000000000000000000000000000000000000000000000000000000000000000",frag:"(Fragment d'exemple) \"The company was founded in ...\"",arxiu:"https://web.archive.org/web/2026/https://exemple.org/informe-anual.pdf",pag:"p. 12"},
+{url:"https://exemple.org/historia",tipus:"secundària",captura:"2026-11-04T10:05:00Z",hash:"1111111111111111111111111111111111111111111111111111111111111111",frag:"(Fragment d'exemple) \"Our history began ...\"",arxiu:"https://web.archive.org/web/2026/https://exemple.org/historia",pag:"-"}]}
+let D=[],V=[],sk="nom",sd=1,page=0;const PS=50;
+fetch("members.json").then(r=>r.json()).then(j=>{D=j.map(r=>{const e=EX[r.isin];return Object.assign(r,e?{any:e.any,fund:e.fund.join("; "),estat:e.estat,ev:exEv(r),exemple:1}:{any:"pendent",fund:"pendent",estat:"pendent",ev:[]},{nev:e?2:0})});
+const ps=[...new Set(D.map(r=>r.pais))].sort();fp.innerHTML+=ps.map(p=>`<option>${p}</option>`).join("");
+k1.textContent=D.length;const ne=D.filter(r=>r.nev>0).length;k2.textContent=ne+" ("+(100*ne/D.length).toFixed(1)+"%)";
+k3.textContent=D.filter(r=>r.estat=="verificada").length;k4.textContent=ps.length;go()});
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function go(){const q=document.getElementById("q").value.toLowerCase();V=D.filter(r=>(!q||r.nom.toLowerCase().includes(q)||r.isin.toLowerCase().includes(q))&&(!fp.value||r.pais==fp.value)&&(!fs.value||r.estat==fs.value));
+V.sort((a,b)=>(a[sk]>b[sk]?1:a[sk]<b[sk]?-1:0)*sd);const n=Math.max(1,Math.ceil(V.length/PS));page=Math.min(page,n-1);
+tb.innerHTML=V.slice(page*PS,page*PS+PS).map(r=>`<tr class="r" data-i="${r.isin}"><td>${r.isin}</td><td>${esc(r.nom)}${r.exemple?'<span class="ex">DADA D\'EXEMPLE, no verificada</span>':""}</td><td>${r.pais}</td><td>${esc(r.any)}</td><td>${esc(r.fund)}</td><td><span class="st ${r.estat}">${r.estat}</span></td><td>${r.nev}</td></tr>`).join("");
+pi.textContent=`Pàgina ${page+1} de ${n} · ${V.length} resultats`}
+q.oninput=fp.onchange=fs.onchange=()=>{page=0;go()};prev.onclick=()=>{if(page>0){page--;go()}};next.onclick=()=>{page++;go()};
+document.querySelectorAll("th").forEach(t=>t.onclick=()=>{const k=t.dataset.k;sd=sk==k?-sd:1;sk=k;go()});
+tb.onclick=e=>{const tr=e.target.closest("tr");if(!tr)return;const r=D.find(x=>x.isin==tr.dataset.i);
+dc.innerHTML=`<button onclick="det.style.display='none'" style="float:right">Tanca</button><h2>${esc(r.nom)}</h2>${r.exemple?'<p class="ex" style="display:inline-block;font-size:.9rem">DADA D\'EXEMPLE, no verificada. Només mostra l\'aspecte d\'una fitxa completa.</p>':""}
+<p><b>ISIN:</b> ${r.isin} · <b>País (ISIN):</b> ${r.pais} · <b>Moneda:</b> ${r.moneda}</p><p><b>Any de fundació:</b> ${esc(r.any)}<br><b>Fundador/s:</b> ${esc(r.fund)}<br><b>Estat:</b> <span class="st ${r.estat}">${r.estat}</span></p>
+<p><b>Pertinença a l'índex:</b> ${r.data_informe} · font: ${r.fitxer_font}, pàgina ${r.pagina}</p><h3>Evidències (${r.nev})</h3>`+
+(r.ev.length?r.ev.map(v=>`<div class="ev"><b>Tipus:</b> ${v.tipus}<br><b>URL:</b> ${esc(v.url)}<br><b>Data de captura:</b> ${v.captura}<br><b>SHA-256:</b> <code>${v.hash}</code><br><b>Pàgina:</b> ${v.pag}<blockquote>${esc(v.frag)}</blockquote><b>Arxiu:</b> ${esc(v.arxiu)}</div>`).join(""):"<p>Encara no hi ha evidències. Pendent de recerca.</p>");det.style.display="flex"};
+det.onclick=e=>{if(e.target==det)det.style.display="none"};
+csv.onclick=()=>{const c=["isin","nom","pais","moneda","any","fund","estat","nev","data_informe","fitxer_font","pagina"];const s=[c.join(",")].concat(V.map(r=>c.map(k=>'"'+String(r[k]).replace(/"/g,'""')+'"').join(","))).join("\n");
+const a=document.createElement("a");a.href=URL.createObjectURL(new Blob(["\ufeff"+s],{type:"text/csv"}));a.download="fundadors_stoxx600.csv";a.click()};
+</script></body></html>
