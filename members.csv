@@ -1,597 +1,1013 @@
-isin,nom,pais,moneda,data_informe,fitxer_font,pagina,linia_txt
-GB00B1YW4409,3i Group PLC Registered Shares LS -.738636,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,226
-DK0010244508,A.P.Møller-Mærsk A/S Navne-Aktier B DK 1000,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,228
-IT0001233417,A2A S.p.A. Azioni nom. EO 0.52,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,230
-GB00BMSKPJ95,AA PLC Registered Shares LS 0.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,231
-NL0000852564,Aalberts Industries N.V. Aandelen aan toonder EO 0.25,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,234
-DE0005408116,Aareal Bank AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,236
-CH0012221716,ABB Ltd. Namens-Aktien SF 0.12,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,238
-ES0111845014,Abertis Infraestructuras S.A. Acciones Nom. EO 3,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,240
-NL0011540547,ABN AMRO Group N.V. Aand.op naam Dep.Rec./EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,242
-FR0000120404,ACCOR S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,244
-BE0003764785,Ackermans & van Haaren N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,246
-ES0167050915,"ACS, Act.de Constr.y Serv. SA Acciones Port. EO -.50",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,248
-CH0012138605,Adecco Group AG Namens-Aktien SF 0.1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,250
-DE000A1EWWW0,adidas AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,252
-GB00B02J6398,Admiral Group PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,254
-NL0000303709,AEGON N.V. Aandelen op naam(demat.)EO 0.12,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,256
-ES0105046009,AENA S.A. Acciones Port. EO 10,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,258
-BE0974264930,AGEAS SA/NV Actions Nominatives o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,260
-GB00BK1PTB77,Aggreko PLC Registered Shares LS 0.04832911,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,261
-NL0011794037,"Ahold Delhaize N.V., Konkinkl. Aandelen aan toonder EO 0.01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,264
-FR0000031122,Air France-KLM S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,266
-FR0000120073,Air Liquide-SA Ét.Expl.P.G.Cl. Actions Port. EO 5.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,268
-NL0000235190,Airbus SE Aandelen op naam EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,270
-NL0000009132,Akzo Nobel N.V. Aandelen aan toonder EO 2,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,272
-SE0000695876,Alfa Laval AB Namn-Aktier SK 2.5,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,274
-DE0008404005,Allianz SE vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,276
-IE00BYSZ9G33,Allied Irish Banks PLC Registered Shares EO 0.625,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,278
-FR0010220475,Alstom S.A. Actions Port. EO 7,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,280
-NL0011333752,Altice N.V. Aandelen aan tonder A EO -.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,282
-ES0109067019,Amadeus IT Group S.A. Acciones Port. EO 0.01,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,284
-FI0009000285,Amer Sports Corp. Registered Shares Cl.A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,286
-AT0000A18XM4,ams AG Inhaber-Aktien o.N.,AT,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,288
-FR0004125920,Amundi S.A. Actions au Porteur EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,290
-AT0000730007,Andritz AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,292
-GB00B1XZS820,Anglo American PLC Registered Shares DL 0.54945,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,293
-BE0974293251,Anheuser-Busch InBev S.A./N.V. Actions au Port. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,296
-GB0000456144,Antofagasta PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,298
-LU1598757687,ArcelorMittal S.A. Actions Nouvelles Nominat. oN,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,300
-FR0010313833,Arkema S.A. Actions au Porteur EO 10,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,302
-LU1673108939,Aroundtown SA Inhaber-Aktien EO 0.01,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,304
-CH0043238366,Aryzta AG Namens-Aktien SF -.02,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,306
-GB0000536739,Ashtead Group PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,308
-NL0000334118,ASM International N.V. Bearer Shares EO 0.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,310
-NL0010273215,ASML Holding N.V. Aandelen op naam EO -.09,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,312
-NL0011872643,ASR Nederland N.V. Aandelen op naam EO -.16,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,314
-SE0007100581,Assa-Abloy AB Namn-Aktier B SK -.33,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,326
-IT0000062072,Assicurazioni Generali S.p.A. Azioni nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,328
-GB0006731235,Associated British Foods PLC Registered Shares LS - .0568,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,330
-GB0009895292,AstraZeneca PLC Registered Shares DL -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,332
-IT0003506190,Atlantia S.p.A. Azioni Nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,334
-SE0006886750,Atlas Copco AB Namn-Aktier A SK-.10425,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,336
-FR0000051732,Atos SE Actions au Porteur EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,338
-DE0006766504,Aurubis AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,340
-GB00BVYVFW23,Auto Trader Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,342
-GB0002162385,Aviva PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,344
-FR0000120628,AXA S.A. Actions Port. EO 2.29,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,346
-DE0005501357,Axel Springer SE vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,348
-IT0003261697,Azimut Holding S.p.A. Azioni nom. EUR o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,350
-FR0010340141,Aéroports de Paris S.A. Actions au Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,352
-LU1072616219,B & M Europ.Value Retail S.A. Actions Nominatives LS 0.103),LU,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,354
-GB0009697037,Babcock International Grp PLC Registered Shares LS - .60,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,356
-GB0002634946,BAE Systems PLC Registered Shares LS -.025,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,358
-GB0000961622,Balfour Beatty PLC Registered Shares LS -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,360
-ES0113211835,Banco Bilbao Vizcaya Argent. Acciones Nom. EO 0.49,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,362
-IT0005218380,Banco BPM S.p.A. Azioni o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,364
-ES0113860A34,"Banco de Sabadell S.A. Acciones Nom. Serie A EO - ,125",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,366
-ES0113900J37,Banco Santander S.A. Acciones Nom. EO 0.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,368
-IE00BD1RP616,Bank of Ireland Group PLC Registered Shares EO 1,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,370
-ES0113307062,BANKIA S.A. Acciones Nom.Para Contras.EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,372
-ES0113679I37,"Bankinter S.A. Acciones Nom. EO -,30",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,374
-GB0031348658,Barclays PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,376
-GB0000811801,Barratt Developments PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,378
-CH0009002962,Barry Callebaut AG Namensaktien SF 7.29,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,380
-DE000BASF111,BASF SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,382
-DE000BAY0017,Bayer AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,384
-DE0005190003,Bayerische Motoren Werke AG Stammaktien EO 1,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,386
-CH0038389992,BB Biotech AG Namens-Aktien SF 0.20,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,387
-GB00B1FP8915,BBA Aviation PLC Registered Shares LS 0.2976,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,389
-GB00BYQ0JC66,Beazley PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,392
-DE0005200000,Beiersdorf AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,394
-GB0000904986,Bellway PLC Registered Shares LS -.125,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,396
-GB00B02L3W35,Berkeley Group Holdings PLC Reg.Ordinary Shares LS- .05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,398
-GB0000566504,BHP Billiton PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,400
-SE0000862997,BillerudKorsnäs AB Namn-Aktier SK 12.50,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,402
-FR0013280286,bioMerieux Actions au Porteur (P.S.) o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,404
-FR0000131104,BNP Paribas S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,406
-SE0000869646,Boliden AB Namn-Aktier SK 2,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,408
-FR0000039299,Bolloré S.A. Actions Port. EO 0.16,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,410
-ES0115056139,Bolsas y Mercados Espanoles Acciones Nominativas EO 3,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,412
-GB00B01TND91,Booker Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,414
-FR0000120503,Bouygues S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,416
-GB0007980591,BP PLC Registered Shares DL -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,418
-IT0000066123,BPER Banca S.p.A. Azioni nom. EO 3,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,420
-BE0974268972,bpost S.A. Actions Nom. Compartm. A o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,422
-DE000A1DAHH0,Brenntag AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,424
-GB0002875804,British American Tobacco PLC Registered Shares LS - .25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,426
-GB0001367019,"British Land Co. PLC, The Registered Shares LS -.25",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,437
-GB00B0N8QD54,Britvic PLC Registered Shares LS -.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,439
-GB0030913577,BT Group PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,441
-GB0001001592,BTG PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,443
-GB00B0744B38,Bunzl PLC Registered Shares LS -.3214857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,445
-GB0031743007,Burberry Group PLC Registered Shares LS-.0005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,447
-FR0006174348,Bureau Veritas SA Actions au Porteur EO -.12,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,449
-AT00BUWOG001,BUWOG AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,451
-CH0012410517,Bâloise Holding AG Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,453
-ES0140609019,Caixabank S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,455
-FR0000125338,Capgemini SE Actions Port. EO 8,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,457
-GB00B23K0M20,Capita PLC Reg. Shares LS -.02066666,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,459
-GB00B62G9D36,Capital & Counties Propert.PLC Registered Shares LS 0.253),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,461
-DK0010181759,Carlsberg AS Navne-Aktier B DK 20,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,463
-GB0031215220,Carnival PLC Registered Shares DL 1.66,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,465
-FR0000120172,Carrefour S.A. Actions Port. EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,467
-FR0000125585,"Casino,Guichard-Perrachon S.A. Actions Port. EO 1.53",FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,469
-SE0000379190,Castellum AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,471
-ES0105066007,Cellnex Telecom S.A. Acciones Port. EO 0.25,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,473
-CH0225173167,Cembra Money Bank AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,475
-JE00B5TT1872,Centamin PLC Registered Shares o.N.,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,477
-GB00B033F229,Centrica PLC Reg. Shares LS -.061728395,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,479
-CZ0005112300,CEZ AS Inhaber-Aktien KC 100,CZ,CZK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,481
-CH0010570759,Chocoladef. Lindt & Sprüngli vink.Namens-Aktien SF 100,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,483
-FR0000130403,Christian Dior SE Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,485
-DK0060227585,Christian Hansen Holding AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,487
-CH0210483332,Cie Financière Richemont AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,489
-FR0000121261,Cie Génle Éts Michelin SCpA Actions Nom. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,491
-CH0012142631,Clariant AG Namens-Aktien SF 3.70,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,493
-GB0007668071,Close Brothers Group PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,495
-NL0010545661,"CNH Industrial N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,497
-FR0000120222,CNP Assurances S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,499
-GB00B07KD360,Cobham PLC Registered Shares LS 0.025,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,501
-CH0198251305,Coca-Cola HBC AG Nam.-Aktien SF 6.70,CH,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,503
-BE0003593044,Cofinimmo S.A./N.V. Actions Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,505
-DK0060448595,Coloplast AS Navne-Aktier B DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,507
-DE000CBK1001,Commerzbank AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,509
-FR0000125007,Compagnie de Saint-Gobain S.A. Actions au Porteur (C.R.) EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,511
-FR0000124570,Compagnie Plastic Omnium S.A. Actions Port. EO -.06,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,513
-GB00BD6K4575,Compass Group PLC Registered Shares LS -.1105,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,515
-DE0005439004,Continental AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,517
-GB00BD3VFW73,ConvaTec Group PLC Registered Shares WI LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,519
-DE0006062144,Covestro AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,521
-CH0012138530,Credit Suisse Group AG Namens-Aktien SF -.04,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,523
-IE0001827041,CRH PLC Registered Shares EO -.32,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,525
-GB00BYZWX769,Croda International PLC Regist.Shares LS -.10357143,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,527
-FR0000045072,Crédit Agricole S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,529
-GB00BD6GN030,CYBG PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,530
-GB0009457366,Daily Mail & General Trust PLC Reg. Shares A (Non Vtg)LS 0.1253),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,533
-DE0007100000,Daimler AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,535
-FR0000120644,Danone S.A. Actions Port. EO 0.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,537
-DK0010274414,Danske Bank AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,548
-FR0000121725,Dassault Aviation S.A. Actions Port. EO 8,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,550
-FR0000130650,Dassault Systèmes S.A. Actions Port. EO 0.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,552
-IT0005252207,Davide Campari-Milano S.p.A. Azioni nom. EO 0.05,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,554
-IE0002424939,DCC PLC Registered Shares EO -.25,IE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,556
-GB0002652740,Derwent London PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,558
-DE0005140008,Deutsche Bank AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,560
-DE0005810055,Deutsche Börse AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,562
-DE0007480204,Deutsche EuroShop AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,564
-DE0008232125,Deutsche Lufthansa AG vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,566
-DE0005552004,Deutsche Post AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,568
-DE0005557508,Deutsche Telekom AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,570
-DE000A0HN5C6,Deutsche Wohnen SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,572
-GB0002374006,Diageo PLC Reg. Shares LS -.28935185,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,574
-GB0059822006,Dialog Semiconductor PLC Registered Shares LS -.10,GB,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,576
-GB00BY9D0Y18,Direct Line Insurance Grp PLC Reg.Shares LS- .109090909,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,578
-ES0126775032,Distribuidora Intl de Alim.SA Acciones Port. EO -.10,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,580
-GB00B4Y7R145,Dixons Carphone PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,582
-CH0126673539,DKSH Holding AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,584
-NO0010031479,DNB ASA Navne-Aksjer A NK 10,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,586
-DK0060094928,DONG Energy A/S Indehaver Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,588
-CH0011795959,dormakaba Holding AG Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,590
-DE0005545503,Drillisch AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,592
-GB0008220112,DS Smith PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,594
-DK0060079531,DSV A/S Indehaver Bonus-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,596
-CH0023405456,Dufry AG Nam.-Aktien SF 5,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,598
-DE0005565204,Dürr AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,600
-DE000ENAG999,E.ON SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,602
-GB00B7KR2P84,EasyJet PLC Registered Shares LS-.27285714,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,604
-FR0010908533,Edenred S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,606
-PTEDP0AM0009,EDP - Energias de Portugal SA Acções Nom. EO 1,PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,608
-FR0000130452,Eiffage S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,610
-FR0010242511,Electricité de France (E.D.F.) Actions au Porteur EO 0.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,612
-GB0003096442,Electrocomponents PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,614
-SE0000103814,"Electrolux, AB Namn-Aktier B o.N.",SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,616
-SE0000163628,Elekta AB Namn-Aktier B SK 2,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,618
-FR0011950732,Elior Group SCA Actions au Port. EO -.01,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,620
-FR0012435121,Elis S.A. Actions au Porteur EO 1.00,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,622
-FI0009007884,Elisa Oyj Registered Shares Class A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,624
-CH0016440353,Ems-Chemie Holding AG Namens-Aktien SF -.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,626
-ES0130960018,Enagas S.A. Acciones Port. EO 1.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,628
-ES0130670112,Endesa S.A. Acciones Port. EO 1.20,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,630
-IT0003128367,ENEL S.p.A. Azioni nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,632
-FR0010208488,Engie S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,634
-IT0003132476,ENI S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,636
-AT0000652011,Erste Group Bank AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,638
-FR0000121667,Essilor Intl -Cie Génle Opt.SA Actions Port. EO 0.18,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,640
-SE0009922164,Essity AB Namn-Aktier B,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,642
-FR0000121121,Eurazeo SE Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,644
-FR0000038259,Eurofins Scientific S.E. Actions Port. EO 0.1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,646
-NL0006294274,Euronext N.V. Aandelen an toonder WI EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,648
-FR0010221234,Eutelsat Communications Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,660
-DE000EVNK013,Evonik Industries AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,662
-NL0012059018,EXOR N.V. Aandelen aan toonder o.N.,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,664
-GB00B19NLV48,Experian PLC Registered Shares DL -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,666
-SE0000950636,Fabege AB Namn-Aktier SK 28.50,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,668
-SE0000455057,Fastighets AB Balder Namn-Aktier B SK 1,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,670
-FR0000121147,Faurecia S.A. Actions Port. EO 7,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,672
-JE00BFNWV485,Ferguson PLC Reg. Shares LS 0.108030303,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,674
-NL0011585146,"Ferrari N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,676
-ES0118900010,Ferrovial S.A. Acciones Port. EO 0.20,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,678
-ES06189009A2,Ferrovial S.A. Anrechte,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,680
-NL0010877643,Fiat Chrysler Automobiles N.V. Aandelen op naam EO 0.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,682
-IT0000072170,Finecobank Banca Fineco S.p.A. Azioni nom. EO 0.33,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,684
-CH0001752309,"Fischer AG, Georg Namens-Aktien SF 1",CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,686
-CH0319416936,Flughafen Zürich AG Namens-Aktien SF 10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,688
-FR0000064578,Foncière des Régions S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,690
-FI0009007132,Fortum Oyj Registered Shares EO 3.40,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,692
-DE0005773303,Fraport AG Ffm.Airport.Ser.AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,694
-DE000A0Z2ZZ5,freenet AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,696
-DE0005785802,Fresenius Medical Care KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,698
-DE0005785604,Fresenius SE & Co. KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,700
-GB00B2QPKJ12,Fresnillo PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,702
-DE0005790430,FUCHS PETROLUB SE Inhaber-Vorzugsakt. o.St.o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,704
-GB00B01FLG62,G4S PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,706
-BE0003818359,Galapagos N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,708
-PTGAL0AM0009,Galp Energia SGPS S.A. Acções Nominativas EO 1,PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,710
-ES0116870314,Gas Natural SDG S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,712
-DE0006602006,GEA Group AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,714
-CH0030170408,Geberit AG Nam.-Akt. (Dispost.) SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,716
-FR0010040865,Gecina S.A. Actions Nom. EO 7.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,718
-NL0000400653,Gemalto N.V. Aandelen EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,720
-DK0010272202,GENMAB AS Navne Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,722
-DE000A0LD6E6,Gerresheimer AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,724
-SE0000202624,Getinge AB Namn-Aktier B (fria) SK 2,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,726
-CH0010645932,Givaudan SA Namens-Aktien SF 10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,728
-NO0010582521,Gjensidige Forsikring ASA Navne-Aksjer NK 2,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,730
-GB0030646508,GKN PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,732
-IE0000669501,Glanbia PLC Registered Shares EO 0.06,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,734
-GB0009252882,GlaxoSmithKline PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,736
-JE00B4T3BW64,Glencore PLC Registered Shares DL -.01,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,738
-DK0010272632,GN Store Nord AS Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,740
-GB00BZ0XJR39,Great Portland Estates PLC Reg.Shares LS 0.131578947,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,742
-GB00B0HZP136,Greene King PLC Registered Shares LS 0.125,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,744
-ES0171996087,Grifols S.A. Acciones Port. Class A EO -.25,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,746
-FR0010533075,Groupe Eurotunnel SE Actions Port. EO -.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,748
-BE0003797140,Grpe Bruxelles Lambert SA(GBL) Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,750
-IM00B5VQMV65,GVC Holdings PLC Registered Shares EO 0.01,IM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,752
-SE0000106270,H & M Hennes & Mauritz AB Namn-Aktier B SK 0.125,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,754
-DK0010287234,H. Lundbeck A/S Navne-Aktier DK 5,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,756
-GB0004052071,Halma PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,757
-GB0004065016,Hammerson PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,760
-DE0008402215,Hannover Rück SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,772
-GB00B1VZ0M25,Hargreaves Lansdown PLC Registered Shares DL-.004,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,774
-GB0004161021,Hays PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,776
-DE0006047004,HeidelbergCement AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,779
-NL0000008977,Heineken Holding N.V. Aandelen aan toonder EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,781
-NL0000009165,Heineken N.V. Aandelen aan toonder EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,783
-CH0012271687,Helvetia Holding AG Namens-Aktien SF 0.1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,785
-DE0006048432,Henkel AG & Co. KGaA Inhaber-Vorzugsaktien o.St.o.N,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,787
-FR0000052292,Hermes International S.C.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,789
-SE0000103699,Hexagon AB Namn-Aktier B (fria) SK 1.333,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,791
-SE0007074281,Hexpol AB Namn-Aktier B o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,793
-GB00B0LCW083,Hikma Pharmaceuticals PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,795
-BMG4593F1389,Hiscox Ltd. Registered Shares LS 0.065,BM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,797
-DE0006070006,HOCHTIEF AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,799
-GB0005576813,Howden Joinery Group PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,801
-GB0005405286,HSBC Holdings PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,803
-DE000A1PHFF7,HUGO BOSS AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,805
-FI0009000459,Huhtamäki Oyj Registered Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,807
-SE0001662230,Husqvarna AB Namn-Aktier B SK 100,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,809
-ES0144580Y14,Iberdrola S.A. Acciones Port. EO -.75,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,811
-SE0000652216,ICA Gruppen AB Aktier SK 2.50,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,813
-FR0000035081,Icade S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,815
-GB00B06QFB75,IG Group Holdings PLC Registered Shares LS 0.00005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,817
-FR0004035913,Iliad S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,819
-NL0010801007,IMCD N.V. Aandelen op naam EO -.16,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,821
-FR0000120859,IMERYS S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,823
-GB00BGLP8L22,IMI PLC Registered Shares LS 0.2857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,824
-GB0004544929,Imperial Brands PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,827
-GB00B61TVQ02,Inchcape PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,829
-GB00BRS65X63,Indivior PLC Registered Shares DL 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,831
-ES0148396007,Industria de Diseño Textil SA Acciones Port. EO 0.03,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,833
-SE0000190126,Industrivärden AB Namn-Aktier A (fria) o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,835
-DE0006231004,Infineon Technologies AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,837
-GB00BMJ6DW54,Informa PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,839
-NL0011821202,"ING Groep N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,841
-FR0000125346,Ingenico Group S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,843
-GB00B09LSH68,Inmarsat PLC Registered Shares EO 0.0005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,844
-DE000A2AADD2,innogy SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,847
-GB00BD8QVH41,InterContinental Hotels Group Reg.Shares LS - .198095238,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,849
-GB00BYT1DJ19,Intermediate Capital Grp PLC Registered Shares LS - .2625,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,851
-ES0177542018,Internat. Cons. Airl. Group SA Acciones Nom. EO -.50,ES,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,853
-GB0031638363,Intertek Group PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,855
-IT0000072618,Intesa Sanpaolo S.p.A. Azioni nom. EO 0.52,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,857
-SE0000936478,Intrum Justitia AB Namn-Aktier SK -.02,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,859
-GB0006834344,Intu Properties PLC Registered Shares LS 0.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,861
-GB00B17BBQ50,Investec PLC Registered Shares LS 0.0002,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,863
-SE0000107419,Investor AB Namn-Aktier B (fria) SK 6.25,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,865
-FR0010259150,Ipsen S.A. Actions au Porteur EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,867
-DK0060542181,ISS AS Indehaver Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,869
-IT0005211237,Italgas S.P.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,871
-GB0033986497,ITV PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,884
-JE00BYVQYS01,IWG PLC Registered Shares LS 0.01,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,886
-FR0000077919,JCDecaux S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,888
-PTJMT0AE0001,"Jerónimo Martins, SGPS, S.A. Acções Nominativas EO 1",PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,890
-SE0000806994,JM AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,892
-GB00B5N0P849,John Wood Group PLC Registered Shares LS 0.042857143),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,894
-GB00BZ4BQC70,"Johnson, Matthey PLC Registered Shares LS 1.101698",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,896
-CH0102484968,Julius Baer Gruppe AG Namens-Aktien SF -.02,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,898
-GB00B53P2009,Jupiter Fund Management PLC Registered Shares LS 0.023),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,900
-GB00BKX5CN86,Just-Eat PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,902
-DK0010307958,Jyske Bank A/S Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,904
-DE000KSAG888,K+S Aktiengesellschaft Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,906
-BE0003565737,KBC Groep N.V. Parts Sociales Port. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,908
-FR0000121485,Kering S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,910
-IE0004906560,Kerry Group PLC Registered Shares A EO -.125,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,912
-FI0009000202,Kesko Oyj Registered Shares Cl. B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,914
-GB0033195214,Kingfisher PLC Reg. Shares LS -.157142857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,916
-IE0004927939,Kingspan Group PLC Registered Shares EO -.13,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,918
-SE0008373906,Kinnevik AB Namn-Aktier B SK 0.10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,920
-DE000KGX8881,KION GROUP AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,922
-FR0000121964,Klépierre S.A. Actions Port. EO 1.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,924
-CZ0008019106,Komercní Banka AS Inhaber-Aktien KC 100,CZ,CZK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,926
-NL0000852580,Kon. Boskalis Westminster N.V. Cert.v.Aandelen EO 0.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,928
-NL0000009082,Kon. KPN N.V. Aandelen aan toonder EO 0.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,930
-FI0009013403,KONE Corp. (New) Registered Shares Cl.B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,932
-NL0000009827,Koninklijke DSM N.V. Aandelen op naam EO 1.50,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,934
-NL0000009538,Koninklijke Philips N.V. Aandelen aan toonder EO 0.20,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,936
-NL0009432491,Koninklijke Vopak N.V. Aandelen aan toonder EO 0.50,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,938
-CH0025238863,Kühne & Nagel Internat. AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,940
-SE0000108847,L E Lundbergföretagen AB Namn-Aktier B (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,942
-GB00B0ZSH635,Ladbrokes Coral Group PLC Registered Shares LS 0.283333),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,944
-CH0012214059,LafargeHolcim Ltd. Namens-Aktien SF 2,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,946
-FR0000130213,Lagardère S.C.A. Actions Nom. EO 6.10,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,948
-GB00BYW0PQ60,Land Securities Group PLC Registered Shares LS 0.106666,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,950
-DE0005470405,LANXESS AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,952
-DE000LEG1110,LEG Immobilien AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,954
-FR0010307819,Legrand S.A. Actions au Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,958
-IT0003856405,Leonardo S.p.A. Azioni nom. EO 4.40,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,960
-DE0006483001,Linde AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,962
-GB0008706128,Lloyds Banking Group PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,964
-CH0025751329,Logitech International S.A. Namens-Aktien SF 0.25,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,966
-GB00B0SWJX34,London Stock Exchange GroupPLC Reg. Shares LS 0.069186047,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,968
-CH0013841017,Lonza Group AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,970
-SE0002683557,Loomis AB Namn-Aktier Series B o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,972
-SE0000825820,Lundin Petroleum AB Namn-Aktier SK -.01,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,974
-IT0001479374,Luxottica Group S.p.A. Azioni nom. EO 0.06,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,976
-FR0000121014,LVMH Moët Henn. L. Vuitton SE Actions Port. (C.R.) EO 0.3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,978
-GB00B83VD954,Man Group PLC Reg. Shares DL 0.03428571,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,980
-DE0005937007,MAN SE Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,982
-ES0124244E34,Mapfre S.A. Acciones Nom. EO -.10,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,994
-NO0003054108,Marine Harvest ASA Navne-Aksjer NK 7.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,996
-GB0031274896,Marks & Spencer Group PLC Registered Shares LS 0.253),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,998
-GB00B8HX8Z88,Mediclinic International PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1002
-IT0000062957,Mediobanca - Bca Cred.Fin. SpA Azioni nom. EO 0.50,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1004
-GB0005758098,Meggitt PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1006
-GB00BZ1G4322,Melrose Industries PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1008
-DE0006599905,Merck KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1010
-GB00BDZT6P94,Merlin Entertainment PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1012
-ES0105025003,Merlin Properties SOCIMI S.A. Acciones Nominativas EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1014
-DE000BFB0019,METRO AG Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1016
-GB00BZ6STL67,Metro Bank PLC Registered Shares LS 0.000001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1018
-FI0009007835,Metso Corp. Registered Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1020
-GB00BD8YWM01,Micro Focus International PLC Registered Shares LS - .10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1022
-IT0004965148,Moncler S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1024
-GB00B1CRLC47,Mondi PLC Registered Shares EO -.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1026
-GB00B1ZBKY84,Moneysupermarket.com Group PLC Registered Shares LS -.02,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1028
-GB0006043169,"Morrison Supermarkets PLC, Wm. Registered Shares LS -.10",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1030
-DE000A0D9PT0,MTU Aero Engines AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1032
-DE0008430026,Münchener Rückvers.-Ges. AG vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1034
-GB00BDR05C01,National Grid PLC Reg. Shares LS 0.12431289,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1036
-FR0000120685,Natixis S.A. Actions Port. EO 11.20,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1038
-SE0000117970,NCC AB Namn-Aktier B (fria) SK 8,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1040
-FI0009013296,Neste Oyj Registered Shs o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1042
-CH0038863350,Nestlé S.A. Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1044
-DK0060745370,Nets A/S Ihændehaver-Aktier DK1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1046
-GB00BZ02MH16,Nex Group PLC Registered Shares LS 0.175,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1048
-GB0032089863,NEXT PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1050
-SE0008321293,NIBE Industrier AB Namn-Aktier B o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1052
-NL0010773842,NN Group N.V. Aandelen aan toonder EO -.12,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1054
-FI0009000681,Nokia Oyj Registered Shares EO 0.06,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1056
-FI0009005318,Nokian Renkaat Oyj Registered Shares EO 0.2,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1058
-SE0000427361,Nordea Bank AB Namn-Aktier EO 0.40,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1060
-NO0005052605,Norsk Hydro ASA Navne-Aksjer NK 1.098,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1062
-CH0012005267,Novartis AG Namens-Aktien SF 0.50,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1064
-DK0060534915,Novo-Nordisk AS Navne-Aktier B DK -.20,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1066
-DK0060336014,Novozymes A/S Navne-Aktier B DK 2,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1068
-CH0000816824,OC Oerlikon Corporation AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1070
-GB00B3MBS747,Ocado Group PLC Registered Shares LS 0.02,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1071
-GB00B77J0862,Old Mutual PLC Reg.Shares LS-.114285714,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1074
-AT0000743059,OMV AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1076
-BE0974276082,Ontex Group N.V. Actions Nom. EO -.01,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1078
-FR0000133308,Orange S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1080
-FI0009014377,Orion Corp. Registered Shares Cl.B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1082
-NO0003733800,Orkla ASA Navne-Aksjer NK 1.25,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1084
-FR0000184798,Orpea Actions Port. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1086
-FR0000120321,"Oréal S.A., L’ Actions Port. EO 0.2",FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1088
-DE000LED4000,OSRAM Licht AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1090
-FI0009002422,Outokumpu Oyj Registered Shares Cl.A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1092
-IE00BWT6H894,Paddy Power Betfair PLC Registered Shares EO -.09,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1094
-DK0060252690,Pandora A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1105
-CH0021783391,Pargesa Holding S.A. Inhaber-Aktien SF 20,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1107
-CH0024608827,Partners Group Holding AG Namens-Aktien SF -.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1109
-GB0034264548,Paysafe Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1111
-GB0006776081,Pearson PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1113
-GB00B18V8630,Pennon Group PLC Registered Shares New LS -.407,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1115
-FR0000120693,Pernod-Ricard S.A. Actions Port. (C.R.) o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1117
-GB0006825383,Persimmon PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1119
-FR0000121501,Peugeot S.A. Actions Port. (C.R.) EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1121
-NL0011821392,Philips Lighting N.V. Registered Shares EO 0.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1123
-KYG7091M1096,Phoenix Group Holdings Registered Shares EO-.0001,KY,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1125
-IM00B7S9G985,Playtech PLC Registered Shares LS -.01,IM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1127
-JE00B6T5S470,Polymetal Intl PLC Registered Shares o.N.,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1129
-DE000PAH0038,Porsche Automobil Holding SE Inhaber-Vorzugsaktien o.St.o.N,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1131
-IT0003796171,Poste Italiane S.p.A. Azioni nom. EO 0.51,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1133
-NL0009739416,PostNL N.V. Aandelen aan toonder EO 0.08,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1135
-DE000PSM7770,ProSiebenSat.1 Media SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1137
-GB00B1Z4ST84,Provident Financial PLC Registered Shs LS 0.178683393),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1139
-BE0003810273,Proximus S.A. Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1141
-GB0007099541,Prudential PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1143
-IT0004176001,Prysmian S.p.A. Azioni nom. EO 0.10,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1145
-CH0018294154,PSP Swiss Property AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1147
-FR0000130577,Publicis Groupe S.A. Actions Port. EO 0.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1149
-NL0012169213,"Qiagen N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1151
-AT0000606306,Raiffeisen Bank Intl AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1153
-GB00B01C3S32,Randgold Resources Ltd. Registered Shares DL -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1155
-NL0000379121,Randstad Holding N.V. Aandelen aan toonder EO 0.10,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1157
-GB00B24CGK77,Reckitt Benckiser Group Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1159
-IT0003828271,Recordati - Ind.Chim.Farm. SpA Azioni nom. EO 0.125,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1161
-ES0173093024,Red Electrica Corporacion S.A. Acciones Port. EO -.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1163
-NL0006144495,Relx N.V. Aandelen op naam EO 0.07,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1165
-GB00B2B0DG97,Relx PLC Registered Shares LS -.144397,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1167
-FR0000131906,Renault S.A. Actions Port. EO 3.81,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1169
-GB00B082RF11,Rentokil Initial PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1171
-ES0173516115,Repsol S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1173
-FR0010451203,Rexel S.A. Actions au Porteur EO 5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1175
-DE0007030009,Rheinmetall AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1177
-GB00B2987V85,Rightmove PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1179
-GB0007188757,Rio Tinto PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1181
-GB00B63H8491,Rolls Royce Holdings PLC Registered Shares LS 0.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1183
-GB00BVFNZH21,Rotork PLC Registered Shares LS 0.005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1185
-GB00B7T77214,"Royal Bk of Scotld Grp PLC,The Registered Shares LS 1",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1187
-GB00B03MLX29,Royal Dutch Shell Reg. Shares Class A EO -.07,GB,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1189
-GB00BDVZYZ77,Royal Mail PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1191
-GB0007197378,RPC Group PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1192
-GB00BKKMKR23,RSA Insurance Group PLC Registered Shares LS 1,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1195
-LU0061462528,RTL Group S.A. Actions au Porteur o.N.,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1197
-FR0013269123,Rubis S.C.A. Actions Port. Nouv. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1199
-DE0007037129,RWE AG Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1201
-IE00BYTBXV33,Ryanair Holdings PLC Registered Shares EO -.006,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1203
-SE0000112385,Saab AB Namn-Aktier B SK 25,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1205
-FR0000073272,SAFRAN Actions Port. EO 0.20,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1216
-GB00BLT1Y088,Saga PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1218
-GB00B8C3BL03,"Sage Group PLC, The Registered Shares LS-.01051948",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1220
-GB00B019KW72,"Sainsbury PLC, J. Registered Shs LS -.28571428",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1222
-IT0005252140,Saipem S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1224
-FI0009003305,Sampo OYJ Registered Shares Cl.A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1226
-SE0000667891,Sandvik AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1228
-FR0000120578,Sanofi S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1230
-DE0007164600,SAP SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1232
-DE0007165631,Sartorius AG Vorzugsaktien o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1234
-NL0000360618,SBM Offshore N.V. Aandelen op naam EO -.25,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1236
-DE000SHA0159,Schaeffler AG Inhaber-Vorzugsakt.o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1238
-NO0003028904,Schibsted ASA Navne-Aksjer A NK -.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1240
-FR0000121972,Schneider Electric SE Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1242
-GB0002405495,Schroders PLC Registered Shares LS 1,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1244
-FR0010411983,SCOR SE Act.au Porteur EO 7.8769723,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1246
-DE000A12DM80,Scout24 AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1248
-FR0000121709,SEB S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1250
-SE0000163594,Securitas AB Namn-Aktier B SK 1,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1252
-GB00B5ZN1N88,Segro PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1254
-LU0088087324,SES S.A. Bearer FDRs (rep.Shs A) o.N.,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1256
-GB00B1FH8J72,Severn Trent PLC Registered Shares LS -.9789,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1258
-CH0002497458,SGS S.A. Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1260
-GB0007990962,Shaftesbury PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1262
-JE00B2QKY057,Shire PLC Registered Shares LS -.05,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1264
-DE0007236101,Siemens AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1266
-ES0143416115,Siemens Gamesa Renew. En. S.A. Acciones Port. EO 0.173),ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1268
-CH0000587979,Sika AG Inhaber-Aktien SF 0.60,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1270
-DK0060495240,SimCorp A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1272
-SE0000148884,Skandinaviska Enskilda Banken Namn-Aktier A (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1274
-SE0000113250,Skanska AB Namn-Aktier B (fria) SK 3,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1276
-SE0000108227,SKF AB Namn-Aktier B SK 0.625,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1278
-GB0001411924,Sky PLC Registered Shares LS -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1280
-GB0009223206,Smith & Nephew PLC Registered Shares DL -.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1282
-GB00B1WY2338,Smiths Group PLC Registered Shares LS -.375,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1284
-IE00B1RR8406,Smurfit Kappa Group PLC Registered Shares EO -.001,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1286
-IT0003153415,Snam S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1288
-FR0000120966,Société Bic S.A. Actions Port. EO 3.82,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1290
-FR0000130809,Société Générale S.A. Actions Port. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1292
-FR0000121220,Sodexo S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1294
-DE000A2GS401,Software AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1296
-BE0003470755,Solvay S.A. Actions au Porteur A o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1298
-CH0012549785,Sonova Holding AG Namens-Aktien SF 0.05,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1300
-FR0000050809,Sopra Steria Group S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1302
-GB0003308607,Spectris PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1304
-FR0012757854,Spie S.A. Actions Nom. EO 0.47,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1306
-GB00BWFGQN14,Spirax-Sarco Engineering PLC Reg. Shares LS 0.269230763),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1308
-GB0007908733,SSE PLC Shs LS-.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1310
-GB00BNGWY422,SSP Group PLC Registered Shares (WI) LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1312
-GB0007669376,St. James's Place PLC Registered Shares LS -.15,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1314
-DE0007251803,STADA Arzneimittel AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1316
-GB0004082847,Standard Chartered PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1328
-GB00BVFD7Q58,Standard Life Aberdeen PLC Registered Shares LS 0.1222222,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1330
-NO0010096985,Statoil ASA Navne-Aksjer NK 2.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1332
-NL0011375019,Steinhoff Internatl Hldgs N.V. Aandelen op naam EO - .50,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1334
-NL0000226223,STMicroelectronics N.V. Aandelen aan toonder EO 1.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1336
-FI0009005961,Stora Enso Oyj Reg. Shares Cl.R EO 1.70,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1338
-NO0003053605,Storebrand ASA Navne-Aksjer NK 5,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1340
-CH0012280076,Straumann Holding AG Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1342
-LU0075646355,Subsea 7 S.A. Registered Shares DL 2,LU,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1344
-FR0010613471,Suez S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1346
-CH0267291224,Sunrise Communications Gr. AG Nam.-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1348
-SE0000112724,Svenska Cellulosa AB Namn-Aktier B (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1350
-SE0007100599,Svenska Handelsbanken AB Namn-Aktier A (fria) SK 1.433,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1352
-CH0012255151,"Swatch Group AG, The Inhaber-Aktien SF 2.25",CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1354
-SE0000242455,Swedbank AB Namn-Aktier A o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1356
-SE0000310336,Swedish Match AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1358
-SE0000872095,Swedish Orphan Biovitrum AB Namn-Aktier SK 1,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1360
-CH0014852781,Swiss Life Holding AG Namens-Aktien SF 5.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1362
-CH0008038389,Swiss Prime Site AG Nam.-Aktien SF 15.3,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1364
-CH0126881561,Swiss Re AG Namens-Aktien SF -.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1366
-CH0008742519,Swisscom AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1368
-DK0010311471,Sydbank AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1370
-DE000SYM9999,Symrise AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1372
-GB0008754136,Tate & Lyle PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1374
-GB0008782301,Taylor Wimpey PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1376
-DK0060228559,TDC A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1378
-GB00BDSFG982,TechnipFMC PLC Registered Shares DL 1,GB,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1380
-SE0005190238,Tele2 AB Namn-Aktier B SK -.625,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1382
-IT0003497168,Telecom Italia S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1384
-SE0000108656,Telefonaktiebolaget L.M.Erics. Namn-Aktier B (fria) o.N.3),SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1386
-DE000A1J5RX9,Telefónica Deutschland Hldg AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1388
-ES0178430E18,Telefónica S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1390
-BE0003826436,Telenet Group Holding N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1392
-NO0010063308,Telenor ASA Navne-Aksjer NK 6,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1394
-SE0000667925,Telia Company AB Namn-Aktier SK 3.20,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1396
-CH0012453913,Temenos Group AG Nam.-Aktien SF 5,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1398
-LU0156801721,Tenaris S.A. Actions Nom. DL 1,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1400
-IT0003242622,Terna Rete Elettrica Nazio.SpA Azioni nom. EO 0.22,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1402
-GB0008847096,Tesco PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1404
-NO0003078800,TGS Nopec Geophysical Co. ASA Navne-Aksjer NK 0.25,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1406
-FR0000121329,THALES S.A. Actions Port. (C.R.) EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1408
-DE0007500001,ThyssenKrupp AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1410
-FR0000120271,Total S.A. Actions au Porteur EO 2.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1412
-GB00B1H0DZ51,TP ICAP PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1413
-GB0007739609,Travis Perkins PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1415
-SE0000114837,Trelleborg AB Namn-Aktier B (fria) SK 25,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1418
-DK0060636678,Tryg AS Navne-Aktier DK 5,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1420
-DE000TUAG000,TUI AG Namens-Aktien o.N.,DE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1422
-GB0001500809,Tullow Oil PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1423
-FR0000051807,Téléperformance SE Actions Port. EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1426
-FR0000054470,Ubisoft Entertainment S.A. Actions Port. EO 0.0775,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1428
-JE00BD9WR069,UBM PLC Reg. Shares LS -.1125,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1439
-CH0244767585,UBS Group AG Namens-Aktien SF -.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1441
-BE0003739530,UCB S.A. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1443
-IE0033024807,UDG Healthcare PLC Registered Shares EO 0.05,IE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1445
-BE0974320526,Umicore S.A. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1447
-FR0000124711,Unibail-Rodamco SE Actions Port. EO 5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1449
-IT0005239360,UniCredit S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1451
-NL0000009355,"Unilever N.V. Cert.v.Aandelen EO-,16",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1453
-GB00B10RZP78,Unilever PLC Registered Shares LS -.031111,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1455
-IT0003487029,Unio.di Banche Italiane S.p.A. Azioni nom. EO 2.50,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1457
-DE000UNSE018,Uniper SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1459
-IT0004827447,UnipolSai Assicurazioni S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1461
-DE0005089031,United Internet AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1463
-GB00B39J2M42,United Utilities Group PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1465
-FI0009005987,UPM Kymmene Corp. Registered Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1467
-FR0013176526,Valéo S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1469
-FR0000124141,Veolia Environnement S.A. Actions au Porteur EO 5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1471
-DK0010268606,Vestas Wind Systems AS Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1473
-GB0009292243,Victrex PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1475
-CH0364749348,Vifor Pharma AG Nam.-Akt. SF 0.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1477
-FR0000125486,VINCI S.A. Actions Port. EO 2.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1479
-ES0184262212,Viscofan S.A. Acciones Port. EO 0.70,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1481
-FR0000127771,Vivendi S.A. Actions Port. EO 5.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1483
-GB00BH4HKS39,Vodafone Group PLC Registered Shares DL 0.2095238,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1485
-AT0000937503,voestalpine AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1487
-DE0007664039,Volkswagen AG Vorzugsaktien o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1489
-SE0000115446,"Volvo (publ), AB Namn-Aktier B (fria) o.N.",SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1491
-DE000A1ML7J1,Vonovia SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1493
-GB0009465807,"Weir Group PLC, The Registered Shares LS 0.125",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1495
-FR0000121204,Wendel S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1497
-GB00B2PDGW16,WH Smith PLC Registered Shares LS-.220895,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1499
-GB00B1KJJ408,Whitbread PLC Reg. Shares LS -.76797385,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1501
-AT0000831706,Wienerberger AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1503
-DK0060738599,William Demant Hldg AS Navne Aktier A DK 0.2,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1505
-GB0031698896,William Hill PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1507
-DE0007472060,Wirecard AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1509
-NL0000395903,Wolters Kluwer N.V. Aandelen op naam EO 0.12,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1511
-GB00BYYK2V80,Worldpay Group Plc Registered Shares LS 1,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1513
-JE00B8KF9B49,WPP PLC Registered Shares LS -.10,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1515
-FI0009003727,Wärtsilä Corp. Reg. Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1517
-NO0010208051,Yara International ASA Navne-Aksjer NK 1.70,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1519
-DE000ZAL1111,Zalando SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1521
-FR0000125684,Zodiac Aerospace Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1523
-CH0011075394,Zurich Insurance Group AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1525
-BE0974256852,Établissements Fr. Colruyt SA Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1527
+isin,nom,pais,moneda,data_informe,fitxer_font,pagina,linia_txt,primer_any,darrer_any,anys_observats,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,altres_isin,altres_noms,nota_identitat
+GB00B1YW4409,3i Group PLC Registered Shares LS -.738636,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,226,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0010244508,A.P.Møller-Mærsk A/S Navne-Aktier B DK 1000,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,228,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0001233417,A2A S.p.A. Azioni nom. EO 0.52,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,230,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+GB00BMSKPJ95,AA PLC Registered Shares LS 0.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,231,2015,2017,3,C,C,C,,,,,,,,,,,
+NL0000852564,Aalberts Industries N.V. Aandelen aan toonder EO 0.25,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,234,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Aalberts Industries N.V.,
+DE0005408116,Aareal Bank AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,236,2015,2019,5,C,C,C,C,V,,,,,,,,,
+CH0012221716,ABB Ltd. Namens-Aktien SF 0.12,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,238,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0111845014,Abertis Infraestructuras S.A. Acciones Nom. EO 3,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,240,2015,2018,4,C+V,C+V,C,V,,,,,,,,"ES0111845063
+ES0111845071",,
+NL0011540547,ABN AMRO Group N.V. Aand.op naam Dep.Rec./EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,242,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,ABN AMRO Group N.V.,
+FR0000120404,ACCOR S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,244,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0003764785,Ackermans & van Haaren N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,246,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0167050915,"ACS, Act.de Constr.y Serv. SA Acciones Port. EO -.50",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,248,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0012138605,Adecco Group AG Namens-Aktien SF 0.1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,250,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Adecco S.A.,
+DE000A1EWWW0,adidas AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,252,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B02J6398,Admiral Group PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,254,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BMG0112X1056,Aegon Ltd.,BM,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,NL0000303709,AEGON Ltd.; AEGON N.V.,Canvi de domicili als Bermudes el 2023; continuïtat de la mateixa empresa.
+ES0105046017,Aena SME S.A.,ES,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C+V,ES0105046009,AENA S.A.,
+BE0974264930,AGEAS SA/NV Actions Nominatives o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,260,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BK1PTB77,Aggreko PLC Registered Shares LS 0.04832911,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,261,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+NL0011794037,"Ahold Delhaize N.V., Konkinkl. Aandelen aan toonder EO 0.01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,264,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,NL0010672325,"Ahold Delhaize N.V., Konkinkl.; Ahold N.V., Kon.",Continuïtat d’Ahold amb canvi de nom a Ahold Delhaize. Delhaize anterior es conserva separat.
+FR001400J770,Air France-KLM S.A.,FR,,,,,,2015,2023,6,C,C,C,C,C,,,,C+V,,,FR0000031122,,
+FR0000120073,Air Liquide-SA Ét.Expl.P.G.Cl. Actions Port. EO 5.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,268,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0000235190,Airbus SE Aandelen op naam EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,270,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Airbus Group SE,
+NL0013267909,Akzo Nobel N.V.,NL,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,NL0000009132,,
+SE0000695876,Alfa Laval AB Namn-Aktier SK 2.5,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,274,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0008404005,Allianz SE vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,276,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE00BF0L3536,AIB Group PLC,IE,,,,,,2017,2025,6,,,C,C,C,,,,C,C,C,IE00BYSZ9G33,Allied Irish Banks PLC,Nova societat capçalera d’AIB el 2017.
+FR0010220475,Alstom S.A. Actions Port. EO 7,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,280,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0011333752,Altice N.V. Aandelen aan tonder A EO -.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,282,2015,2020,6,C+V,C,C,V,C,C,,,,,,"LU1014539529
+NL0011333760",Altice N.V.; Altice S.A.,Reorganització d’Altice SA en Altice NV el 2015. Altice USA es conserva separat.
+ES0109067019,Amadeus IT Group S.A. Acciones Port. EO 0.01,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,284,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Amadeus IT Holding S.A.,
+FI0009000285,Amer Sports Corp. Registered Shares Cl.A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,286,2015,2018,4,C,C,C,C,,,,,,,,,,
+AT0000A18XM4,ams AG Inhaber-Aktien o.N.,AT,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,288,2015,2023,9,C,C,C,C,C,C,C,C,C,,,,ams AG,
+FR0004125920,Amundi S.A. Actions au Porteur EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,290,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+AT0000730007,Andritz AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,292,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BTK05J60,Anglo American PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C+V,GB00B1XZS820,,
+BE0974293251,Anheuser-Busch InBev S.A./N.V. Actions au Port. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,296,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,BE0003793107,Anheuser-Busch InBev N.V./ S.A.,
+GB0000456144,Antofagasta PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,298,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+LU1598757687,ArcelorMittal S.A. Actions Nouvelles Nominat. oN,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,300,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,LU0323134006,,
+FR0010313833,Arkema S.A. Actions au Porteur EO 10,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,302,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+LU1673108939,Aroundtown SA Inhaber-Aktien EO 0.01,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,304,2017,2023,7,,,C,C,C,C,C,C,V,,,,,
+CH0043238366,Aryzta AG Namens-Aktien SF -.02,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,306,2015,2018,4,C,C,C,V,,,,,,,,,,
+GB0000536739,Ashtead Group PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,308,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0000334118,ASM International N.V. Bearer Shares EO 0.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,310,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0010273215,ASML Holding N.V. Aandelen op naam EO -.09,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,312,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0011872643,ASR Nederland N.V. Aandelen op naam EO -.16,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,7,314,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+SE0007100581,Assa-Abloy AB Namn-Aktier B SK -.33,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,326,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,SE0000255648,,
+IT0000062072,Assicurazioni Generali S.p.A. Azioni nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,328,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Assicurazioni Generali S.p.A.,
+GB0006731235,Associated British Foods PLC Registered Shares LS - .0568,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,330,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0009895292,AstraZeneca PLC Registered Shares DL -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,332,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Astrazeneca PLC,
+IT0003506190,Atlantia S.p.A. Azioni Nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,334,2015,2022,8,C,C,C,C,C,C,C,C,,,,,,
+SE0017486889,Atlas Copco AB,SE,,,,,,2015,2025,11,C+V,C,C,C+V,C,C,C,C+V,C,C,C,"SE0000101032
+SE0006886750
+SE0011166610",,
+FR0000051732,Atos SE Actions au Porteur EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,338,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+DE0006766504,Aurubis AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,340,2017,2025,7,,,C,C,V,,,C,C,C,C,,,
+GB00BVYVFW23,Auto Trader Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,342,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BPQY8M80,Aviva PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,GB0002162385,,
+FR0000120628,AXA S.A. Actions Port. EO 2.29,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,346,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005501357,Axel Springer SE vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,348,2015,2019,5,C,C,C,C,V,,,,,,,DE000A2YPGA9,,
+IT0003261697,Azimut Holding S.p.A. Azioni nom. EUR o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,350,2015,2025,7,C,C,C,V,,,,,C,C,C,,,
+FR0010340141,Aéroports de Paris S.A. Actions au Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,352,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+LU1072616219,B & M Europ.Value Retail S.A. Actions Nominatives LS 0.103),LU,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,354,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0009697037,Babcock International Grp PLC Registered Shares LS - .60,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,356,2015,2025,5,C,C,C,C,,,,,,,C,,,
+GB0002634946,BAE Systems PLC Registered Shares LS -.025,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,358,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0000961622,Balfour Beatty PLC Registered Shares LS -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,360,2015,2025,9,C,C,C,C,C,,,C,C,C,C,,,
+ES0113211835,Banco Bilbao Vizcaya Argent. Acciones Nom. EO 0.49,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,362,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0005218380,Banco BPM S.p.A. Azioni o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,364,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+ES0113860A34,"Banco de Sabadell S.A. Acciones Nom. Serie A EO - ,125",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,366,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0113900J37,Banco Santander S.A. Acciones Nom. EO 0.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,368,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,ES0113902300,,
+IE00BD1RP616,Bank of Ireland Group PLC Registered Shares EO 1,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,370,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,IE0030606259,Bank of Ireland (The Gov.&Co.),Nova societat capçalera i consolidació de les accions el 2017.
+ES0113307062,BANKIA S.A. Acciones Nom.Para Contras.EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,372,2015,2019,5,C,C,C+V,C,C,,,,,,,ES0113307021,,
+ES0113679I37,"Bankinter S.A. Acciones Nom. EO -,30",ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,374,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0031348658,Barclays PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,376,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0000811801,Barratt Developments PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,378,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Barratt Developments PLC,
+CH0009002962,Barry Callebaut AG Namensaktien SF 7.29,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,380,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000BASF111,BASF SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,382,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000BAY0017,Bayer AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,384,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005190003,Bayerische Motoren Werke AG Stammaktien EO 1,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,386,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0038389992,BB Biotech AG Namens-Aktien SF 0.20,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,387,2015,2019,5,C,C,C,C,C,,,,,,,,,
+GB00BKDM7X41,Signature Aviation PLC,GB,,,,,,2015,2021,7,C+V,C,C,C,C,C,V,,,,,"GB00B1FP8915
+GB00BYNFF825",BBA Aviation PLC,Continuïtat de BBA Aviation; canvi de nom i consolidació de capital el 2019.
+GB00BYQ0JC66,Beazley PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,392,2015,2025,11,C,C,C,C,C,C,V,C,C,C,C,JE00B64G9089,,
+DE0005200000,Beiersdorf AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,394,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0000904986,Bellway PLC Registered Shares LS -.125,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,396,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BP0RGD03,Berkeley Group Holdings PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C+V,C,"GB00B02L3W35
+GB00BLJNXL82",,
+GB00BH0P3Z91,BHP Group PLC,GB,,,,,,2015,2021,7,C,C,C,C,C,C,C,,,,,GB0000566504,BHP Billiton PLC,Canvi de nom de BHP Billiton PLC i d’ISIN el 2018.
+SE0000862997,BillerudKorsnäs AB Namn-Aktier SK 12.50,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,402,2015,2023,8,C,C,C,V,,C,C,C+V,C,,,SE0018015653,BillerudKorsnäs AB,
+FR0013280286,bioMerieux Actions au Porteur (P.S.) o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,404,2017,2025,9,,,C+V,C,C,C,C,C,C,C,C,FR0010096479,,
+FR0000131104,BNP Paribas S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,406,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0020050417,Boliden AB,SE,,,,,,2015,2025,11,C,C,C,C+V,C+V,C,C+V,C+V,C+V,C,C,"SE0000869646
+SE0011088665
+SE0012455673
+SE0015811559
+SE0017768716",,
+FR0000039299,Bolloré S.A. Actions Port. EO 0.16,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,410,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Bolloré S.A.,
+ES0115056139,Bolsas y Mercados Espanoles Acciones Nominativas EO 3,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,412,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+GB00B01TND91,Booker Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,414,2015,2017,3,C,C,C,,,,,,,,,,,
+FR0000120503,Bouygues S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,416,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0007980591,BP PLC Registered Shares DL -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,418,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0000066123,BPER Banca S.p.A. Azioni nom. EO 3,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,420,2015,2025,7,C,C,C,V,,,,,C,C,C,,Bca Pop. Emilia Romagna SCaRL,
+BE0974268972,bpost S.A. Actions Nom. Compartm. A o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,422,2015,2018,4,C,C,C,V,,,,,,,,,,
+DE000A1DAHH0,Brenntag AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,424,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Brenntag AG,
+GB0002875804,British American Tobacco PLC Registered Shares LS - .25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,8,426,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0001367019,"British Land Co. PLC, The Registered Shares LS -.25",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,437,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B0N8QD54,Britvic PLC Registered Shares LS -.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,439,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,,,
+GB0030913577,BT Group PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,441,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0001001592,BTG PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,443,2015,2019,5,C,C,C,C,V,,,,,,,,,
+GB00B0744B38,Bunzl PLC Registered Shares LS -.3214857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,445,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0031743007,Burberry Group PLC Registered Shares LS-.0005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,447,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0006174348,Bureau Veritas SA Actions au Porteur EO -.12,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,449,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+AT00BUWOG001,BUWOG AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,451,2017,2018,2,,,C,V,,,,,,,,,,
+CH0012410517,Bâloise Holding AG Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,453,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0140609019,Caixabank S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,455,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000125338,Capgemini SE Actions Port. EO 8,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,457,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Cap Gemini S.A.,
+GB00B23K0M20,Capita PLC Reg. Shares LS -.02066666,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,459,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+GB00B62G9D36,Capital & Counties Propert.PLC Registered Shares LS 0.253),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,461,2015,2025,6,C,C,C,V,,,,,,C,C,,Capital & Counties Propert.PLC,
+DK0010181759,Carlsberg AS Navne-Aktier B DK 20,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,463,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0031215220,Carnival PLC Registered Shares DL 1.66,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,465,2015,2025,8,C,C,C,C,C,C,C,,,,C,,,
+FR0000120172,Carrefour S.A. Actions Port. EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,467,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000125585,"Casino,Guichard-Perrachon S.A. Actions Port. EO 1.53",FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,469,2015,2019,5,C,C,C,V,C,,,,,,,,,
+SE0000379190,Castellum AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,471,2015,2025,11,C,C+V,C,C,C,C,C,C,C+V,C,C,"SE0008374169
+SE0020202745",,
+ES0105066007,Cellnex Telecom S.A. Acciones Port. EO 0.25,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,473,2016,2025,10,,C,C,C,C,C+V,C,C,C,C,C,"ES0105066023
+ES0105066031",,
+CH0225173167,Cembra Money Bank AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,475,2017,2025,8,,,C,C,C,C,V,,C,C,C,,,
+JE00B5TT1872,Centamin PLC Registered Shares o.N.,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,477,2016,2020,4,,C,C,V,,C,,,,,,,,
+GB00B033F229,Centrica PLC Reg. Shares LS -.061728395,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,479,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CZ0005112300,CEZ AS Inhaber-Aktien KC 100,CZ,CZK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,481,2015,2018,4,C,C,C,V,,,,,,,,,,
+CH0010570759,Chocoladef. Lindt & Sprüngli vink.Namens-Aktien SF 100,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,483,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+FR0000130403,Christian Dior SE Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,485,2015,2025,11,C,C,C,C,C,V,C,C,C,C,C,,,
+DK0060227585,Christian Hansen Holding AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,487,2015,2023,9,C,C,C,C,C,C,C,C,C,,,,,
+CH0210483332,Cie Financière Richemont AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,489,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Cie Financière Richemont AG,
+FR001400AJ45,Cie Génle Éts Michelin SCpA,FR,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,FR0000121261,,
+CH0012142631,Clariant AG Namens-Aktien SF 3.70,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,493,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0007668071,Close Brothers Group PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,495,2015,2023,9,C,C,C,C,C,C,C,C,V,,,,,
+NL0010545661,"CNH Industrial N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,497,2015,2023,9,C,C,C,C,C,C,C,C,C,,,,,
+FR0000120222,CNP Assurances S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,499,2015,2022,8,C,C,C,C,C,C,V,V,,,,,,
+GB00B07KD360,Cobham PLC Registered Shares LS 0.025,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,501,2015,2019,5,C,C+V,C+V,C,C,,,,,,,"GB00BDH3GF90
+GB00BZBVN745",,
+CH0198251305,Coca-Cola HBC AG Nam.-Aktien SF 6.70,CH,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,503,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0003593044,Cofinimmo S.A./N.V. Actions Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,505,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Cofinimmo S.A./ N.V.,
+DK0060448595,Coloplast AS Navne-Aktier B DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,507,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000CBK1001,Commerzbank AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,509,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000125007,Compagnie de Saint-Gobain S.A. Actions au Porteur (C.R.) EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,511,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000124570,Compagnie Plastic Omnium S.A. Actions Port. EO -.06,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,513,2016,2018,3,,C,C,C,,,,,,,,,,
+GB00BD6K4575,Compass Group PLC Registered Shares LS -.1105,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,515,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,GB00BLNN3L44,,
+DE0005439004,Continental AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,517,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BD3VFW73,ConvaTec Group PLC Registered Shares WI LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,519,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+DE0006062144,Covestro AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,521,2016,2024,9,,C,C,C,C,C,C,C,C,C,,,,
+CH0012138530,Credit Suisse Group AG Namens-Aktien SF -.04,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,523,2015,2023,9,C,C,C,C,C,C,C,C,V,,,,,
+IE0001827041,CRH PLC Registered Shares EO -.32,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,525,2015,2024,10,C,C,C,C,C,C,C,C,C,V,,,CRH PLC,
+GB00BJFFLV09,Croda International PLC,GB,,,,,,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,"GB0002335270
+GB00BYZWX769",,
+FR0000045072,Crédit Agricole S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,529,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BD6GN030,CYBG PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,530,2016,2024,9,,C,C,C,C,V,C,C,C,V,,,CYBG PLC,
+GB00BJQZC279,Daily Mail & General Trust PLC,GB,,,,,,2015,2019,5,C,C,C,C,V,,,,,,,GB0009457366,,
+DE0007100000,Daimler AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,535,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Daimler AG,
+FR0000120644,Danone S.A. Actions Port. EO 0.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,9,537,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0010274414,Danske Bank AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,548,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0014004L86,Dassault Aviation S.A.,FR,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,FR0000121725,,
+FR0014003TT8,Dassault Systemes SE,FR,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,FR0000130650,Dassault Systèmes S.A.,
+NL0015435975,Davide Campari-Milano N.V.,NL,,,,,,2015,2025,11,C,C,C+V,C,C,C+V,C,C,C,C,C,"IT0003849244
+IT0005252207",Davide Campari-Milano S.p.A.,Trasllat de domicili als Països Baixos el 2020.
+IE0002424939,DCC PLC Registered Shares EO -.25,IE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,556,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0002652740,Derwent London PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,558,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005140008,Deutsche Bank AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,560,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005810055,Deutsche Börse AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,562,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,DE000A2AA253,,
+DE0007480204,Deutsche EuroShop AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,564,2015,2017,3,C,C,C,,,,,,,,,,,
+DE0008232125,Deutsche Lufthansa AG vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,566,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005552004,Deutsche Post AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,568,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005557508,Deutsche Telekom AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,570,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A0HN5C6,Deutsche Wohnen SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,572,2015,2021,7,C+V,C,C,C,C,C,C,,,,,DE000A14KDD3,Deutsche Wohnen AG,
+GB0002374006,Diageo PLC Reg. Shares LS -.28935185,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,574,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0059822006,Dialog Semiconductor PLC Registered Shares LS -.10,GB,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,576,2015,2021,6,C,C,C,,C,C,V,,,,,,,
+GB00BY9D0Y18,Direct Line Insurance Grp PLC Reg.Shares LS- .109090909,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,578,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,V,GB00B89W0M42,,
+ES0126775032,Distribuidora Intl de Alim.SA Acciones Port. EO -.10,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,580,2015,2018,4,C,C,C,V,,,,,,,,,,
+GB00B4Y7R145,Dixons Carphone PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,582,2015,2018,4,C,C,C,V,,,,,,,,,,
+CH0126673539,DKSH Holding AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,584,2015,2025,9,C,C,C,C,V,,,C,C,C,C,,,
+NO0010161896,DNB Bank ASA,NO,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,NO0010031479,DNB ASA,Fusió intragrup de DNB ASA amb DNB Bank ASA el 2021.
+DK0060094928,DONG Energy A/S Indehaver Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,588,2016,2025,10,,C,C,C,C,C,C,C,C,C,C+V,DK0064307755,DONG Energy A/ S,
+CH0011795959,dormakaba Holding AG Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,590,2015,2018,4,C,C,C,V,,,,,,,,,dorma+kaba Holding AG,
+DE0005545503,Drillisch AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,592,2017,2019,3,,,C,C,V,,,,,,,,Drillisch AG,
+GB0008220112,DS Smith PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,594,2015,2024,10,C,C,C,C+V,C,C,C,C,C,C,,GB00BFML5W21,,
+DK0060079531,DSV A/S Indehaver Bonus-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,596,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,DSV Panalpina A/ S,
+CH0023405456,Dufry AG Nam.-Aktien SF 5,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,598,2015,2025,11,C,C,C,C,C,V,C,C,C,C,C,,Dufry AG; DUFRY AG,
+DE0005565204,Dürr AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,600,2015,2018,4,C,C,C,V,,,,,,,,,,
+DE000ENAG999,E.ON SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,602,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B7KR2P84,EasyJet PLC Registered Shares LS-.27285714,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,604,2015,2025,10,C,C,C,C,C,V,V,V,,C,C,,,
+FR0010908533,Edenred S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,606,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Edenred S.A.,
+PTEDP0AM0009,EDP - Energias de Portugal SA Acções Nom. EO 1,PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,608,2015,2025,11,C,C,C,C,C,C+V,C,C,C,C,C,PTEDP4AM0013,EDP - Energias de Portugal SA,
+FR0000130452,Eiffage S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,610,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0010242511,Electricité de France (E.D.F.) Actions au Porteur EO 0.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,612,2015,2022,8,C,C,C,C,C,C,C,C,,,,,,
+GB0003096442,Electrocomponents PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,614,2015,2025,10,V,,C,C,C,C,C,C,C,C,C,,Electrocomponents PLC,
+SE0016589188,"Electrolux, AB",SE,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,V,SE0000103814,,
+SE0000163628,Elekta AB Namn-Aktier B SK 2,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,618,2015,2025,11,C,C,C,C,C,C,C,C,C,C,V,,,
+FR0011950732,Elior Group SCA Actions au Port. EO -.01,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,620,2016,2018,3,,C,C,V,,,,,,,,,,
+FR0012435121,Elis S.A. Actions au Porteur EO 1.00,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,622,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+FI0009007884,Elisa Oyj Registered Shares Class A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,624,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0016440353,Ems-Chemie Holding AG Namens-Aktien SF -.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,626,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0130960018,Enagas S.A. Acciones Port. EO 1.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,628,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0130670112,Endesa S.A. Acciones Port. EO 1.20,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,630,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0003128367,ENEL S.p.A. Azioni nom. EO 1,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,632,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0010208488,Engie S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,634,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0003132476,ENI S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,636,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+AT0000652011,Erste Group Bank AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,638,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121667,Essilor Intl -Cie Génle Opt.SA Actions Port. EO 0.18,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,640,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Essilor Intl -Cie Génle Opt.SA,
+SE0009922164,Essity AB Namn-Aktier B,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,642,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+FR0000121121,Eurazeo SE Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,644,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Eurazeo S.A.,
+FR0014000MR3,Eurofins Scientific S.E.,FR,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,FR0000038259,,
+NL0006294274,Euronext N.V. Aandelen an toonder WI EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,10,648,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+FR0010221234,Eutelsat Communications Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,660,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+DE000EVNK013,Evonik Industries AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,662,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0012059018,EXOR N.V. Aandelen aan toonder o.N.,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,664,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,IT0001353140,EXOR S.p.A.,Fusió transfronterera i canvi de domicili el 2016.
+GB00B19NLV48,Experian PLC Registered Shares DL -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,666,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0011166974,Fabege AB,SE,,,,,,2016,2024,9,,C,C,C,C,C,C,C,C,V,,SE0000950636,,
+SE0017832488,Fastighets AB Balder,SE,,,,,,2016,2025,10,,C,C,C,C,C,C,C+V,C,C,C,SE0000455057,,
+FR0000121147,Faurecia S.A. Actions Port. EO 7,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,672,2015,2024,10,C,C,C,C,C,C,C,C,C,V,,,Faurecia S.A.; Faurecia SE,
+JE00BJVNSS43,Ferguson PLC,JE,,,,,,2015,2022,8,C,C,C,C+V,C+V,C,C,C,,,,"JE00BFNWV485
+JE00BFYFZP55",Wolseley PLC,
+NL0011585146,"Ferrari N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,676,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+NL0015001FS8,Ferrovial SE,NL,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,ES0118900010,Ferrovial S.A.,Reorganització de Ferrovial el 2023; mateix grup sota la nova capçalera.
+ES06189009A2,Ferrovial S.A. Anrechte,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,680,,,,,,,,,,,,,,,,,
+NL00150001Q9,Stellantis N.V.,NL,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,NL0010877643,Fiat Chrysler Automobiles N.V.,Continuïtat de Fiat Chrysler sota el nom Stellantis. Peugeot anterior es conserva separat.
+IT0000072170,Finecobank Banca Fineco S.p.A. Azioni nom. EO 0.33,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,684,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+CH1169151003,"Fischer AG, Georg",CH,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,CH0001752309,,
+CH0319416936,Flughafen Zürich AG Namens-Aktien SF 10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,688,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,CH0010567961,,
+FR0000064578,Foncière des Régions S.A. Actions Port. EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,690,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Foncière des Régions S.A.,
+FI0009007132,Fortum Oyj Registered Shares EO 3.40,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,692,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005773303,Fraport AG Ffm.Airport.Ser.AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,694,2015,2025,7,C,C,C,C,C,V,,,,,C,,,
+DE000A0Z2ZZ5,freenet AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,696,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005785802,Fresenius Medical Care KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,698,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Fresenius Medical Care KGaA,
+DE0005785604,Fresenius SE & Co. KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,700,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B2QPKJ12,Fresnillo PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,702,2015,2025,6,C,C,C,V,,C,,,,,C,,,
+DE0005790430,FUCHS PETROLUB SE Inhaber-Vorzugsakt. o.St.o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,704,,,,,,,,,,,,,,,,,
+GB00B01FLG62,G4S PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,706,2015,2020,6,C,C,C,C,C,C,,,,,,,,
+BE0003818359,Galapagos N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,708,2017,2021,5,,,C,C,C,C,C,,,,,,,
+PTGAL0AM0009,Galp Energia SGPS S.A. Acções Nominativas EO 1,PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,710,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0116870314,Gas Natural SDG S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,712,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Gas Natural SDG S.A.,
+DE0006602006,GEA Group AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,714,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0030170408,Geberit AG Nam.-Akt. (Dispost.) SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,716,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0010040865,Gecina S.A. Actions Nom. EO 7.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,718,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0000400653,Gemalto N.V. Aandelen EO 1,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,720,2015,2018,4,C,C,C,C,,,,,,,,,,
+DK0010272202,GENMAB AS Navne Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,722,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A0LD6E6,Gerresheimer AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,724,2015,2025,10,C,C,C,C,C,C,C,,C,C,V,,,
+SE0000202624,Getinge AB Namn-Aktier B (fria) SK 2,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,726,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,SE0010219766,,
+CH0010645932,Givaudan SA Namens-Aktien SF 10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,728,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NO0010582521,Gjensidige Forsikring ASA Navne-Aksjer NK 2,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,730,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0030646508,GKN PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,732,2015,2017,3,C,C,C,,,,,,,,,,,
+IE0000669501,Glanbia PLC Registered Shares EO 0.06,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,734,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BN7SWP63,GSK PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,GB0009252882,GlaxoSmithKline PLC,
+JE00B4T3BW64,Glencore PLC Registered Shares DL -.01,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,738,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0010272632,GN Store Nord AS Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,740,2015,2025,11,C,C,C,C,C,C,C,C,C,C,V,,,
+GB00BF5H9P87,Great Portland Estates PLC,GB,,,,,,2015,2020,6,C,C,C+V,C,C,V,,,,,,"GB00B01FLL16
+GB00BZ0XJR39",,
+GB00B0HZP136,Greene King PLC Registered Shares LS 0.125,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,744,2015,2019,4,C,C,C,,V,,,,,,,,,
+ES0171996087,Grifols S.A. Acciones Port. Class A EO -.25,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,746,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,ES0171996012,,
+FR0010533075,Groupe Eurotunnel SE Actions Port. EO -.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,748,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Groupe Eurotunnel SE,
+BE0003797140,Grpe Bruxelles Lambert SA(GBL) Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,750,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IM00B5VQMV65,GVC Holdings PLC Registered Shares EO 0.01,IM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,752,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,GVC Holdings PLC,
+SE0000106270,H & M Hennes & Mauritz AB Namn-Aktier B SK 0.125,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,754,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0010287234,H. Lundbeck A/S Navne-Aktier DK 5,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,756,2016,2020,5,,C,C,C,C,C,,,,,,,,
+GB0004052071,Halma PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,757,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0004065016,Hammerson PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,11,760,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+DE0008402215,Hannover Rück SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,772,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B1VZ0M25,Hargreaves Lansdown PLC Registered Shares DL-.004,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,774,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,,,
+GB0004161021,Hays PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,776,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,,,
+DE0006047004,HeidelbergCement AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,779,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,HeidelbergCement AG,
+NL0000008977,Heineken Holding N.V. Aandelen aan toonder EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,781,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0000009165,Heineken N.V. Aandelen aan toonder EO 1.60,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,783,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0466642201,Helvetia Holding AG,CH,,,,,,2015,2025,11,C,C,C,C,C+V,C,C,C,C,C,C,CH0012271687,,
+DE0006048432,Henkel AG & Co. KGaA Inhaber-Vorzugsaktien o.St.o.N,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,787,,,,,,,,,,,,,,,,,
+FR0000052292,Hermes International S.C.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,789,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Hermes International S.A.,
+SE0015961909,Hexagon AB,SE,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,SE0000103699,,
+SE0007074281,Hexpol AB Namn-Aktier B o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,793,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,SE0002452623,,
+GB00B0LCW083,Hikma Pharmaceuticals PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,795,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BMG4593F1389,Hiscox Ltd. Registered Shares LS 0.065,BM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,797,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0006070006,HOCHTIEF AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,799,2016,2025,8,,C,C,C,C,V,,,C,C,C,,,
+GB0005576813,Howden Joinery Group PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,801,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0005405286,HSBC Holdings PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,803,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A1PHFF7,HUGO BOSS AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,805,2015,2024,9,C,C,C,C,C,V,,C,C,C,,,,
+FI0009000459,Huhtamäki Oyj Registered Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,807,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0001662230,Husqvarna AB Namn-Aktier B SK 100,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,809,2015,2025,11,C,C,C,C,C,C,C,C,C,C,V,,,
+ES0144580Y14,Iberdrola S.A. Acciones Port. EO -.75,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,811,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000652216,ICA Gruppen AB Aktier SK 2.50,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,813,2015,2021,7,C,C,C,C,C,C,C,,,,,,,
+FR0000035081,Icade S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,815,2015,2020,6,C,C,C,C,C,C,,,,,,,,
+GB00B06QFB75,IG Group Holdings PLC Registered Shares LS 0.00005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,817,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0004035913,Iliad S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,819,2015,2021,7,C,C,C,C,C,C,V,,,,,,,
+NL0010801007,IMCD N.V. Aandelen op naam EO -.16,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,821,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+FR0000120859,IMERYS S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,823,2015,2019,5,C,C,C,C,V,,,,,,,,,
+GB00BGLP8L22,IMI PLC Registered Shares LS 0.2857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,824,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0004544929,Imperial Brands PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,827,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Imperial Tobacco Group PLC,
+GB00B61TVQ02,Inchcape PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,829,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BN4HT335,Indivior PLC,GB,,,,,,2015,2024,7,C,C,C,C,,,,C+V,C,V,,GB00BRS65X63,,
+ES0148396007,Industria de Diseño Textil SA Acciones Port. EO 0.03,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,833,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000107203,Industrivärden AB,SE,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,SE0000190126,,
+DE0006231004,Infineon Technologies AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,837,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BMJ6DW54,Informa PLC Registered Shares LS -.001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,839,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,GB00BD2MGP16,,
+NL0011821202,"ING Groep N.V. Aandelen op naam EO -,01",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,841,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,NL0000303600,,
+FR0000125346,Ingenico Group S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,843,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+GB00B09LSH68,Inmarsat PLC Registered Shares EO 0.0005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,844,2015,2019,5,C,C,C,C,C,,,,,,,,,
+DE000A2AADD2,innogy SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,847,2017,2019,3,,,C,C+V,V,,,,,,,DE000A2LQ2L3,,
+GB00BHJYC057,InterContinental Hotels Group,GB,,,,,,2015,2025,11,C,C+V,C+V,C,C,C,C,C,C,C,C,"GB00BD8QVH41
+GB00BN33FD40
+GB00BYXK6398",,
+GB00BYT1DJ19,Intermediate Capital Grp PLC Registered Shares LS - .2625,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,851,2015,2025,11,C+V,C+V,C,C,C,C,C,C,C,C,C,"GB0004564430
+GB00BYY5B507",Intermediate Capital Grp PLC,
+ES0177542018,Internat. Cons. Airl. Group SA Acciones Nom. EO -.50,ES,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,853,2015,2025,11,C,C,C,C,C,C+V,C,C,C,C,C,ES0177542125,,
+GB0031638363,Intertek Group PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,855,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0000072618,Intesa Sanpaolo S.p.A. Azioni nom. EO 0.52,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,857,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000936478,Intrum Justitia AB Namn-Aktier SK -.02,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,859,2015,2018,4,C,C,C,V,,,,,,,,,Intrum Justitia AB,
+GB0006834344,Intu Properties PLC Registered Shares LS 0.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,861,2015,2018,4,C,C,C,V,,,,,,,,,,
+GB00B17BBQ50,Investec PLC Registered Shares LS 0.0002,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,863,2015,2025,10,C,C,C,C,C,V,,C,C,C,C,,,
+SE0015811963,Investor AB,SE,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,SE0000107419,,
+FR0010259150,Ipsen S.A. Actions au Porteur EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,867,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+DK0060542181,ISS AS Indehaver Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,869,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0005211237,Italgas S.P.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,12,871,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+GB0033986497,ITV PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,884,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+JE00BYVQYS01,IWG PLC Registered Shares LS 0.01,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,886,2015,2022,8,C,C,C,V,C,C,C,V,,,,JE00B3CGFD43,Regus PLC,IWG substitueix Regus com a capçalera del grup el 2016.
+FR0000077919,JCDecaux S.A. Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,888,2015,2019,5,C,C,C,C,C,,,,,,,,,
+PTJMT0AE0001,"Jerónimo Martins, SGPS, S.A. Acções Nominativas EO 1",PT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,890,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000806994,JM AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,892,2015,2017,3,C,C,C,,,,,,,,,,,
+GB00B5N0P849,John Wood Group PLC Registered Shares LS 0.042857143),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,894,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+GB00BZ4BQC70,"Johnson, Matthey PLC Registered Shares LS 1.101698",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,896,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,GB00B70FPS60,,
+CH0102484968,Julius Baer Gruppe AG Namens-Aktien SF -.02,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,898,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B53P2009,Jupiter Fund Management PLC Registered Shares LS 0.023),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,900,2015,2019,5,C,C,C,C,C,,,,,,,,,
+GB00BKX5CN86,Just-Eat PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,902,2015,2019,5,C,C,C,C,C,,,,,,,,,
+DK0010307958,Jyske Bank A/S Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,904,2015,2025,9,C,C,C,C,V,,,C,C,C,C,,,
+DE000KSAG888,K+S Aktiengesellschaft Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,906,2015,2025,9,C,C,C,C,C,,,C,C,C,C,,,
+BE0003565737,KBC Groep N.V. Parts Sociales Port. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,908,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121485,Kering S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,910,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE0004906560,Kerry Group PLC Registered Shares A EO -.125,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,912,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009000202,Kesko Oyj Registered Shares Cl. B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,914,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Kesko Oy,
+GB0033195214,Kingfisher PLC Reg. Shares LS -.157142857,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,916,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE0004927939,Kingspan Group PLC Registered Shares EO -.13,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,918,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0022060521,Kinnevik AB,SE,,,,,,2015,2025,11,C,C+V,C,C,C,C+V,C+V,C,C,C+V,C,"SE0000164626
+SE0008373906
+SE0013256682
+SE0014684528
+SE0015810247",Investment AB Kinnevik,
+DE000KGX8881,KION GROUP AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,922,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121964,Klépierre S.A. Actions Port. EO 1.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,924,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CZ0008019106,Komercní Banka AS Inhaber-Aktien KC 100,CZ,CZK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,926,2015,2018,4,C,C,C,V,,,,,,,,,,
+NL0000852580,Kon. Boskalis Westminster N.V. Cert.v.Aandelen EO 0.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,928,2015,2019,5,C,C,C,C,V,,,,,,,,,
+NL0000009082,Kon. KPN N.V. Aandelen aan toonder EO 0.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,930,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009013403,KONE Corp. (New) Registered Shares Cl.B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,932,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,KONE Corp. (New),
+CH1216478797,DSM-Firmenich AG,CH,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,NL0000009827,Koninklijke DSM N.V.,Continuïtat de la inversió en DSM mitjançant el bescanvi per la nova capçalera el 2023.
+NL0000009538,Koninklijke Philips N.V. Aandelen aan toonder EO 0.20,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,936,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0009432491,Koninklijke Vopak N.V. Aandelen aan toonder EO 0.50,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,938,2015,2025,8,C,C,C,C,C,C,C,,,,C,,,
+CH0025238863,Kühne & Nagel Internat. AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,940,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Kühne & Nagel Internat. AG,
+SE0000108847,L E Lundbergföretagen AB Namn-Aktier B (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,942,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,Lundbergföretagen AB,
+GB00B0ZSH635,Ladbrokes Coral Group PLC Registered Shares LS 0.283333),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,944,2015,2017,2,V,,C,,,,,,,,,,Ladbrokes PLC,
+CH0012214059,LafargeHolcim Ltd. Namens-Aktien SF 2,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,946,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,LafargeHolcim Ltd.,
+FR0000130213,Lagardère S.C.A. Actions Nom. EO 6.10,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,948,2015,2019,5,C,C,C,C,C,,,,,,,,,
+GB00BYW0PQ60,Land Securities Group PLC Registered Shares LS 0.106666,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,950,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,GB0031809436,,
+DE0005470405,LANXESS AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,952,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,LANXESS AG,
+DE000LEG1110,LEG Immobilien AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,954,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,LEG Immobilien AG,
+FR0010307819,Legrand S.A. Actions au Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,958,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0003856405,Leonardo S.p.A. Azioni nom. EO 4.40,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,960,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Finmeccanica S.p.A.; Leon.-Finmeccan.Spa (Leonardo),
+IE00BZ12WP82,Linde PLC,IE,,,,,,2015,2022,8,C,C,C,C+V,C,C,C,C,,,,"DE0006483001
+DE000A2E4L75",Linde AG,
+GB0008706128,Lloyds Banking Group PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,964,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0025751329,Logitech International S.A. Namens-Aktien SF 0.25,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,966,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B0SWJX34,London Stock Exchange GroupPLC Reg. Shares LS 0.069186047,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,968,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0013841017,Lonza Group AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,970,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0014504817,Loomis AB,SE,,,,,,2017,2025,5,,,C,C,C,V,,,,,C,SE0002683557,,
+SE0000825820,Lundin Petroleum AB Namn-Aktier SK -.01,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,974,2015,2022,8,C,C,C,C,C,C,C,V,,,,,Lundin Energy AB; Lundin Petroleum AB,
+IT0001479374,Luxottica Group S.p.A. Azioni nom. EO 0.06,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,976,2015,2018,4,C,C,C,C,,,,,,,,,,
+FR0000121014,LVMH Moët Henn. L. Vuitton SE Actions Port. (C.R.) EO 0.3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,978,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+JE00BJ1DLW90,Man Group PLC,JE,,,,,,2015,2025,11,C,C,C,C,C+V,C,C,C,C,C,C,GB00B83VD954,Man Group Ltd.,
+DE0005937007,MAN SE Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,13,982,2015,2018,4,C,C,C,C,,,,,,,,,,
+ES0124244E34,Mapfre S.A. Acciones Nom. EO -.10,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,994,2015,2025,7,C,C,C,C,C,V,,,,,C,,,
+NO0003054108,Marine Harvest ASA Navne-Aksjer NK 7.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,996,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Marine Harvest ASA,
+GB0031274896,Marks & Spencer Group PLC Registered Shares LS 0.253),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,998,2015,2025,11,C,C,C,C,C+V,C,C,C,C,C,C,GB00BGV1P089,,
+GB00B8HX8Z88,Mediclinic International PLC Registered Shares LS 0.103),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1002,2016,2018,3,,C,C,V,,,,,,,,,,
+IT0000062957,Mediobanca - Bca Cred.Fin. SpA Azioni nom. EO 0.50,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1004,2015,2025,11,C,C,C,C,C,C,C,C,C,C,V,,,
+GB0005758098,Meggitt PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1006,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+GB00BNGDN821,Melrose Industries PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,"GB00BNR5MZ78
+GB00BV9FYX34
+GB00BZ1G4322",,
+DE0006599905,Merck KGaA Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1010,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BDZT6P94,Merlin Entertainment PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1012,2015,2019,5,C,C,C,C,C,,,,,,,,Merlin Entertainment PLC,
+ES0105025003,Merlin Properties SOCIMI S.A. Acciones Nominativas EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1014,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000BFB0019,METRO AG Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1016,2017,2020,4,,,C,C,C,V,,,,,,,,
+GB00BZ6STL67,Metro Bank PLC Registered Shares LS 0.000001,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1018,2017,2018,2,,,C,C,,,,,,,,,,
+FI4000440664,Neles Oyj (abans Metso),FI,,,,,,2015,2020,6,C,C,C,C,C,V,,,,,,FI0009007835,Metso Corp.; Neles Oyj,"L’antic Metso esdevé Neles el 2020. Metso Outotec, ara Metso, amb FI0009014575, es conserva separat."
+GB00BJ1F4N75,Micro Focus International PLC,GB,,,,,,2015,2020,6,C,C,C+V,C,C,V,,,,,,"GB00BD8YWM01
+GB00BQY7BX88",,
+IT0004965148,Moncler S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1024,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+GB00BMWC6P49,Mondi PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,GB00B1CRLC47,,
+GB00B1ZBKY84,Moneysupermarket.com Group PLC Registered Shares LS -.02,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1028,2016,2020,5,,C,C,V,C,C,,,,,,,,
+GB0006043169,"Morrison Supermarkets PLC, Wm. Registered Shares LS -.10",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1030,2015,2021,7,C,C,C,C,C,C,V,,,,,,,
+DE000A0D9PT0,MTU Aero Engines AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1032,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0008430026,Münchener Rückvers.-Ges. AG vink.Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1034,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BDR05C01,National Grid PLC Reg. Shares LS 0.12431289,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1036,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C+V,C,"GB00B08SNH34
+GB00BSRK4X90",,
+FR0000120685,Natixis S.A. Actions Port. EO 11.20,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1038,2015,2021,7,C,C,C,C,C,C,V,,,,,,,
+SE0000117970,NCC AB Namn-Aktier B (fria) SK 8,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1040,2015,2017,3,C,C,C,,,,,,,,,,,
+FI0009013296,Neste Oyj Registered Shs o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1042,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0038863350,Nestlé S.A. Namens-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1044,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0060745370,Nets A/S Ihændehaver-Aktier DK1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1046,2017,2017,1,,,C,,,,,,,,,,,
+GB00BZ02MH16,Nex Group PLC Registered Shares LS 0.175,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1048,2015,2018,4,C,C,C,C,,,,,,,,GB0033872168,Icap PLC; Nex Group PLC,Continuïtat de l’antic ICAP després de vendre el negoci de veu a Tullett Prebon. No es confon amb TP ICAP.
+GB0032089863,NEXT PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1050,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0015988019,NIBE Industrier AB,SE,,,,,,2016,2025,10,,C+V,C,C,C,C,C+V,C,C,C,C,"SE0000390296
+SE0008321293
+SE0009163678",,
+NL0010773842,NN Group N.V. Aandelen aan toonder EO -.12,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1054,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009000681,Nokia Oyj Registered Shares EO 0.06,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1056,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Nokia Corp.,
+FI0009005318,Nokian Renkaat Oyj Registered Shares EO 0.2,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1058,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+FI4000297767,Nordea Bank Abp,FI,,,,,,2015,2025,11,C,C,C,C+V,C+V,C,C,C,C,C,C,SE0000427361,NORDEA BANK AB; Nordea Bank AB,Canvi de domicili de Suècia a Finlàndia el 2018.
+NO0005052605,Norsk Hydro ASA Navne-Aksjer NK 1.098,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1062,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0012005267,Novartis AG Namens-Aktien SF 0.50,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1064,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0062498333,Novo-Nordisk AS,DK,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,DK0060534915,,
+DK0060336014,Novozymes A/S Navne-Aktier B DK 2,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1068,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Novozymes A/ S,
+CH0000816824,OC Oerlikon Corporation AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1070,2015,2019,5,C,C,C,C,C,,,,,,,,,
+GB00B3MBS747,Ocado Group PLC Registered Shares LS 0.02,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1071,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ZAE000255360,Old Mutual Ltd.,ZA,,,,,,2015,2020,6,C,C,C,C+V,C,V,,,,,,GB00B77J0862,Old Mutual PLC,
+AT0000743059,OMV AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1076,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0974276082,Ontex Group N.V. Actions Nom. EO -.01,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1078,2016,2017,2,,C,C,,,,,,,,,,,
+FR0000133308,Orange S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1080,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009014377,Orion Corp. Registered Shares Cl.B o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1082,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Orion Corp. (New),
+NO0003733800,Orkla ASA Navne-Aksjer NK 1.25,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1084,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Orkla AS,
+FR0000184798,Orpea Actions Port. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1086,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+FR0000120321,"Oréal S.A., L’ Actions Port. EO 0.2",FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1088,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,"Oréal S.A., L'",
+DE000LED4000,OSRAM Licht AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1090,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+FI0009002422,Outokumpu Oyj Registered Shares Cl.A o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1092,2015,2018,3,V,,C,V,,,,,,,,,,
+IE00BWT6H894,Paddy Power Betfair PLC Registered Shares EO -.09,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,14,1094,2015,2024,10,C+V,C,C,C,C,C,C,C,C,V,,IE0002588105,Paddy Power Betfair PLC; Paddy Power PLC,
+DK0060252690,Pandora A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1105,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0021783391,Pargesa Holding S.A. Inhaber-Aktien SF 20,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1107,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+CH0024608827,Partners Group Holding AG Namens-Aktien SF -.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1109,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0034264548,Paysafe Group PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1111,2016,2017,2,,C,C,,,,,,,,,,,
+GB0006776081,Pearson PLC Registered Shares LS -.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1113,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BNNTLN49,Pennon Group PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C+V,C,C,C,C,GB00B18V8630,,
+FR0000120693,Pernod-Ricard S.A. Actions Port. (C.R.) o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1117,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Pernod-Ricard S.A.,
+GB0006825383,Persimmon PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1119,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121501,Peugeot S.A. Actions Port. (C.R.) EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1121,2015,2020,6,C,C,C,C,C,C,,,,,,,,
+NL0011821392,Philips Lighting N.V. Registered Shares EO 0.01,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1123,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,Philips Lighting N.V.,
+GB00BGXQNP29,Phoenix Group Holdings PLC,GB,,,,,,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,"KYG7058S1075
+KYG7091M1096",Phoenix Group Holdings,
+IM00B7S9G985,Playtech PLC Registered Shares LS -.01,IM,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1127,2015,2025,5,C,C,C,V,,,,,,,V,,,
+JE00B6T5S470,Polymetal Intl PLC Registered Shares o.N.,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1129,2016,2021,6,,C,C,C,C,C,C,,,,,,Polymetal Intl PLC,
+DE000PAH0038,Porsche Automobil Holding SE Inhaber-Vorzugsaktien o.St.o.N,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1131,,,,,,,,,,,,,,,,,
+IT0003796171,Poste Italiane S.p.A. Azioni nom. EO 0.51,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1133,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+NL0009739416,PostNL N.V. Aandelen aan toonder EO 0.08,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1135,2015,2017,3,C,C,C,,,,,,,,,,,
+DE000PSM7770,ProSiebenSat.1 Media SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1137,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+GB00B1Z4ST84,Provident Financial PLC Registered Shs LS 0.178683393),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1139,2015,2017,3,C,C,C,,,,,,,,,,,
+BE0003810273,Proximus S.A. Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1141,2015,2022,8,C,C,C,C,C,C,C,C,,,,,,
+GB0007099541,Prudential PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1143,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0004176001,Prysmian S.p.A. Azioni nom. EO 0.10,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1145,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0018294154,PSP Swiss Property AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1147,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000130577,Publicis Groupe S.A. Actions Port. EO 0.40,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1149,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NL0015002CX3,Qiagen N.V.,NL,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,"NL0000240000
+NL0012169213
+NL0015001WM6",,
+AT0000606306,Raiffeisen Bank Intl AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1153,2015,2025,10,C,C,C,C,C,C,C,V,,C,C,,,
+GB00B01C3S32,Randgold Resources Ltd. Registered Shares DL -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1155,2015,2018,4,C,C,C,C,,,,,,,,,,
+NL0000379121,Randstad Holding N.V. Aandelen aan toonder EO 0.10,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1157,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Randstad Holding N.V.,
+GB00B24CGK77,Reckitt Benckiser Group Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1159,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0003828271,Recordati - Ind.Chim.Farm. SpA Azioni nom. EO 0.125,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1161,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0173093024,Red Electrica Corporacion S.A. Acciones Port. EO -.50,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1163,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,ES0173093115,Red Electrica Corporacion S.A.,
+NL0006144495,Relx N.V. Aandelen op naam EO 0.07,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1165,,,,,,,,,,,,,,,,,
+GB00B2B0DG97,Relx PLC Registered Shares LS -.144397,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1167,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,NL0006144495,Relx N.V.; Relx PLC,"Doble estructura del mateix grup, unificada sota RELX PLC el 2018."
+FR0000131906,Renault S.A. Actions Port. EO 3.81,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1169,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B082RF11,Rentokil Initial PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1171,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0173516115,Repsol S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1173,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0010451203,Rexel S.A. Actions au Porteur EO 5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1175,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007030009,Rheinmetall AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1177,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BGDT3G23,Rightmove PLC,GB,,,,,,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,GB00B2987V85,Rightmove PLC (New),
+GB0007188757,Rio Tinto PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1181,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B63H8491,Rolls Royce Holdings PLC Registered Shares LS 0.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1183,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BVFNZH21,Rotork PLC Registered Shares LS 0.005,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1185,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,GB0007506958,,
+GB00BM8PJY71,NatWest Group PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,GB00B7T77214,"Royal Bk of Scotld Grp PLC,The",
+GB00BP6MXD84,Shell PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,GB00B03MLX29,Royal Dutch Shell,Simplificació de classes i canvi de nom de Royal Dutch Shell el 2022.
+GB00BDVZYZ77,Royal Mail PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1191,2015,2025,11,C,C,C,C,C,C,C,C,C,C,V,,Royal Mail PLC,
+GB0007197378,RPC Group PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1192,2015,2019,5,C,C,C,C,V,,,,,,,,,
+GB00BKKMKR23,RSA Insurance Group PLC Registered Shares LS 1,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1195,2015,2021,7,C,C,C,C,C,C,V,,,,,,RSA Insurance Group PLC,
+LU0061462528,RTL Group S.A. Actions au Porteur o.N.,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1197,2015,2019,5,C,C,C,C,C,,,,,,,,,
+FR0013269123,Rubis S.C.A. Actions Port. Nouv. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1199,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,FR0000121253,Rubis S.A.,
+DE0007037129,RWE AG Inhaber-Stammaktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1201,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE00BYTBXV33,Ryanair Holdings PLC Registered Shares EO -.006,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,15,1203,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,IE00B1GKF381,,
+SE0021921269,Saab AB,SE,,,,,,2016,2025,9,,C,C,C,C,C,,C,C,C+V,C,SE0000112385,,
+FR0000073272,SAFRAN Actions Port. EO 0.20,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1216,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,SAFRAN,
+GB00BLT1Y088,Saga PLC Registered Shares LS 0.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1218,2016,2017,2,,C,C,,,,,,,,,,,
+GB00B8C3BL03,"Sage Group PLC, The Registered Shares LS-.01051948",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1220,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B019KW72,"Sainsbury PLC, J. Registered Shs LS -.28571428",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1222,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0005495657,Saipem S.p.A.,IT,,,,,,2015,2025,8,C,C,C+V,C,C,V,,,,C,C,"IT0000068525
+IT0005252140",,
+FI4000552500,Sampo OYJ,FI,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,FI0009003305,,
+SE0000667891,Sandvik AB Namn-Aktier o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1228,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000120578,Sanofi S.A. Actions Port. EO 2,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1230,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007164600,SAP SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1232,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007165631,Sartorius AG Vorzugsaktien o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1234,,,,,,,,,,,,,,,,,
+NL0000360618,SBM Offshore N.V. Aandelen op naam EO -.25,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1236,2015,2025,8,C,C,C,C,C,C,V,,,,C,,,
+DE000SHA0159,Schaeffler AG Inhaber-Vorzugsakt.o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1238,,,,,,,,,,,,,,,,,
+NO0003028904,Schibsted ASA Navne-Aksjer A NK -.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1240,2015,2022,8,C+V,C,C,C,C,C,C,V,,,,NO0010736879,,
+FR0000121972,Schneider Electric SE Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1242,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BP9LHF23,Schroders PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,GB0002405495,,
+FR0010411983,SCOR SE Act.au Porteur EO 7.8769723,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1246,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A12DM80,Scout24 AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1248,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,Scout24 AG,
+FR0000121709,SEB S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1250,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000163594,Securitas AB Namn-Aktier B SK 1,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1252,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,SE0018689234,,
+GB00B5ZN1N88,Segro PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1254,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+LU0088087324,SES S.A. Bearer FDRs (rep.Shs A) o.N.,LU,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1256,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,,,
+GB00B1FH8J72,Severn Trent PLC Registered Shares LS -.9789,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1258,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH1256740924,SGS S.A.,CH,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,CH0002497458,,
+GB0007990962,Shaftesbury PLC Registered Shares LS 0.25,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1262,2015,2018,4,C,C,C,V,,,,,,,,,,
+JE00B2QKY057,Shire PLC Registered Shares LS -.05,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1264,2015,2018,4,C,C,C,C,,,,,,,,,,
+DE0007236101,Siemens AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1266,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0143416115,Siemens Gamesa Renew. En. S.A. Acciones Port. EO 0.173),ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1268,2015,2022,8,C,C,C,C,C,C,C,C,,,,,Gamesa Corp. Tecnologica S.A.,
+CH0418792922,Sika AG,CH,,,,,,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,CH0000587979,,
+DK0060495240,SimCorp A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1272,2017,2023,7,,,C,C,C,C,C,C,V,,,,,
+SE0000148884,Skandinaviska Enskilda Banken Namn-Aktier A (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1274,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000113250,Skanska AB Namn-Aktier B (fria) SK 3,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1276,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000108227,SKF AB Namn-Aktier B SK 0.625,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1278,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,"SKF, AB",
+GB0001411924,Sky PLC Registered Shares LS -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1280,2015,2018,4,C,C,C,V,,,,,,,,,,
+GB0009223206,Smith & Nephew PLC Registered Shares DL -.20,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1282,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00B1WY2338,Smiths Group PLC Registered Shares LS -.375,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1284,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE00B1RR8406,Smurfit Kappa Group PLC Registered Shares EO -.001,IE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1286,2015,2024,10,C,C,C,C,C,C,C,C,C,V,,,,
+IT0003153415,Snam S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1288,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000120966,Société Bic S.A. Actions Port. EO 3.82,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1290,2015,2019,5,C,C,C,C,V,,,,,,,,Bic S.A.,
+FR0000130809,Société Générale S.A. Actions Port. EO 1.25,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1292,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121220,Sodexo S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1294,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A2GS401,Software AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1296,2016,2018,3,,C,C+V,C,,,,,,,,DE0003304002,,
+BE0003470755,Solvay S.A. Actions au Porteur A o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1298,2015,2023,9,C,C,C,C,C,C,C,C,C,,,,,
+CH0012549785,Sonova Holding AG Namens-Aktien SF 0.05,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1300,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000050809,Sopra Steria Group S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1302,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+GB0003308607,Spectris PLC Registered Shares LS 0.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1304,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0012757854,Spie S.A. Actions Nom. EO 0.47,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1306,2017,2025,9,,,C,C,C,C,C,C,C,C,C,,,
+GB00BWFGQN14,Spirax-Sarco Engineering PLC Reg. Shares LS 0.269230763),GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1308,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,GB00B946ZZ62,Spirax-Sarco Engineering PLC,
+GB0007908733,SSE PLC Shs LS-.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1310,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BGBN7C04,SSP Group PLC,GB,,,,,,2017,2024,6,,,C,C,C,V,,,C,V,,"GB00BFWK4V16
+GB00BNGWY422",,
+GB0007669376,St. James's Place PLC Registered Shares LS -.15,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1314,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007251803,STADA Arzneimittel AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,16,1316,2015,2017,3,C,C,C+V,,,,,,,,,DE000A2GS5A4,,
+GB0004082847,Standard Chartered PLC Registered Shares DL -.50,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1328,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BF8Q6K64,Aberdeen Group PLC,GB,,,,,,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,GB00BVFD7Q58,Abrdn PLC; Standard Life Aberdeen PLC; Standard Life PLC,
+NO0010096985,Statoil ASA Navne-Aksjer NK 2.50,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1332,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Statoil ASA,
+NL0011375019,Steinhoff Internatl Hldgs N.V. Aandelen op naam EO - .50,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1334,2016,2017,2,,C,C,,,,,,,,,,,
+NL0000226223,STMicroelectronics N.V. Aandelen aan toonder EO 1.04,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1336,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009005961,Stora Enso Oyj Reg. Shares Cl.R EO 1.70,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1338,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+NO0003053605,Storebrand ASA Navne-Aksjer NK 5,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1340,2015,2025,10,V,,C,C,C,C,C,C,C,C,C,,,
+CH1175448666,Straumann Holding AG,CH,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,CH0012280076,,
+LU0075646355,Subsea 7 S.A. Registered Shares DL 2,LU,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1344,2015,2025,9,C,C,C,C,C,V,,,C,C,C,,,
+FR0010613471,Suez S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1346,2015,2021,7,C,C,C,C,C,C,C,,,,,,SUEZ ENVIRONNEMENT CO. S.A.,
+CH0267291224,Sunrise Communications Gr. AG Nam.-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1348,2015,2020,6,C,C,C,C,C,C+V,,,,,,CH0565630669,,
+SE0000112724,Svenska Cellulosa AB Namn-Aktier B (fria) SK 10,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1350,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0007100599,Svenska Handelsbanken AB Namn-Aktier A (fria) SK 1.433,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1352,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,SE0000193120,,
+CH0012255151,"Swatch Group AG, The Inhaber-Aktien SF 2.25",CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1354,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000242455,Swedbank AB Namn-Aktier A o.N.,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1356,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0015812219,Swedish Match AB,SE,,,,,,2015,2022,8,C,C,C,C,C,C,C+V,C,,,,SE0000310336,,
+SE0000872095,Swedish Orphan Biovitrum AB Namn-Aktier SK 1,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1360,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,SE0020846293,,
+CH0014852781,Swiss Life Holding AG Namens-Aktien SF 5.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1362,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0008038389,Swiss Prime Site AG Nam.-Aktien SF 15.3,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1364,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0126881561,Swiss Re AG Namens-Aktien SF -.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1366,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+CH0008742519,Swisscom AG Namens-Aktien SF 1,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1368,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0010311471,Sydbank AS Navne-Aktier DK 10,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1370,2015,2025,7,C,C,C,V,,,,,C,C,C,,,
+DE000SYM9999,Symrise AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1372,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BP92CJ43,Tate & Lyle PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C+V,C,C,C,GB0008754136,,
+GB0008782301,Taylor Wimpey PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1376,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0060228559,TDC A/S Navne-Aktier DK 1,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1378,2015,2018,4,C,C,C,V,,,,,,,,,,
+GB00BDSFG982,TechnipFMC PLC Registered Shares DL 1,GB,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1380,2015,2021,7,C,C,C,C,C,C,C,,,,,FR0000131708,Technip S.A.,Technip s’integra en la nova societat cotitzada TechnipFMC el 2017. Technip Energies es conserva separat.
+SE0005190238,Tele2 AB Namn-Aktier B SK -.625,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1382,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IT0003497168,Telecom Italia S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1384,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000108656,Telefonaktiebolaget L.M.Erics. Namn-Aktier B (fria) o.N.3),SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1386,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Ericsson,
+DE000A1J5RX9,Telefónica Deutschland Hldg AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1388,2015,2023,8,C,C,C,C,C,C,,C,V,,,,,
+ES0178430E18,Telefónica S.A. Acciones Port. EO 1,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1390,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0003826436,Telenet Group Holding N.V. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1392,2015,2019,5,C,C,C,C,C,,,,,,,,,
+NO0010063308,Telenor ASA Navne-Aksjer NK 6,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1394,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+SE0000667925,Telia Company AB Namn-Aktier SK 3.20,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1396,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,TeliaSonera AB,
+CH0012453913,Temenos Group AG Nam.-Aktien SF 5,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1398,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,Temenos Group AG,
+LU2598331598,Tenaris S.A.,LU,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C+V,C,C,LU0156801721,,
+IT0003242622,Terna Rete Elettrica Nazio.SpA Azioni nom. EO 0.22,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1402,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BLGZ9862,Tesco PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,GB0008847096,,
+NO0003078800,TGS Nopec Geophysical Co. ASA Navne-Aksjer NK 0.25,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1406,2015,2020,6,C,V,C,C,C,V,,,,,,,,
+FR0000121329,THALES S.A. Actions Port. (C.R.) EO 3,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1408,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007500001,ThyssenKrupp AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1410,2015,2025,11,C,C,C,C,C,C,C,C,C,V,C,,ThyssenKrupp AG,
+FR0000120271,Total S.A. Actions au Porteur EO 2.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1412,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Total S.A.; Total S.E.,
+JE00BMDZN391,TP ICAP Group PLC,JE,,,,,,2017,2025,4,,,C,V,,C,,,,,C,GB00B1H0DZ51,TP ICAP PLC,Nova capçalera de TP ICAP el 2021. ICAP/NEX es manté separat.
+GB00BK9RKT01,Travis Perkins PLC,GB,,,,,,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,GB0007739609,,
+SE0000114837,Trelleborg AB Namn-Aktier B (fria) SK 25,SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1418,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0060636678,Tryg AS Navne-Aktier DK 5,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1420,2015,2025,11,C+V,C,C,C,C,C,C,C,C,C,C,DK0060013274,,
+DE000TUAG505,TUI AG,DE,,,,,,2015,2025,11,C,C,C,C,C,V,C,C,C,C,C,DE000TUAG000,,
+GB0001500809,Tullow Oil PLC Registered Shares LS 0.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1423,2015,2019,5,C,C,C,C,C,,,,,,,,,
+FR0000051807,Téléperformance SE Actions Port. EO 2.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1426,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000054470,Ubisoft Entertainment S.A. Actions Port. EO 0.0775,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,17,1428,2016,2024,9,,C,C,C,C,C,C,C,C,V,,,,
+JE00BD9WR069,UBM PLC Reg. Shares LS -.1125,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1439,2015,2018,4,C,C+V,C,V,,,,,,,,JE00B2R84W06,,
+CH0244767585,UBS Group AG Namens-Aktien SF -.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1441,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0003739530,UCB S.A. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1443,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+IE0033024807,UDG Healthcare PLC Registered Shares EO 0.05,IE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1445,2017,2021,5,,,C,C,C,C,V,,,,,,,
+BE0974320526,Umicore S.A. Actions Nom. o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1447,2015,2025,11,C,C,C+V,C,C,C,C,C,C,C,C,BE0003884047,,
+FR0013326246,Unibail-Rodamco-Westfield SE,FR,,,,,,2015,2025,11,C,C,C,C+V,C,C,C,C,C,C,C,FR0000124711,Unibail-Rodamco SE; Unibail-Rodamco-Westfield,Continuïtat d’Unibail-Rodamco mitjançant accions vinculades (stapled shares) des del 2018.
+IT0005239360,UniCredit S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1451,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,IT0004781412,,
+NL0000009355,"Unilever N.V. Cert.v.Aandelen EO-,16",NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1453,,,,,,,,,,,,,,,,,
+GB00B10RZP78,Unilever PLC Registered Shares LS -.031111,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1455,2015,2025,11,C,C,C,C,C+V,C,C,C,C,C,C,"NL0000009355
+NL0000388619",Unilever N.V.,"Doble estructura del mateix grup, unificada sota Unilever PLC el 2020."
+IT0003487029,Unio.di Banche Italiane S.p.A. Azioni nom. EO 2.50,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1457,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+DE000UNSE018,Uniper SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1459,2016,2022,7,,C,C,C,C,C,C,V,,,,,,
+IT0004827447,UnipolSai Assicurazioni S.p.A. Azioni nom. o.N.,IT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1461,2015,2017,3,C,C,C,,,,,,,,,,,
+DE0005089031,United Internet AG Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1463,2015,2023,9,C,C,C,C,C,C,C,C,V,,,,,
+GB00B39J2M42,United Utilities Group PLC Registered Shares LS -.05,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1465,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009005987,UPM Kymmene Corp. Registered Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1467,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0013176526,Valéo S.A. Actions Port. EO 1,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1469,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,FR0000130338,Valéo S.A.,
+FR0000124141,Veolia Environnement S.A. Actions au Porteur EO 5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1471,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DK0061539921,Vestas Wind Systems A/ S,DK,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,DK0010268606,Vestas Wind Systems AS,
+GB0009292243,Victrex PLC Registered Shares LS -.01,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1475,2015,2022,8,C,C,C,C,C,C,C,C,,,,,,
+CH0364749348,Vifor Pharma AG Nam.-Akt. SF 0.01,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1477,2015,2022,8,C,C,C+V,C,C,C,C,V,,,,"CH0015536466
+CH1156060167",Galenica AG,L’antiga Galenica va canviar de nom a Vifor el 2017. La nova Galenica CH0360674466 es conserva separada.
+FR0000125486,VINCI S.A. Actions Port. EO 2.50,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1479,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+ES0184262212,Viscofan S.A. Acciones Port. EO 0.70,ES,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1481,2015,2025,10,C,C,C,C,V,C,V,,C,C,C,,,
+FR0000127771,Vivendi S.A. Actions Port. EO 5.5,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1483,2015,2024,10,C,C,C,C,C,C,C,C,C,C,,,Vivendi S.A.,
+GB00BH4HKS39,Vodafone Group PLC Registered Shares DL 0.2095238,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1485,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+AT0000937503,voestalpine AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1487,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0007664039,Volkswagen AG Vorzugsaktien o.St. o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1489,,,,,,,,,,,,,,,,,
+SE0000115446,"Volvo (publ), AB Namn-Aktier B (fria) o.N.",SE,SEK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1491,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000A1ML7J1,Vonovia SE Namens-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1493,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB0009465807,"Weir Group PLC, The Registered Shares LS 0.125",GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1495,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FR0000121204,Wendel S.A. Actions Port. EO 4,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1497,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Wendel S.A.,
+GB00B2PDGW16,WH Smith PLC Registered Shares LS-.220895,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1499,2015,2024,9,C,C,C,C,C,V,C,,C,V,,,,
+GB00B1KJJ408,Whitbread PLC Reg. Shares LS -.76797385,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1501,2015,2025,11,C,C,C,C,C,C+V,C,C,C,C,C,GB00BMT7VP75,,
+AT0000831706,Wienerberger AG Inhaber-Aktien o.N.,AT,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1503,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+DK0060738599,William Demant Hldg AS Navne Aktier A DK 0.2,DK,DKK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1505,2015,2025,11,C,C+V,C,C,C,C,C,C,C,C,C,DK0010268440,William Demant Hldg AS,
+GB0031698896,William Hill PLC Registered Shares LS -.10,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1507,2015,2020,6,C,C,C,C,V,C,,,,,,,,
+DE0007472060,Wirecard AG Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1509,2015,2020,6,C,C,C,C,C,V,,,,,,,,
+NL0000395903,Wolters Kluwer N.V. Aandelen op naam EO 0.12,NL,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1511,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+GB00BYYK2V80,Worldpay Group Plc Registered Shares LS 1,GB,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1513,2016,2017,2,,C,C,,,,,,,,,,,
+JE00B8KF9B49,WPP PLC Registered Shares LS -.10,JE,GBP,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1515,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+FI0009003727,Wärtsilä Corp. Reg. Shares o.N.,FI,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1517,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,Wartsila Corp.,
+NO0010208051,Yara International ASA Navne-Aksjer NK 1.70,NO,NOK,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1519,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE000ZAL1111,Zalando SE Inhaber-Aktien o.N.,DE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1521,2016,2025,10,,C,C,C,C,C,C,C,C,C,C,,,
+FR0000125684,Zodiac Aerospace Actions au Porteur o.N.,FR,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1523,2015,2017,3,C,C,C,,,,,,,,,,,
+CH0011075394,Zurich Insurance Group AG Nam.-Aktien SF 0.10,CH,CHF,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1525,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+BE0974256852,Établissements Fr. Colruyt SA Actions au Porteur o.N.,BE,EUR,2017-10-31,ishares_sxxp_semiannual_1.pdf,18,1527,2015,2022,8,C,C,C,C,C,C,C,V,,,,,,
+SE0011337708,AAK AB,SE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+SE0005127818,AB Sagax,SE,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+ES0105200002,Abengoa S.A.,ES,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+GB0000031285,Aberdeen Asset Management PLC,GB,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+FR0012333284,Abivax S.A.,FR,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+BE0003877942,Ablynx NV,BE,,,,,,2018,2018,1,,,,V,,,,,,,,,,
+CH1169360919,Accelleron Industries Ltd.,CH,,,,,,2022,2025,4,,,,,,,,V,C,C,C,,,
+ES0125220311,Acciona S.A.,ES,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+CH0010532478,Actelion Ltd.,CH,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+SE0014401378,Addlife AB,SE,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+SE0014781795,Addtech AB,SE,,,,,,2020,2025,6,,,,,,C+V,C,C,C,C,C,SE0005568136,,
+NO0010844038,Adevinta ASA,NO,,,,,,2020,2024,4,,,,,,C,C,C,,V,,,,
+LU1250154413,ADLER Group S.A.,LU,,,,,,2020,2020,1,,,,,,C,,,,,,,,
+NL0012969182,Adyen N.V.,NL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+BE0003851681,Aedifica S.A.,BE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+SE0005999836,Afry AB,SE,,,,,,2020,2021,2,,,,,,C,C,,,,,,AF Pöyry AB,
+DE000A0WMPJ6,AIXTRON SE,DE,,,,,,2022,2024,3,,,,,,,,C,C,C,,,,
+NO0010345853,Aker BP ASA,NO,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+FR0000130007,Alcatel-Lucent,FR,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+CH0432492467,Alcon AG,CH,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+NL0012817175,Alfen N.V.,NL,,,,,,2022,2022,1,,,,,,,,C,,,,,,
+DK0061802139,ALK-Abelló AS,DK,,,,,,2022,2025,4,,,,,,,,C,V,C,C,,,
+LU2237380790,Allegro.eu,LU,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+SE0017615644,Alleima AB,SE,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+GB00BNTJ3546,Allfunds Group Ltd.,GB,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+CH0008837566,Allreal Holdings AG,CH,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+GRS015003007,Alpha Bank S.A.,GR,,,,,,2015,2016,2,V,V,,,,,,,,,,GRS015013006,,
+DE000A0LD2U1,alstria office REIT-AG,DE,,,,,,2019,2021,3,,,,,C,C,C,,,,,,,
+FR0000071946,Alten S.A.,FR,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+US02156K1034,Altice USA Inc.,US,,,,,,2018,2018,1,,,,V,,,,,,,,,,
+FR0000034639,Altran Technologies S.A.,FR,,,,,,2018,2019,2,,,,C,C,,,,,,,,,
+DK0060946788,Ambu A/ S,DK,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB0000282623,Amec Foster Wheeler PLC,GB,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+GB00B2988H17,Amlin PLC,GB,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+IT0004056880,Amplifon S.p.A.,IT,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+CH1430134226,Amrize AG,CH,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+NL0006237562,Arcadis N.V.,NL,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+NL0010832176,argenx SE,NL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB0000595859,ARM Holdings PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+GB00B132NW22,Ashmore Group PLC,GB,,,,,,2015,2021,4,C,,,,C,C,C,,,,,,Ashmore Group Ltd.,
+GB00BVGBWW93,Assura PLC,GB,,,,,,2020,2022,3,,,,,,C,C,C,,,,,,
+DE000AUM0V10,AUMOVIO SE,DE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DE000A2LQ884,AUTO1 Group SE,DE,,,,,,2021,2025,2,,,,,,,C,,,,C,,,
+BMG0670A1099,AutoStore Holdings Ltd.,BM,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+SE0012454072,Avanza Bank Holding AB,SE,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+GB00BDD85M81,Avast Plc.,GB,,,,,,2020,2022,3,,,,,,C,C,V,,,,,,
+GB00BBG9VN75,AVEVA Group PLC,GB,,,,,,2015,2022,6,V,,,V,C,C,C,C,,,,,,
+SE0006993770,Axfood AB,SE,,,,,,2020,2025,5,,,,,,C,,C,C,C,C,,,
+FR0013258662,Ayvens S.A.,FR,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+BE0974400328,Azelis Group N.V.,BE,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+CH1176493729,Bachem Holding AG,CH,,,,,,2021,2025,5,,,,,,,C,C+V,C,C,V,CH0012530207,,
+FO0000000179,Bakkafrost P/ F,FO,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+IT0001031084,Banca Generali S.p.A.,IT,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+IT0004776628,Banca Mediolanum S.p.A.,IT,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+IT0000064482,Banca Pop. di Milano S.C.a.R.L,IT,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+PTBCP0AM0015,Banco Com. Português SA (BCP),PT,,,,,,2015,2025,6,C,V,,C,V,,,,,C,C,PTBCP0AM0007,,
+IT0005002883,Banco Popolare Società Cooper.,IT,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+PLPEKAO00016,Bank Polska Kasa Opieki S.A.,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+CH0531751755,Banque Cantonale Vaudoise,CH,,,,,,2020,2025,6,,,,,,C,V,C,C,C,C,,,
+DK0015998017,Bavarian Nordic,DK,,,,,,2022,2025,4,,,,,,,,C,V,C,C,,,
+AT0000BAWAG2,BAWAG Group AG,AT,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+IT0005508921,Bca Monte dei Paschi di Siena,IT,,,,,,2015,2025,4,C+V,V,,,,,,,,C,C,"IT0004984842
+IT0005092165",,
+IT0000784196,Bca Pop. di Sondrio S.p.A.,IT,,,,,,2015,2025,4,C,V,,,,,,,,C,V,,Bca Pop. di Sondrio S.c.p.A.,
+ES0113790226,Bco Pop. Esp. SA (POPULARBAN),ES,,,,,,2015,2017,3,C,C+V,V,,,,,,,,,ES0113790549,,
+NL0012866412,BE Semiconductor Inds N.V.,NL,,,,,,2018,2025,7,,,,V,,C,C,C,C,C,C,NL0000339760,,
+DE0005158703,Bechtle AG,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+SE0015949748,Beijer Ref AB,SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,SE0011116508,,
+CH1101098163,BELIMO Holding AG,CH,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,CH0001503199,,
+GB00B0F99717,Berendsen PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+GB00BSPL1J93,Betfair Group PLC,GB,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+GB0008762899,BG Group PLC,GB,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+GB0002869419,Big Yellow Group PLC,GB,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+DE0005909006,Bilfinger SE,DE,,,,,,2015,2025,4,C,C,V,,,,,,,,C,,,
+CH0130293662,BKW AG,CH,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+SE0008091581,Bonava AB,SE,,,,,,2016,2016,1,,V,,,,,,,,,,,,
+GB00BND88V85,Bridgepoint Advisers Group PLC,GB,,,,,,2021,2025,3,,,,,,,C,C,,,C,,,
+IT0004764699,Brunello Cucinelli S.P.A.,IT,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+CH0002432174,Bucher Industries AG,CH,,,,,,2018,2025,7,,,,C,C,,C,C,C,C,C,,,
+IT0001347308,BUZZI S.p.A.,IT,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+IE00B010DT83,C&C Group PLC,IE,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+GB00B5KKT968,Cable & Wireless Communic. PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+SE0007692850,Camurus AB,SE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DE0005419105,CANCOM SE,DE,,,,,,2020,2020,1,,,,,,C,,,,,,,,
+GB0007365546,Carillion PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+DE0005313704,Carl Zeiss Meditec AG,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,V,,,
+PLOPTTC00011,CD Projekt S.A.,PL,,,,,,2018,2025,8,,,,C,C,C,C,V,C,C,C,,,
+DE0007257503,CECONOMY AG (abans METRO),DE,,,,,,2015,2017,3,C,C,V,,,,,,,,,,CECONOMY AG; METRO AG,L’antiga METRO canvia de nom a CECONOMY el 2017 mantenint l’ISIN. La nova METRO DE000BFB0019 es conserva separada.
+GB00B15FWH70,Cineworld Group PLC,GB,,,,,,2018,2020,3,,,,C,C,V,,,,,,,,
+CH0360826991,Comet Holding AG,CH,,,,,,2024,2025,2,,,,,,,,,,C,V,,,
+GB00BV9FP302,Computacenter PLC,GB,,,,,,2022,2025,4,,,,,,,,C,C,C,V,,,
+NL0010583399,Corbion N.V.,NL,,,,,,2020,2021,2,,,,,,C,C,,,,,,,
+ES0105563003,Corporacion Acciona Energias R,ES,,,,,,2022,2023,2,,,,,,,,C,V,,,,,
+GB00BYPHNG03,Countryside Properties PLC,GB,,,,,,2020,2021,2,,,,,,V,C,,,,,,,
+GB0002318888,Cranswick PLC,GB,,,,,,2020,2025,3,,,,,,C,,,,C,C,,,
+GB0034147388,CSR PLC,GB,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+DE0005470306,CTS Eventim AG & Co. KGaA,DE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+JE00BRX98089,CVC Capital Partners PLC,JE,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+BE0974259880,D'Ieteren Group S.A.,BE,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+DE000DTR0CK8,Daimler Truck Holding AG,DE,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+GB00BNYK8G86,DARKTRACE PLC,GB,,,,,,2021,2024,3,,,,,,,C,C,,V,,,,
+GB0009633180,Dechra Pharmaceuticals PLC,GB,,,,,,2018,2023,6,,,,C,C,C,C,C,C,,,,,
+BE0003562700,Delhaize Group S.A.,BE,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+GB00BNC5T391,Deliveroo PLC,GB,,,,,,2021,2025,2,,,,,,,C,,,,V,,,
+DE000A2E4K43,Delivery Hero SE,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+NL0009294552,Delta Lloyd N.V.,NL,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+IT0003492391,Diasorin S.p.A.,IT,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+PLDINPL00011,Dino Polska S.A.,PL,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+GB0001826634,Diploma PLC,GB,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+SE0007691613,Dometic Group AB,SE,,,,,,2018,2022,5,,,,C,C,C,C,V,,,,,,
+GB00BYN59130,Domino's Pizza Group PLC,GB,,,,,,2016,2017,2,,C+V,V,,,,,,,,,GB00B1S49Q91,,
+GB00BMWRZ071,Dowlais Group Plc,GB,,,,,,2023,2023,1,,,,,,,,,C,,,,,
+GB00BL6NGV24,Dr. Martens PLC,GB,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+GB00B1VNSX38,Drax Group PLC,GB,,,,,,2015,2025,7,C,C,V,,,,,C,C,C,C,,,
+ES0127797019,EDP Renováveis S.A.,ES,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+GB0002418548,Elementis PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+BE0003822393,Elia Group,BE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,Elia System Operator S.A./ N.V.,
+SE0023615885,Embracer Group AB,SE,,,,,,2023,2025,2,,,,,,,,,C,,V,SE0016828511,,
+DE0006095003,ENCAVIS AG,DE,,,,,,2022,2023,2,,,,,,,,C,C,,,,,
+IT0004618465,Enel Green Power S.P.A.,IT,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+GB00BG12Y042,Energean PLC,GB,,,,,,2023,2023,1,,,,,,,,,C,,,,,
+NO0010716418,Entra ASA,NO,,,,,,2020,2021,2,,,,,,C,C,,,,,,,
+SE0015658109,Epiroc AB,SE,,,,,,2018,2025,8,,,,C,C,C,C+V,C,C,C,C,SE0011166933,,
+SE0012853455,EQT AB,SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+GB00B0744359,Essentra PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+FR0014008VX5,EuroAPI SAS,FR,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+GRS323003012,Eurobank Ergasias S.A.,GR,,,,,,2016,2016,1,,V,,,,,,,,,,,,
+SE0012673267,Evolution AB (publ),SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,Evolution Gaming Gr.AB (publ),
+DE0005664809,Evotec SE,DE,,,,,,2018,2024,7,,,,C,C,C,C,C,C,V,,,Evotec AG,
+GB00B71N6K86,Evraz PLC,GB,,,,,,2018,2021,4,,,,C,C,C,C,,,,,,,
+FR0013451333,FDJ United,FR,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,LA FRANCAISE DES JEUX,
+BE0003823409,Financière de Tubize S.A.,BE,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+SE0008374250,Fingerprint Cards AB,SE,,,,,,2016,2017,2,,C+V,V,,,,,,,,,SE0000422107,,
+GB0003452173,Firstgroup PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+DE000FTG1111,flatexDEGIRO AG,DE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DK0010234467,FLSmidth & Co. AS,DK,,,,,,2015,2025,6,C,V,,C,V,,,,,C,C,,,
+ES0137650018,Fluidra S.A.,ES,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+SE0017161243,Fortnox AB,SE,,,,,,2022,2025,4,,,,,,,,C,C,C,V,,,
+CY0200352116,Frontline PLC,CY,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+NL00150003E1,Fugro N.V.,NL,,,,,,2024,2025,2,,,,,,,,,,C,V,,,
+GB00BYZN9041,Future PLC,GB,,,,,,2021,2023,3,,,,,,,C,C,V,,,,,
+CH1335392721,Galderma Group AG,CH,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+CH0360674466,Galenica AG,CH,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+CH0102659627,GAM Holding AG,CH,,,,,,2015,2018,3,C,C,,V,,,,,,,,,,
+GB0003718474,Games Workshop Group PLC,GB,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+FR0011726835,Gaztransport Technigaz,FR,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+IT0001398541,GEDI Gruppo Editoriale S.p.A.,IT,,,,,,2017,2017,1,,,V,,,,,,,,,,,
+JE00B55Q3P39,Genel Energy PLC,JE,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+GB0002074580,Genus PLC,GB,,,,,,2020,2023,4,,,,,,C,C,C,C,,,,,
+IE00B00MZ448,Grafton Group PLC,IE,,,,,,2015,2025,7,C,C,,,,,C,C,C,C,C,,,
+GB00B04V1276,Grainger PLC,GB,,,,,,2020,2021,2,,,,,,C,V,,,,,,,
+LU0775917882,Grand City Properties S.A.,LU,,,,,,2019,2021,3,,,,,C,C,C,,,,,,,
+GRS419003009,Greek Org.of Football Progn.,GR,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+GB00B63QSB39,Greggs PLC,GB,,,,,,2019,2025,7,,,,,C,V,C,C,C,C,C,,,
+DE000A161N30,GRENKE AG,DE,,,,,,2018,2020,3,,,,C,C,V,,,,,,,,
+GB00BMX86B70,Haleon PLC,GB,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+GB00BMBVGQ36,Harbour Energy PLC,GB,,,,,,2022,2023,2,,,,,,,,C,C,,,,,
+FR0000121881,Havas S.A.,FR,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+DE000A13SX22,HELLA GmbH & Co. KGaA,DE,,,,,,2018,2019,2,,,,C,C,,,,,,,,,
+GRS260333000,Hellenic Telecomm. Organ. S.A.,GR,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+DE000A161408,HelloFresh SE,DE,,,,,,2020,2024,5,,,,,,C,C,C,C,V,,,,
+SE0015671995,Hemnet Group AB,SE,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+DE000HAG0005,HENSOLDT AG,DE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+IT0001250932,Hera S.p.A.,IT,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+SE0018040677,Hexatronic Group AB,SE,,,,,,2023,2023,1,,,,,,,,,V,,,,,
+FI4000571013,Hiab Corp.,FI,,,,,,2024,2025,2,,,,,,,,,,C+V,C,FI0009013429,Cargotec Corp.,
+SE0011090018,Holmen AB,SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+GB00B19NKB76,Home Retail Group PLC,GB,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+GB00BYYTFB60,Homeserve PLC,GB,,,,,,2018,2022,5,,,,C,C,C,C,C,,,,,,
+CH0363463438,Idorsia AG,CH,,,,,,2017,2021,3,,,V,,,C,V,,,,,,,
+AT0000A21KS2,Immofinanz AG,AT,,,,,,2015,2020,5,C,C,V,,C,V,,,,,,AT0000809058,,
+ES0118594417,Indra Sistemas S.A.,ES,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+SE0001515552,Indutrade AB,SE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+CH1431598916,Inficon Holding AG,CH,,,,,,2024,2025,2,,,,,,,,,,C,V,CH0011029946,,
+IT0005090300,Infrastrutt. Wireless Italiane,IT,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+ES0139140174,Inmobiliaria Colonial SOCIMI,ES,,,,,,2018,2023,6,,,,C,C,C,C,C,C,,,,,
+LU2290522684,InPost S.A.,LU,,,,,,2021,2025,4,,,,,,,C,,C,C,C,,,
+IT0001078911,Interpump Group S.p.A.,IT,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+CH0006372897,Interroll Holding S.A.,CH,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+GB00B1YKG049,Intl Personal Finance PLC,GB,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+FR0000073298,IPSOS S.A.,FR,,,,,,2024,2024,1,,,,,,,,,,C,,,,
+IT0001465159,Italcementi - Fab.Riun.Cem.SpA,IT,,,,,,2016,2016,1,,V,,,,,,,,,,,,
+NL0015000LU4,Iveco Group N.V.,NL,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+US46817M1071,Jackson Financial Inc.,US,,,,,,2021,2021,1,,,,,,,V,,,,,,,
+JE00B3CM9527,Janus Henderson Gr.,JE,,,,,,2015,2017,3,C,C,V,,,,,,,,,,Henderson Group PLC,
+GB0005203376,Jardine Lloyd Thompson Grp PLC,GB,,,,,,2018,2018,1,,,,C,,,,,,,,,,
+GB00B5TMSP21,Jazztel PLC,GB,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+GB00BM8Q5M07,JD Sports Fashion PLC,GB,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,GB00BYX91H57,,
+NL0014332678,JDE Peet's N.V.,NL,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,JDE Peet's B.V.,
+NL0012015705,Just Eat Takeaway.com N.V.,NL,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,V,,Takeaway.com N.V.,
+DE000KD88880,Kabel Deutschland Holding AG,DE,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+FI4000571054,Kalmar Oyj,FI,,,,,,2024,2024,1,,,,,,,,,,V,,,,
+GB00B0HZPV38,KAZ Minerals PLC,GB,,,,,,2018,2018,1,,,,V,,,,,,,,,,
+BE0003867844,KBC Ancora,BE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+FI0009004824,Kemira Oy,FI,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+PLKGHM000017,KGHM Polska Miedz S.A.,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+SE0007871645,Kindred Group PLC,SE,,,,,,2016,2023,7,,C,C,C,V,,C,C,C,,,,Unibet Group PLC,
+DE000KBX1006,Knorr-Bremse AG,DE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+FI4000312251,Kojamo Oyj,FI,,,,,,2020,2024,5,,,,,,C,C,C,C,V,,,,
+FI0009005870,Konecranes Oyj,FI,,,,,,2018,2025,5,,,,C,C,,,,C,C,C,,,
+NO0013536151,Kongsberg Gruppen AS,NO,,,,,,2022,2025,4,,,,,,,,C,C,C,C+V,NO0003043309,,
+DE0006204407,KUKA AG,DE,,,,,,2016,2016,1,,V,,,,,,,,,,,,
+FR0000120537,Lafarge S.A.,FR,,,,,,2015,2015,1,V,,,,,,,,,,,FR0012750396,,
+SE0014990966,Lagercrantz Group AB,SE,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+BMG5361W1047,Lancashire Holdings Ltd.,BM,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+SE0010100958,Latour Investment AB,SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+GB0005603997,Legal & General Group PLC,GB,,,,,,2015,2025,11,C,C,C,C,C,C,C,C,C,C,C,,,
+DE0005408884,LEONI AG,DE,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+SE0015949201,Lifco AB,SE,,,,,,2020,2025,6,,,,,,C,C+V,C,C,C,C,SE0006370730,,
+ES0105546008,LINEA DIRECTA ASEGURADORA S.A.,ES,,,,,,2021,2021,1,,,,,,,V,,,,,,,
+GB00BF4HYT85,Lion Finance Group PLC,GB,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+GB00B4WFW713,Londonmetric Property PLC,GB,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+GB0031192486,Lonmin PLC,GB,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+IT0005541336,Lottomatica Group S.p.A.,IT,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+BE0003604155,Lotus Bakeries S.A.,BE,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+PLLPP0000011,LPP S.A.,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB00BKFB1C65,M&G PLC,GB,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+FI4000552526,Mandatum OYJ,FI,,,,,,2023,2025,2,,,,,,,,,V,,C,,,
+ES0184696104,Masmovil Ibercom S.A.,ES,,,,,,2020,2020,1,,,,,,V,,,,,,,,
+PLBRE0000012,mBank S.A.,PL,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+SE0000221723,Meda AB,SE,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+ES0152503035,Mediaset España Comunicacion,ES,,,,,,2015,2017,3,C,C,C,,,,,,,,,,,
+IT0001063210,Mediaset S.p.A.,IT,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+FI0009014575,Metso Oyj,FI,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,Metso Outotec Oyj,
+SE0001174970,Millicom Intl Cellular S.A.,SE,,,,,,2021,2024,4,,,,,,,C,C+V,C,C,,SE0018012767,,
+SE0009216278,Mips AB,SE,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+GB0004657408,MITIE Group PLC,GB,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+CH0011108872,Mobimo Holding AG,CH,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+SE0000412371,Modern Times Group MTG AB,SE,,,,,,2015,2018,2,V,,,V,,,,,,,,,,
+DE0006632003,MorphoSys AG,DE,,,,,,2015,2021,5,C,,,C,C,C,V,,,,,,,
+SE0009806607,Munters Group AB,SE,,,,,,2024,2024,1,,,,,,,,,,C,,,,
+SE0025158629,Mycronic AB,SE,,,,,,2024,2025,2,,,,,,,,,,C,C+V,SE0000375115,,
+GRS003003019,National Bank of Greece S.A.,GR,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+ZAE000004875,Nedbank Group Ltd.,ZA,,,,,,2018,2018,1,,,,C,,,,,,,,,,
+NO0010081235,NEL ASA,NO,,,,,,2020,2023,4,,,,,,C,V,C,C,,,,,
+DE0006452907,Nemetschek SE,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+FR0011675362,NEOEN S.A.,FR,,,,,,2024,2024,1,,,,,,,,,,C,,,,
+FR0000120560,Neopost S.A.,FR,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+DK0060952919,Netcompany Group A/ S,DK,,,,,,2020,2022,3,,,,,,C,C,C,,,,,,
+GB00BH3VJ782,Network Internat. Hldgs PLC,GB,,,,,,2020,2020,1,,,,,,C,,,,,,,,
+FR0000044448,Nexans S.A.,FR,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+IT0005366767,Nexi S.p.A.,IT,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+GB00BJHPLV88,Ninety One PLC,GB,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+DK0010287663,NKT A/ S,DK,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+GB00B7FC0762,NMC HEALTH PLC,GB,,,,,,2018,2019,2,,,,C,C,,,,,,,,,
+DE000A0D6554,Nordex SE,DE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+NO0003055501,Nordic Semiconductor ASA,NO,,,,,,2021,2025,4,,,,,,,C,C,C,,C,,,
+SE0015192067,Nordnet AB,SE,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+NL0010558797,OCI N.V.,NL,,,,,,2015,2024,5,C,C,,,,,,C,C,C,,,,
+PLPKN0000018,Orlen S.A.,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,Polski Koncern Naftowy Orlen,
+GB00BLDRH360,OSB GROUP PLC,GB,,,,,,2022,2023,2,,,,,,,,C,V,,,,,
+GB00BP6S8Z30,Oxford Nanopore Technologies,GB,,,,,,2022,2022,1,,,,,,,,C,,,,,,
+GB0030232317,PageGroup PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,Michael Page International PLC,
+GB00B0H2K534,Petrofac Ltd.,GB,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+IT0005278236,Pirelli & C. S.p.A.,IT,,,,,,2015,2019,3,C,,,C,C,,,,,,,IT0004623051,,
+IL0011284465,Plus500 Ltd.,IL,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+PLPGNIG00014,Polskie Gorn.Naft.i Gazo.,PL,,,,,,2019,2019,1,,,,,C,,,,,,,,,
+JE00B5WLXH36,Polyus Gold International Ltd.,JE,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+PLPKO0000016,Powszechna K.O.(PKO)Bk Polski,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+PLPZU0000011,Powszechny Zaklad Ubezpieczen,PL,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB00BYRJ5J14,Primary Health Properties PLC,GB,,,,,,2020,2025,4,,,,,,C,C,C,,,C,,,
+NL0013654783,Prosus N.V.,NL,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+ES0105777017,Puig Brands S.A.,ES,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+DE0006969603,PUMA SE,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB00B0WMWD03,Qinetiq Group PLC,GB,,,,,,2015,2025,7,C,C,V,,,,,C,C,C,C,,,
+FI4000198031,QT Group PLC,FI,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+GB00BDCXV269,Quilter PLC,GB,,,,,,2018,2022,5,,,,C,C,C,C,V,,,,GB00BNHSJN34,,
+DE0007010803,RATIONAL AG,DE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+IT0004931496,RCS MediaGroup S.p.A.,IT,,,,,,2016,2016,1,,V,,,,,,,,,,,,
+NL0012044747,Redcare Pharmacy N.V.,NL,,,,,,2021,2025,2,,,,,,,V,,,,V,,Shop Apotheke Europe N.V.,
+GB00BG11K365,Redrow PLC,GB,,,,,,2020,2020,1,,,,,,V,,,,,,,,
+FR0000130395,Rémy Cointreau S.A.,FR,,,,,,2015,2024,8,C,,,C,C,C,C,C,C,V,,,,
+DE000RENK730,RENK Group AG,DE,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+IT0005282865,Reply S.p.A.,IT,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+GB00B0YG1K06,"Restaurant Group PLC, The",GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+GB00BMHTPY25,Rexam PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+DK0060854669,Ringkjøbing Landbobank AS,DK,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+DK0063855168,Rockwool A/ S,DK,,,,,,2018,2025,8,,,,C,V,C,C,C,C,C,C,DK0010219153,Rockwool International A/ S,
+DK0060634707,Royal Unibrew AS,DK,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB00BFZZM640,S4 Capital PLC,GB,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+GB0004835483,SABMiller PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+GB00B1N7Z094,Safestore Holdings PLC,GB,,,,,,2022,2025,4,,,,,,,,C,C,C,V,,,
+NO0010310956,Salmar ASA,NO,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+SE0009554454,Samhallsbyggnadsbola.I Nord AB,SE,,,,,,2020,2023,4,,,,,,C,C,C,V,,,,,
+CH1243598427,Sandoz Group AG,CH,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+PLBZ00000044,Santander Bank Polska S.A.,PL,,,,,,2018,2025,6,,,,C,C,V,,,C,C,C,,,
+FR0013154002,Sartorius Stedim Biotech S.A.,FR,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+NO0010715139,Scatec ASA,NO,,,,,,2021,2021,1,,,,,,,V,,,,,,,
+BMG7945E1057,SeaDrill Ltd.,BM,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+SE0022419784,Sectra AB,SE,,,,,,2022,2025,4,,,,,,,,C+V,C+V,C+V,C,"SE0016278196
+SE0018245953
+SE0020539310",,
+GB0007973794,Serco Group PLC,GB,,,,,,2015,2025,5,C,,,,,,,C,C,C,C,,,
+FR0011594233,SFR Group S.A.,FR,,,,,,2015,2017,3,C,C,V,,,,,,,,,,Numericable-SFR S.A.,
+CH0239229302,SFS Group AG,CH,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+CH1429326825,Siegfried Holding AG,CH,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,CH0014284498,,
+DE000ENER6Y0,Siemens Energy AG,DE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+DE000SHL1006,Siemens Healthineers AG,DE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+CH0435377954,SIG Group AG,CH,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,SIG Combibloc Group AG; SIG Combibloc Services AG,
+DE000WAF3001,Siltronic AG,DE,,,,,,2018,2019,2,,,,C,V,,,,,,,,,
+SE0016101844,Sinch AB,SE,,,,,,2020,2023,4,,,,,,C,C+V,V,V,,,SE0007439112,,
+BE0003717312,Sofina S.A.,BE,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB00BYZDVK82,Softcat PLC,GB,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+CH0496451508,SoftwareONE Holding AG,CH,,,,,,2020,2021,2,,,,,,C,V,,,,,,,
+FR0013227113,Soitec S.A.,FR,,,,,,2020,2024,5,,,,,,C,C,C,C,C,,,,
+AU000000S320,South32 Ltd.,AU,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+NO0010631567,SpareBank 1 Sør-Norge ASA,NO,,,,,,2025,2025,1,,,,,,,,,,,C,,SpareBank 1 Sor-Norge ASA,"El PDF diu Grunnfondsbevis, però aquest ISIN correspon a accions des de la conversió del banc el 2012. Es manté inclòs."
+GB00B1QH8P22,Sports Direct Intl PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+SE0000120669,SSAB AB,SE,,,,,,2022,2025,4,,,,,,,,C,C,C,C,,,
+CH0002178181,Stadler Rail AG,CH,,,,,,2020,2021,2,,,,,,C,V,,,,,,,
+GB00B6YTLS95,Stagecoach Group PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+SE0016797732,Storskogen Group AB,SE,,,,,,2022,2022,1,,,,,,,,V,,,,,,
+CH0038388911,Sulzer AG,CH,,,,,,2015,2025,3,C,,,,,,,,,C,C,,,
+CH1386220409,Sunrise Communications AG (nova cotització),CH,,,,,,2025,2025,1,,,,,,,,,,,C,,Sunrise Communications AG,Nova societat cotitzada el 2024 després de l’escissió de Liberty Global i la integració amb UPC. Separada de Sunrise Communications Group AG anterior.
+DK0062616637,Svitzer Group A/ S,DK,,,,,,2024,2024,1,,,,,,,,,,V,,,,
+SE0014960373,Sweco AB,SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,SE0000489098,,
+CH0010675863,Swissquote Grp Holding S.A.,CH,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+BE0974464977,Syensqo S.A.,BE,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+CH0011037469,Syngenta AG,CH,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+DE0008303504,TAG Immobilien AG,DE,,,,,,2018,2025,7,,,,C,C,C,C,V,,C,C,,,
+DE000TLX1005,Talanx AG,DE,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+GB00B4YCDF59,Talk Talk Telecom Group PLC,GB,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+GB00BYT18307,TBC Bank Group PLC,GB,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DE000A2YN900,TeamViewer SE,DE,,,,,,2020,2024,4,,,,,,C,C,,C,V,,,TeamViewer AG,
+CH0012100191,Tecan Group AG,CH,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+FR0010918292,Technicolor S.A.,FR,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+NL0014559478,Technip Energies N.V.,NL,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+GB00B282YM11,TeleCity Group PLC,GB,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+FR0000054900,Télévision Fse 1 S.A. (TF1),FR,,,,,,2015,2015,1,C,,,,,,,,,,,,,
+GB00BMTV7393,THG PLC,GB,,,,,,2021,2021,1,,,,,,,C,,,,,,,
+GB00B1VYCH82,Thomas Cook Group PLC,GB,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+SE0006422390,Thule Group AB (publ),SE,,,,,,2020,2025,6,,,,,,C,C,C,C,C,C,,,
+ZAE000296554,THUNGELA RESOURCES,ZA,,,,,,2021,2021,1,,,,,,,V,,,,,,,
+FI0009000277,TietoEVRY Oyj,FI,,,,,,2022,2025,4,,,,,,,,C,C,C,V,,,
+DE000TKMS001,TKMS AG & Co. KGaA,DE,,,,,,2025,2025,1,,,,,,,,,,,V,,,
+NL0009739424,TNT Express N.V.,NL,,,,,,2015,2016,2,C,V,,,,,,,,,,,,
+NO0012470089,Tomra Systems ASA,NO,,,,,,2019,2025,7,,,,,C,C,C,C+V,C,C,C,NO0005668905,,
+DK0060477503,Topdanmark AS,DK,,,,,,2015,2024,7,C,C,,,C,C,,C,C,V,,,,
+GB00BKDTK925,Trainline PLC,GB,,,,,,2020,2021,2,,,,,,C,V,,,,,,,
+GB00BG49KP99,Tritax Big Box REIT PLC,GB,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+GB0009123323,Ultra Electronics Hldgs PLC,GB,,,,,,2015,2022,3,C,C,,,,,,V,,,,,,
+ES0180907000,Unicaja Banco S.A.,ES,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+IT0004810054,Unipol Assicurazioni S.p.A.,IT,,,,,,2015,2025,4,C,V,,,,,,,,C,C,,Unipol Gruppo Finanziario SpA; Unipol Gruppo S.p.A.,
+GB0006928617,Unite Group PLC,GB,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+NL0015000IY2,Universal Music Group N.V.,NL,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+FR0013506730,Vallourec S.A.,FR,,,,,,2015,2025,3,C,,,,,,,,,C,C,FR0000120354,,
+FI4000074984,Valmet Oyj,FI,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+ZAE000013181,Valterra Platinum Ltd.,ZA,,,,,,2025,2025,1,,,,,,,,,,,V,,,
+DE000A3H3LL2,Vantage Towers AG,DE,,,,,,2022,2022,1,,,,,,,,C,,,,,,
+NO0011202772,Var Energi ASA,NO,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+DE000A0TGJ55,VARTA AG,DE,,,,,,2020,2020,1,,,,,,C,,,,,,,,
+CH0311864901,VAT Group AG,CH,,,,,,2018,2025,8,,,,C,C,C,C,C,C,C,C,,,
+FR0013447729,Verallia SA,FR,,,,,,2023,2025,3,,,,,,,,,C,C,V,,,
+AT0000746409,Verbund AG,AT,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,,,
+SE0012116390,Viaplay Group AB,SE,,,,,,2021,2022,2,,,,,,,C,C,,,,,Nordic Entertainment Group AB,
+ES0183746314,Vidrala S.A.,ES,,,,,,2023,2025,3,,,,,,,,,C,C,C,,,
+AT0000908504,Vienna Insurance Group AG,AT,,,,,,2015,2015,1,V,,,,,,,,,,,,,
+GB0001859296,Vistry Group PLC,GB,,,,,,2015,2025,8,C,C,,,,V,C,C,C,C,C,,Bovis Homes Group PLC,
+DE000VTSC017,Vitesco Technologies Group AG,DE,,,,,,2021,2021,1,,,,,,,V,,,,,,,
+SE0011205202,Vitrolife AB,SE,,,,,,2021,2022,2,,,,,,,C,C,,,,,,
+SE0021628898,Volvo Car AB,SE,,,,,,2022,2024,3,,,,,,,,C,C,C,,SE0016844831,,
+CH0528751586,VZ Holding AG,CH,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DE000WCH8881,Wacker Chemie AG,DE,,,,,,2018,2024,4,,,,C,,,,C,C,C,,,,
+SE0017780133,Wallenstam AB,SE,,,,,,2020,2025,6,,,,,,C,C,C+V,V,C,C,SE0007074844,,
+BE0974349814,Warehouses De Pauw N.V.,BE,,,,,,2019,2025,7,,,,,C,C,C,C,C,C,C,BE0003763779,Warehouses De Pauw S.C.A.,Canvi de forma social i desdoblament de les accions de WDP.
+GB00BJDQQ870,Watches Of Switzerland Grp PLC,GB,,,,,,2022,2023,2,,,,,,,,C,C,,,,,
+NL0000289213,Wereldhave N.V.,NL,,,,,,2015,2016,2,C,C,,,,,,,,,,,,
+SE0018012635,Wihlborgs Fastigheter AB,SE,,,,,,2020,2025,6,,,,,,C,C,C+V,C,C,C,SE0011205194,,
+GB00BL9YR756,Wise PLC,GB,,,,,,2021,2025,5,,,,,,,C,C,C,C,C,,,
+JE00BN574F90,Wizz Air Holdings PLC,JE,,,,,,2021,2022,2,,,,,,,C,V,,,,,,
+FR0011981968,Worldline S.A.,FR,,,,,,2019,2024,6,,,,,C,C,C,C,C,C,,,,
+GB0000608009,WS Atkins PLC,GB,,,,,,2015,2017,3,C,C,V,,,,,,,,,,,
+ES0184933812,Zardoya Otis S.A.,ES,,,,,,2015,2016,2,C+V,C+V,,,,,,,,,,"ES0184933069
+ES0184933085",,
+DK0060257814,Zealand Pharma A/ S,DK,,,,,,2024,2025,2,,,,,,,,,,C,C,,,
+GB00BVGBY890,Zegona Communications PLC,GB,,,,,,2025,2025,1,,,,,,,,,,,C,,,
+DE0005111702,zooplus AG,DE,,,,,,2021,2021,1,,,,,,,C,,,,,,,
+CH0042615283,Zur Rose Group AG,CH,,,,,,2021,2021,1,,,,,,,C,,,,,,,
