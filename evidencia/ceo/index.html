@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Arxiu d'evidència CEO · Dashboard Fundadors</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:system-ui,sans-serif;margin:0;background:#f6f7f9;color:#1d2330;line-height:1.45}
+header{background:#1d3557;color:#fff;padding:16px 20px}
+h1{margin:0;font-size:1.3rem}
+header p{margin:4px 0 0;opacity:.92}
+header a{color:#ffe8a3}
+.banner{background:#ffe8a3;color:#5a4300;padding:10px 20px;border-bottom:1px solid #e0c060}
+.banner p{margin:0}
+main{padding:16px 20px;max-width:980px;margin:auto}
+h2{font-size:1.15rem;margin:1.4rem 0 .4rem}
+h3{font-size:1rem;margin:1rem 0 .3rem}
+a{color:#1d3557}
+.card,.doc{background:#fff;border-radius:8px;padding:16px 18px;box-shadow:0 1px 3px #0002;margin:14px 0}
+.navi{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.navi a{background:#fff;border-radius:8px;padding:8px 12px;box-shadow:0 1px 3px #0002;text-decoration:none}
+.navi a:hover{background:#f0f5ff}
+.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0}
+.st{padding:2px 8px;border-radius:10px;font-size:.8rem}
+.pendent{background:#eee}
+.verificada{background:#d1fae5}
+.discutida{background:#fde2e2}
+.pagdiff{background:#ffe8a3;color:#5a4300}
+.ev{border:1px solid #ddd;border-radius:8px;padding:10px;margin:8px 0;font-size:.88rem;background:#fff}
+.ev p{margin:.35rem 0}
+.evmiss{background:#fff7f7;border-color:#e7b4b4}
+.miss{color:#9a3412;font-weight:600}
+blockquote{margin:6px 0;padding:6px 10px;background:#f6f7f9;border-left:3px solid #1d3557}
+.note{background:#f6f7f9;border-radius:8px;padding:8px 10px;font-size:.88rem}
+.buit{background:#fde2e2;color:#5c1a1a;border:1px solid #e7b4b4;border-radius:8px;padding:12px 14px;margin:10px 0}
+code,.url{word-break:break-all}
+.id{font-size:.8rem;color:#3d4a63}
+.back{margin:0 0 8px}
+ul{margin:.3rem 0 .6rem;padding-left:1.2rem}
+</style>
+</head>
+<body>
+<header>
+<h1>Arxiu d'evidència CEO</h1>
+<p>Pilot de tres empreses · protocol v1.2.0 · fase CEO · 6/11/2026 (Europe/Madrid)</p>
+<p><a href="../../">Torna a la graella 2015–2025</a> · <a href="LLEGIRME.md">LLEGIRME.md</a> · <a href="https://github.com/jmasoribas-max/dashboard-fundadors-proto/tree/main/evidencia/ceo">Carpeta al GitHub (main)</a></p>
+</header>
+<div class="banner">
+<p>Pàgina documental del pilot d'arxiu, abans de cap altre lot de CEO. No comprova si el CEO és fundador. No substitueix <a href="LLEGIRME.md">LLEGIRME.md</a> ni els fitxers de cada ISIN.</p>
+</div>
+<main>
+<section class="doc" id="que-es-guarda">
+<h2>Què es guarda</h2>
+<p>La carpeta guarda què s'ha preguntat i què s'ha trobat per a les tres primeres empreses del lot de prova, de manera que es pugui auditar sense descarregar els PDF complets. La clau és l'ISIN de referència: el nom comercial pot canviar; l'ISIN no es duplica.</p>
+<p>A cada carpeta d'ISIN hi ha:</p>
+<ul>
+<li><code>README.md</code> — resum humà: què s'ha fet, tinences, límits.</li>
+<li><code>resultat.json</code> — JSON rígid tornat per ChatGPT, sense retocar.</li>
+<li><code>resposta_chatgpt.raw.txt</code> — text brut de la resposta.</li>
+<li><code>extractes.json</code> — catàleg: URL, pàgina, cita, data de captura i hash.</li>
+<li><code>extractes/</code> — només la pàgina o el paràgraf citat, en <code>.txt</code>.</li>
+</ul>
+<p>L'enllaç a l'informe o al comunicat complet es deixa a la web de l'empresa. El <code>sha256</code> és el SHA-256 del fitxer d'extracte (UTF-8), no de l'PDF sencer. Les taules de sota es llegeixen d'<code>extractes.json</code> en obrir la pàgina; no en són una còpia editada.</p>
+<h2>Què vol dir <code>verificada_A</code></h2>
+<p>A cada any de <code>resultat.json</code>, <code>verificada_A</code> vol dir que la identitat i la tinença tenen font A. No vol dir que s'hagi obert l'informe de cada exercici per comprovar un canvi entre el 31/10 i el tancament.</p>
+<p>Un any reculat per tinença (D21) cita l'informe més recent o el comunicat de nomenament, no necessàriament l'informe d'aquell any. Les cites de Maersk no tenen extracte propi: <code>investor.maersk.com</code> va respondre HTTP 403.</p>
+<p>Al catàleg, <code>cita_trobada_al_pdf</code> o <code>cita_trobada_al_html</code> vol dir que la cita hi era. <code>no_baixat_http_403</code> vol dir que la font no s'ha pogut baixar. Si la pàgina citada i l'observada no coincideixen, l'estat del fitxer ho diu amb el valor que ja porta (<code>cita_trobada_al_pdf_pagina_diferent</code> o <code>cita_trobada_al_pdf_pagina_impresa_coincidente</code>).</p>
+</section>
+
+<nav class="navi" aria-label="Empreses del pilot">
+<a href="#GB00B1YW4409">GB00B1YW4409 · 3i Group</a>
+<a href="#DK0010244508">DK0010244508 · Maersk · sense extracte</a>
+<a href="#IT0001233417">IT0001233417 · A2A</a>
+</nav>
+
+<article class="card" id="GB00B1YW4409">
+<h2>GB00B1YW4409 · 3i Group PLC</h2>
+<p>ISIN de referència. A la graella de l'univers, la fila es diu «3i Group PLC Registered Shares LS -.738636».</p>
+<p><b>Anys de mostra (README):</b> 2015–2025 (tots C a l'Excel de l'ETF, 31/10).</p>
+<h3>Tinença</h3>
+<blockquote>
+<p>Una sola tinença cobreix tot el període: Simon Borrows, des del 17/05/2012 (encara en càrrec al FY2026).</p>
+<p>L'exercici de 3i acaba el 31 de març. Per tant el 31/10/t cau a l'FY que tanca el 31/03/t+1 (exemple: 31/10/2025 → FY2026).</p>
+<p>Els anys 2015–2023 es reculen per tinença (D21) a partir de l'informe FY2026 (“Chief Executive since 2012”) i del comunicat de nomenament de 2012. No s'han obert els onze informes històrics un per un. <code>verificada_A</code> al JSON acredita identitat i tinença, no una comprovació individual de cada FY sobre canvis entre el 31/10 i el tancament.</p>
+</blockquote>
+<p class="links">
+<a href="GB00B1YW4409/resultat.json">resultat.json</a>
+<a href="GB00B1YW4409/resposta_chatgpt.raw.txt">resposta_chatgpt.raw.txt</a>
+<a href="GB00B1YW4409/extractes.json">extractes.json</a>
+<a href="GB00B1YW4409/README.md">README.md</a>
+<a href="https://github.com/jmasoribas-max/dashboard-fundadors-proto/tree/main/evidencia/ceo/GB00B1YW4409">Carpeta al GitHub</a>
+<a href="https://chatgpt.com/g/g-p-6aedb79283e48191a10cf88b89500041-fundadors/c/6aedc918-c3b8-83ed-9e8e-10bca42f6e94">Xat d'origen</a>
+</p>
+<h3>Extractes</h3>
+<div id="ext-GB00B1YW4409"><p>Llegint extractes.json…</p></div>
+</article>
+
+<article class="card" id="DK0010244508">
+<h2>DK0010244508 · A.P. Møller-Mærsk A/S</h2>
+<p>ISIN de referència. A la graella de l'univers, la fila es diu «A.P.Møller-Mærsk A/S Navne-Aktier B DK 1000».</p>
+<p><b>Anys de mostra (README):</b> 2015–2025 (tots C).</p>
+<h3>Tinença</h3>
+<p>El README titula aquesta conclusió «segons ChatGPT; fonts no rebaixades».</p>
+<blockquote>
+<p>Nils Smedegaard Andersen fins al 30/06/2016.</p>
+<p>Søren Skou des de l'1/07/2016 fins al 31/12/2022.</p>
+<p>Vincent Clerc des de l'1/01/2023.</p>
+<p>El 31/10/2016 ja és Skou; el 31/10/2022 encara Skou (el relleu és l'1/01/2023).</p>
+</blockquote>
+<div class="buit" role="status">
+<p><strong>Sense extractes.</strong> No s'ha desat cap fitxer <code>.txt</code>. El 6/11/2026, <code>investor.maersk.com</code> va respondre HTTP 403 des de l'ordinador d'arxiu. No hi ha extracte ni SHA-256 propi. Les cites resten reclamades a <code>resultat.json</code>. Cada fila d'<code>extractes.json</code> està marcada <code>verificacio=no_baixat_http_403</code>. ChatGPT també va reportar 403 en obrir el PDF de l'Annual Report 2025.</p>
+<p><a href="DK0010244508/extractes/NO_EXTRACTES.md">extractes/NO_EXTRACTES.md</a></p>
+</div>
+<p class="links">
+<a href="DK0010244508/resultat.json">resultat.json</a>
+<a href="DK0010244508/resposta_chatgpt.raw.txt">resposta_chatgpt.raw.txt</a>
+<a href="DK0010244508/extractes.json">extractes.json</a>
+<a href="DK0010244508/README.md">README.md</a>
+<a href="https://github.com/jmasoribas-max/dashboard-fundadors-proto/tree/main/evidencia/ceo/DK0010244508">Carpeta al GitHub</a>
+<a href="https://chatgpt.com/g/g-p-6aedb79283e48191a10cf88b89500041-fundadors/c/6aedc9a8-2954-83ed-a0a7-9e14f61859f6">Xat d'origen</a>
+</p>
+<h3>Extractes reclamats, no baixats</h3>
+<div id="ext-DK0010244508"><p>Llegint extractes.json…</p></div>
+</article>
+
+<article class="card" id="IT0001233417">
+<h2>IT0001233417 · A2A S.p.A.</h2>
+<p>ISIN de referència. A la graella de l'univers, la fila es diu «A2A S.p.A. Azioni nom. EO 0.52».</p>
+<p><b>Anys de mostra (README):</b> 2016–2025 (2015 buit a l'Excel).</p>
+<h3>Tinença</h3>
+<blockquote>
+<p>Luca Valerio Camerano, nomenat 17/06/2014, fins al relleu del 14/05/2020.</p>
+<p>Renato Mazzoncini, nomenat 14/05/2020 (Amministratore Delegato e Direttore Generale), en càrrec al tancament de 2025.</p>
+<p>El 31/10/2020 ja és Mazzoncini. El tram 2016–2019 es recula per tinença a partir del comunicat de 2014 i de comunicats posteriors; el 2025 es confirma a la Relazione sul Governo Societario 2025.</p>
+</blockquote>
+<p class="note">Comunicats de 2014, 2016 i 2020 (HTML) i pàgines 10–11 de la relació de govern 2025 (al PDF; ChatGPT va citar pàgina 9). No s'ha guardat l'PDF sencer.</p>
+<p class="links">
+<a href="IT0001233417/resultat.json">resultat.json</a>
+<a href="IT0001233417/resposta_chatgpt.raw.txt">resposta_chatgpt.raw.txt</a>
+<a href="IT0001233417/extractes.json">extractes.json</a>
+<a href="IT0001233417/README.md">README.md</a>
+<a href="https://github.com/jmasoribas-max/dashboard-fundadors-proto/tree/main/evidencia/ceo/IT0001233417">Carpeta al GitHub</a>
+<a href="https://chatgpt.com/g/g-p-6aedb79283e48191a10cf88b89500041-fundadors/c/6aedc9f3-b9c8-83ed-9717-2b1f68f9ca4e">Xat d'origen</a>
+</p>
+<h3>Extractes</h3>
+<div id="ext-IT0001233417"><p>Llegint extractes.json…</p></div>
+</article>
+</main>
+<script>
+const ISINS=["GB00B1YW4409","DK0010244508","IT0001233417"];
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function dash(v){return v==null||v===""?"—":esc(v)}
+function statusClass(v){
+  if(v==="no_baixat_http_403")return "discutida";
+  if(typeof v==="string"&&v.indexOf("pagina_")>=0)return "pagdiff";
+  if(typeof v==="string"&&v.indexOf("cita_trobada")===0)return "verificada";
+  return "pendent";
+}
+function captura(row){
+  if(row.data_captura)return esc(row.data_captura)+(row.zona_horaria_captura?" · "+esc(row.zona_horaria_captura):"");
+  const m=String(row.notes||"").match(/\d{4}-\d{2}-\d{2}/);
+  if(row.verificacio==="no_baixat_http_403")return '<span class="miss">sense captura</span>'+(m?" · el catàleg esmenta l'intent del "+esc(m[0]):"");
+  return "—";
+}
+function card(isin,row){
+  const ver=row.verificacio||"";
+  const file=row.fitxer_extracte
+    ?`<a href="${esc(isin)}/extractes/${esc(row.fitxer_extracte)}">${esc(row.fitxer_extracte)}</a>`
+    :'<span class="miss">cap fitxer</span>';
+  const sha=row.sha256?`<code>${esc(row.sha256)}</code>`:'<span class="miss">sense SHA-256</span>';
+  const citaKey=row.cita_literal!=null?"cita_literal":(row.cita_reclamada!=null?"cita_reclamada":"");
+  const cita=citaKey?`<p><b>${esc(citaKey)}:</b></p><blockquote>${esc(row[citaKey])}</blockquote>`:"";
+  const url=row.url?`<a class="url" href="${esc(row.url)}">${esc(row.url)}</a>`:"—";
+  const bytes=row.bytes!=null?" · "+esc(String(row.bytes))+" bytes":"";
+  const notes=row.notes?`<p class="note"><b>notes:</b> ${esc(row.notes)}</p>`:"";
+  const us=row.us?`<p><b>us:</b> ${esc(row.us)}</p>`:"";
+  const idAttr=/^[A-Za-z0-9_-]+$/.test(String(row.id||""))?` id="ext-${esc(row.id)}"`:"";
+  return `<article class="ev${ver==="no_baixat_http_403"?" evmiss":""}"${idAttr}>
+<p><span class="st ${statusClass(ver)}">${dash(ver)}</span> <code class="id">${dash(row.id)}</code></p>
+<p><b>Fitxer:</b> ${file}${bytes}</p>
+<p><b>URL:</b> ${url}</p>
+<p><b>Pàgina citada:</b> ${dash(row.pagina_citada)} · <b>Pàgina observada:</b> ${dash(row.pagina_observada)}</p>
+<p><b>Data de captura:</b> ${captura(row)}</p>
+<p><b>SHA-256:</b> ${sha}</p>
+${cita}${us}${notes}
+</article>`;
+}
+async function load(isin){
+  const host=document.getElementById("ext-"+isin);
+  try{
+    const res=await fetch(isin+"/extractes.json");
+    if(!res.ok)throw new Error("HTTP "+res.status);
+    const rows=await res.json();
+    if(!Array.isArray(rows)||!rows.length){
+      host.innerHTML='<p class="buit">extractes.json no té files.</p>';
+      return;
+    }
+    host.innerHTML=rows.map(row=>card(isin,row)).join("");
+  }catch(err){
+    host.innerHTML='<p class="buit">No s\'ha pogut llegir '+esc(isin)+'/extractes.json ('+esc(err.message||err)+'). El catàleg continua al fitxer.</p>';
+  }
+}
+ISINS.forEach(load);
+</script>
+</body>
+</html>

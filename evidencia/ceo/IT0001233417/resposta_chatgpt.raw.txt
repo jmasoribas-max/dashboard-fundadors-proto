@@ -1,0 +1,316 @@
+{
+"protocol_version": "v1.2.0",
+"fase": "ceo",
+"isin": "IT0001233417",
+"nom": "A2A S.p.A.",
+"informe_mes_recent": {
+"url": "https://www.gruppoa2a.it/sites/default/files/2026-04/relazione-governo-societario-2025.pdf",
+"exercici": "2025",
+"data_tancament_fy": "2025-12-31",
+"titol": "Relazione sul Governo Societario e gli Assetti Proprietari 2025"
+},
+"periodes_tinenca": [
+{
+"nom": "Renato Mazzoncini",
+"inici": "2020-05-14",
+"fi": null,
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-spa-consiglio-di-amministrazione-140520",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Milano, 14 maggio 2020 – In data odierna si è riunito per la prima volta sotto la Presidenza di Marco Emilio Angelo Patuano il Consiglio di Amministrazione di A2A S.p.A. nominato dall’Assemblea dei Soci del 13 maggio 2020. Il Consiglio ha nominato Renato Mazzoncini quale Amministratore Delegato e Direttore Generale della Società."
+},
+{
+"nom": "Luca Valerio Camerano",
+"inici": "2014-06-17",
+"fi": "2020-05-13",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/deliberazione-consiglio-di-amministrazione-17-giugno-2014",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Milano, 17 giugno 2014 – In data odierna si è riunito per la prima volta sotto la Presidenza del Prof. Giovanni Valotti il Consiglio di Amministrazione di A2A S.p.A. Il Consiglio ha nominato Luca Valerio Camerano quale Amministratore Delegato, al quale ha conferito ampi poteri per la gestione ordinaria della Società."
+}
+],
+"ceos": [
+{
+"any": 2025,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2025",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/sites/default/files/2026-04/relazione-governo-societario-2025.pdf",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2026-03-17",
+"titol_pagina": "Relazione sul Governo Societario e gli Assetti Proprietari 2025",
+"pagina": "9 (pàgina impresa 8)",
+"cita_literal": "Si fornisce di seguito una rappresentazione grafica della struttura di governance della Società al 31 dicembre 2025 e della composizione del Consiglio di Amministrazione in carica alla data del presente documento [...] AMMINISTRATORE DELEGATO E DIRETTORE GENERALE Renato Mazzoncini"
+}
+]
+},
+{
+"any": 2024,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2024",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-spa-consiglio-di-amministrazione-140520",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2020-05-14",
+"titol_pagina": "A2A S.P.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ha nominato Renato Mazzoncini quale Amministratore Delegato e Direttore Generale della Società."
+},
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-consiglio-amministrazione",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2023-05-02",
+"titol_pagina": "A2A S.p.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ha nominato il Direttore Generale Renato Mazzoncini quale Amministratore Delegato della Società."
+}
+]
+},
+{
+"any": 2023,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2023",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-consiglio-amministrazione",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2023-05-02",
+"titol_pagina": "A2A S.p.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Milano, 2 maggio 2023 – In data odierna si è riunito per la prima volta sotto la Presidenza di Marco Emilio Angelo Patuano il Consiglio di Amministrazione di A2A S.p.A. nominato dall’Assemblea dei Soci del 28 aprile 2023. Il Consiglio ha nominato il Direttore Generale Renato Mazzoncini quale Amministratore Delegato della Società."
+}
+]
+},
+{
+"any": 2022,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2022",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-spa-consiglio-di-amministrazione-140520",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2020-05-14",
+"titol_pagina": "A2A S.P.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ha nominato Renato Mazzoncini quale Amministratore Delegato e Direttore Generale della Società."
+},
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/chi-siamo/nostro-management/renato-mazzoncini",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": null,
+"titol_pagina": "Il nostro management: Renato Mazzoncini",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Renato Mazzoncini è Amministratore Delegato e Direttore Generale di A2A da maggio 2020."
+}
+]
+},
+{
+"any": 2021,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2021",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-spa-consiglio-di-amministrazione-140520",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2020-05-14",
+"titol_pagina": "A2A S.P.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ha nominato Renato Mazzoncini quale Amministratore Delegato e Direttore Generale della Società."
+},
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/chi-siamo/nostro-management/renato-mazzoncini",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": null,
+"titol_pagina": "Il nostro management: Renato Mazzoncini",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Renato Mazzoncini è Amministratore Delegato e Direttore Generale di A2A da maggio 2020."
+}
+]
+},
+{
+"any": 2020,
+"a_mostra": 1,
+"ceo_31_10": "Renato Mazzoncini",
+"ceo_tancament_fy": "Renato Mazzoncini",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2020",
+"ceo_since": "2020-05-14",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-spa-consiglio-di-amministrazione-140520",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2020-05-14",
+"titol_pagina": "A2A S.P.A.: Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Milano, 14 maggio 2020 – In data odierna si è riunito per la prima volta sotto la Presidenza di Marco Emilio Angelo Patuano il Consiglio di Amministrazione di A2A S.p.A. nominato dall’Assemblea dei Soci del 13 maggio 2020. Il Consiglio ha nominato Renato Mazzoncini quale Amministratore Delegato e Direttore Generale della Società."
+}
+]
+},
+{
+"any": 2019,
+"a_mostra": 1,
+"ceo_31_10": "Luca Valerio Camerano",
+"ceo_tancament_fy": "Luca Valerio Camerano",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2019",
+"ceo_since": "2014-06-17",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-presentato-bilancio-integrato-2018-terzo-bilancio-sostenibilita",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2019-07-09",
+"titol_pagina": "A2A, presentato il Bilancio Integrato 2018 e il terzo Bilancio di Sostenibilità di Milano",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Le attività e i piani di A2A sono stati illustrati dal Presidente del Gruppo A2A Giovanni Valotti e dall’Amministratore Delegato Valerio Camerano."
+},
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-cessazione-del-rapporto-di-lavoro-140520",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2020-05-14",
+"titol_pagina": "A2A: cessazione del rapporto di lavoro con il dottor Luca Valerio Camerano",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ringrazia il dottor Camerano per l’impegno, la dedizione ed il contributo in termini di creazione di valore resi durante gli anni alla guida della Società, formulandogli i migliori auguri per le sue future attività professionali."
+}
+]
+},
+{
+"any": 2018,
+"a_mostra": 1,
+"ceo_31_10": "Luca Valerio Camerano",
+"ceo_tancament_fy": "Luca Valerio Camerano",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2018",
+"ceo_since": "2014-06-17",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-presentato-bilancio-integrato-2018-terzo-bilancio-sostenibilita",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2019-07-09",
+"titol_pagina": "A2A, presentato il Bilancio Integrato 2018 e il terzo Bilancio di Sostenibilità di Milano",
+"pagina": "HTML, sense paginació",
+"cita_literal": "A2A ha presentato oggi a Milano, nell’ambito del workshop “Il valore industriale della sostenibilità” i suoi impegni e le sue azioni per contribuire alla realizzazione degli obiettivi dell’Agenda ONU al 2030, sintetizzati nel Bilancio Integrato e nel Bilancio di Sostenibilità di Milano. Le attività e i piani di A2A sono stati illustrati dal Presidente del Gruppo A2A Giovanni Valotti e dall’Amministratore Delegato Valerio Camerano."
+}
+]
+},
+{
+"any": 2017,
+"a_mostra": 1,
+"ceo_31_10": "Luca Valerio Camerano",
+"ceo_tancament_fy": "Luca Valerio Camerano",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2017",
+"ceo_since": "2014-06-17",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/deliberazione-consiglio-di-amministrazione-17-giugno-2014",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2014-06-17",
+"titol_pagina": "Deliberazione Consiglio di Amministrazione",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Il Consiglio ha nominato Luca Valerio Camerano quale Amministratore Delegato, al quale ha conferito ampi poteri per la gestione ordinaria della Società."
+},
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-pianifica-la-sostenibilita-promuovere-economia-circolare-decarbonizzazione-reti-e-servizi-smart",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2016-07-11",
+"titol_pagina": "A2A pianifica la Sostenibilità per promuovere economia circolare, decarbonizzazione, reti e servizi smart e innovazione sociale",
+"pagina": "HTML, sense paginació",
+"cita_literal": "A2A presenta oggi gli impegni per un business sempre più sostenibile, sintetizzati nella Politica di Sostenibilità al 2030 e nel Piano di sostenibilità 2016-2020, illustrati dal Presidente, Giovanni Valotti, dall’Amministratore Delegato, Valerio Camerano, e dal Presidente del Comitato Territorio e Sostenibilità Stefano Pareglio."
+}
+]
+},
+{
+"any": 2016,
+"a_mostra": 1,
+"ceo_31_10": "Luca Valerio Camerano",
+"ceo_tancament_fy": "Luca Valerio Camerano",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2016",
+"ceo_since": "2014-06-17",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-pianifica-la-sostenibilita-promuovere-economia-circolare-decarbonizzazione-reti-e-servizi-smart",
+"organitzacio_emissora": "A2A S.p.A.",
+"data_document": "2016-07-11",
+"titol_pagina": "A2A pianifica la Sostenibilità per promuovere economia circolare, decarbonizzazione, reti e servizi smart e innovazione sociale",
+"pagina": "HTML, sense paginació",
+"cita_literal": "Milano, 11 luglio 2016 – A2A presenta oggi gli impegni per un business sempre più sostenibile, sintetizzati nella Politica di Sostenibilità al 2030 e nel Piano di sostenibilità 2016-2020, illustrati dal Presidente, Giovanni Valotti, dall’Amministratore Delegato, Valerio Camerano, e dal Presidente del Comitato Territorio e Sostenibilità Stefano Pareglio."
+}
+]
+}
+],
+"cerques_fetas": [
+"site:gruppoa2a.it annual report 2025 A2A pdf amministratore delegato",
+"A2A 2025 relazione finanziaria annuale amministratore delegato 2025",
+"A2A CEO 2024 2020 2017 amministratore delegato nomina",
+"site:gruppoa2a.it Luca Valerio Camerano 2019 amministratore delegato",
+"site:gruppoa2a.it Luca Valerio Camerano 2016 amministratore delegato",
+"site:gruppoa2a.it Valerio Camerano 2014 nominato amministratore delegato"
+],
+"notes_metodologiques": "S'han identificat dos períodes de CEO que cobreixen tots els anys de mostra 2016–2025: Luca Valerio Camerano (2016–2019) i Renato Mazzoncini (2020–2025). L'informe de govern corporatiu de 2025 confirma Mazzoncini com a Amministratore Delegato e Direttore Generale al tancament del 31/12/2025; el comunicat oficial del 14/05/2020 confirma la seva designació i permet recular per tinença. La designació de Camerano consta al comunicat oficial del 17/06/2014. El 14/05/2020 es produeix el relleu: el comunicat de cessament de Camerano indica renúncia a les delegacions aquell mateix dia, mentre que la finalització del contracte laboral és efectiva el 31/05/2020; aquestes dates no s'han de confondre. El fi de la tinença com a CEO de Camerano s'ha consignat com a 13/05/2020, dia anterior al relleu formal. Tots els anys es codifiquen amb proxy_tancament=true, però només s'ha consultat directament un document anual de FY2025 amb identificació explícita del CEO a tancament. Els valors de ceo_tancament_fy dels exercicis 2016–2024 són reconstruccions a partir de les dates de nomenament i els comunicats corporatius, no verificacions directes dels respectius informes anuals. Per tant, la comprovació exhaustiva del proxy de tancament i de l'absència de canvis entre el 31/10 i el tancament de cada FY continua pendent per a 2016–2024. La font anual 2025 és la Relazione sul Governo Societario e gli Assetti Proprietari, document oficial de govern corporatiu associat a l'exercici, no el conjunt complet dels estats financers. L'empresa publica també la Relazione sulla Gestione 2025 i el Bilancio Consolidato 2025 al seu Life Reporting Hub: https://www.gruppoa2a.it/it/investitori/life-reporting-hub. La data de finalització del document de govern corporatiu 2025 és el 17/03/2026, segons la seva pàgina 6. Les fonts HTML no tenen paginació. No s'han calculat hashes SHA-256. No s'ha investigat la condició de fundador de cap CEO ni la història fundacional de l'empresa. L'any 2015 queda exclòs perquè la cel·la Excel és buida."
+}

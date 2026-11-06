@@ -1,0 +1,23 @@
+[
+  {
+    "id": "maersk-change-ceo-2022",
+    "url": "https://investor.maersk.com/news-releases/news-release-details/change-ceo",
+    "cita_reclamada": "Effective as of 1 January 2023 Vincent Clerc will be appointed new CEO of A.P. Møller - Mærsk A/S replacing Søren Skou who will leave the Group.",
+    "verificacio": "no_baixat_http_403",
+    "notes": "La pàgina investor.maersk.com ha tornat HTTP 403 des de l'ordinador d'arxiu el 2026-11-06. La cita resta com a reclamada per ChatGPT, no contrastada independentment."
+  },
+  {
+    "id": "maersk-skou-2016",
+    "url": "https://investor.maersk.com/news-releases/news-release-details/ap-moller-maersk-soren-skou-appointed-new-ceo-maersk-group",
+    "cita_reclamada": "the Board of Directors has today appointed Søren Skou as new Chief Executive Officer of A.P. Møller - Mærsk A/S, replacing Nils S. Andersen",
+    "verificacio": "no_baixat_http_403",
+    "notes": "HTTP 403 el 2026-11-06. Cita reclamada per ChatGPT, no contrastada independentment."
+  },
+  {
+    "id": "maersk-ar2025-release",
+    "url": "https://investor.maersk.com/news-releases/news-release-details/annual-report-2025",
+    "cita_reclamada": "CEO of A.P. Møller - Mærsk A/S, Vincent Clerc, states:",
+    "verificacio": "no_baixat_http_403",
+    "notes": "HTTP 403 el 2026-11-06. ChatGPT també va reportar 403 en obrir el PDF de l'Annual Report 2025."
+  }
+]
