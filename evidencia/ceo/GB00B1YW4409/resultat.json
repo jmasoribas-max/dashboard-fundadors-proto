@@ -1,0 +1,326 @@
+{
+  "protocol_version": "v1.2.0",
+  "fase": "ceo",
+  "isin": "GB00B1YW4409",
+  "nom": "3i Group PLC",
+  "informe_mes_recent": {
+    "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+    "exercici": "FY2026",
+    "data_tancament_fy": "2026-03-31",
+    "titol": "3i Group plc Annual report and accounts 2026"
+  },
+  "periodes_tinenca": [
+    {
+      "nom": "Simon Borrows",
+      "inici": "2012-05-17",
+      "fi": null,
+      "url": "https://www.3i.com/media/news/2012/3i-group-appoints-new-chief-executive-officer/",
+      "pagina": "sense paginació (comunicat oficial HTML)",
+      "cita_literal": "3i Group plc today announces that, in concluding a process that considered a strong field of both external and internal candidates, it has appointed Simon Borrows to succeed Michael Queen as Chief Executive Officer with effect from 17 May 2012."
+    }
+  ],
+  "ceos": [
+    {
+      "any": 2025,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2026 (2025-04-01 a 2026-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "113",
+          "cita_literal": "Executive Committee at 31 March 2026. Simon Borrows Chief Executive"
+        },
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Simon Borrows Chief Executive. Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        },
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/media/news/2012/3i-group-appoints-new-chief-executive-officer/",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2012-05-17",
+          "titol_pagina": "3i Group appoints new Chief Executive Officer",
+          "pagina": "sense paginació",
+          "cita_literal": "it has appointed Simon Borrows to succeed Michael Queen as Chief Executive Officer with effect from 17 May 2012."
+        }
+      ]
+    },
+    {
+      "any": 2024,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2025 (2024-04-01 a 2025-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/media/cxwbwcdw/3i-group-annual-report-2025-interactive.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2025-05-22",
+          "titol_pagina": "3i Group plc Annual report and accounts 2025",
+          "pagina": "104",
+          "cita_literal": "Executive Committee at 31 March 2025. Simon Borrows Chief Executive"
+        },
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/media/cxwbwcdw/3i-group-annual-report-2025-interactive.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2025-05-22",
+          "titol_pagina": "3i Group plc Annual report and accounts 2025",
+          "pagina": "102",
+          "cita_literal": "Simon Borrows Chief Executive. Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2023,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2024 (2023-04-01 a 2024-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2022,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2023 (2022-04-01 a 2023-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2021,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2022 (2021-04-01 a 2022-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2020,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2021 (2020-04-01 a 2021-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2019,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2020 (2019-04-01 a 2020-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2018,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2019 (2018-04-01 a 2019-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2017,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2018 (2017-04-01 a 2018-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2016,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2017 (2016-04-01 a 2017-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        }
+      ]
+    },
+    {
+      "any": 2015,
+      "a_mostra": 1,
+      "ceo_31_10": "Simon Borrows",
+      "ceo_tancament_fy": "Simon Borrows",
+      "proxy_tancament": true,
+      "canvi_entre_31_10_i_tancament": false,
+      "fy_que_cobreix": "FY2016 (2015-04-01 a 2016-03-31)",
+      "ceo_since": "2012-05-17",
+      "estat": "verificada_A",
+      "nivell_max": "A",
+      "fonts": [
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/investor-relations/annual-report-2026/downloads/3i-Group-Annual-Report-and-accounts-FY2026.pdf",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2026-05-21",
+          "titol_pagina": "3i Group plc Annual report and accounts 2026",
+          "pagina": "110",
+          "cita_literal": "Chief Executive since 2012, and an Executive Director since he joined 3i in 2011."
+        },
+        {
+          "nivell": "A",
+          "url": "https://www.3i.com/media/news/2012/3i-group-appoints-new-chief-executive-officer/",
+          "organitzacio_emissora": "3i Group plc",
+          "data_document": "2012-05-17",
+          "titol_pagina": "3i Group appoints new Chief Executive Officer",
+          "pagina": "sense paginació",
+          "cita_literal": "it has appointed Simon Borrows to succeed Michael Queen as Chief Executive Officer with effect from 17 May 2012."
+        }
+      ]
+    }
+  ],
+  "cerques_fetas": [
+    "site:3i.com annual report 2025 3i group chief executive appointed 2012 pdf",
+    "3i group annual report 2025 chief executive Simon Borrows 2012 2025",
+    "3i Group annual report 2026 Simon Borrows board directors page 2026",
+    "site:3i.com/media/ Annual report and accounts 2026 Chief Executive since 2012 Simon Borrows pdf",
+    "Consulta de la pàgina corporativa Annual Report 2026",
+    "Consulta del PDF corporatiu Annual Report and Accounts 2025",
+    "Consulta de l'informe corporatiu FY2026 indexat",
+    "Consulta del comunicat oficial de nomenament del 17/05/2012",
+    "Consulta del perfil corporatiu de Simon Borrows",
+    "Consulta de l'arxiu corporatiu de resultats i informes anuals"
+  ],
+  "notes_metodologiques": "S'aplica D20-D23 del protocol v1.2.0. L'últim informe disponible és FY2026, publicat el 21/05/2026, i no FY2025. L'exercici fiscal de 3i Group acaba el 31 de març: per tant, el 31/10/2025 correspon a FY2026, el 31/10/2024 a FY2025, i així successivament. La font corporativa FY2026 identifica Simon Borrows com a Chief Executive i especifica que ocupa el càrrec des de 2012. El comunicat corporatiu del 17/05/2012 confirma la data exacta d'inici. Com que la tinença documentada cobreix tots els anys 2015-2025, s'ha aplicat la regla de reculada per tinença D21 sense obrir sistemàticament els onze informes històrics. Per als anys 2015-2023, la font citada és retrospectiva i no l'informe individual del FY corresponent. Les assignacions anuals deriven de la continuïtat declarada de la tinença. Els camps proxy_tancament=true reflecteixen aquesta aproximació, però no constitueixen una comprovació individual de l'absència de canvis entre el 31/10 i el tancament de cada FY. No s'ha identificat cap canvi de CEO dins del període analitzat. L'informe FY2026 és una font A corporativa; el PDF complet no s'ha pogut recuperar directament per la limitació de mida, però se n'ha consultat el contingut indexat amb les pàgines identificades. No s'han calculat hashes SHA-256. No s'ha investigat la condició de fundador de cap CEO."
+}

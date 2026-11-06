@@ -1,0 +1,344 @@
+{
+"protocol_version": "v1.2.0",
+"fase": "ceo",
+"isin": "DK0010244508",
+"nom": "A.P. Møller-Mærsk A/S",
+"informe_mes_recent": {
+"url": "https://investor.maersk.com/static-files/75fac9de-c2cc-421c-8eaf-17d5c5d86135",
+"exercici": "2025",
+"data_tancament_fy": "2025-12-31",
+"titol": "A.P. Moller - Maersk Annual Report 2025"
+},
+"periodes_tinenca": [
+{
+"nom": "Vincent Clerc",
+"inici": "2023-01-01",
+"fi": null,
+"url": "https://investor.maersk.com/news-releases/news-release-details/change-ceo",
+"pagina": "1",
+"cita_literal": "Effective as of 1 January 2023 Vincent Clerc will be appointed new CEO of A.P. Møller - Mærsk A/S replacing Søren Skou who will leave the Group."
+},
+{
+"nom": "Søren Skou",
+"inici": "2016-07-01",
+"fi": "2022-12-31",
+"url": "https://investor.maersk.com/news-releases/news-release-details/ap-moller-maersk-soren-skou-appointed-new-ceo-maersk-group",
+"pagina": "1",
+"cita_literal": "To lead this phase the Board of Directors has today appointed Søren Skou as new Chief Executive Officer of A.P. Møller - Mærsk A/S, replacing Nils S. Andersen, who will leave the Maersk Group. The changes are effective as of July 1, 2016."
+},
+{
+"nom": "Nils Smedegaard Andersen",
+"inici": "2007-12",
+"fi": "2016-06-30",
+"url": "https://investor.maersk.com/news-releases/news-release-details/ap-moller-maersk-soren-skou-appointed-new-ceo-maersk-group",
+"pagina": "1",
+"cita_literal": "The Board of Directors acknowledges Nils S. Andersen's dedicated and persistent contribution to A.P. Møller - Mærsk A/S since 2005, first as Member of the Board of Directors and subsequently as Chief Executive Officer since December 2007"
+}
+],
+"ceos": [
+{
+"any": 2025,
+"a_mostra": 1,
+"ceo_31_10": "Vincent Clerc",
+"ceo_tancament_fy": "Vincent Clerc",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2025",
+"ceo_since": "2023-01-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/annual-report-2025",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2026-02-05",
+"titol_pagina": "Annual Report 2025 - Official announcement",
+"pagina": null,
+"cita_literal": "CEO of A.P. Møller - Mærsk A/S, Vincent Clerc, states:"
+},
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/change-ceo",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "Change of CEO",
+"pagina": "1",
+"cita_literal": "Effective as of 1 January 2023 Vincent Clerc will be appointed new CEO of A.P. Møller - Mærsk A/S"
+}
+]
+},
+{
+"any": 2024,
+"a_mostra": 1,
+"ceo_31_10": "Vincent Clerc",
+"ceo_tancament_fy": "Vincent Clerc",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2024",
+"ceo_since": "2023-01-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/change-ceo",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "Change of CEO",
+"pagina": "1",
+"cita_literal": "Effective as of 1 January 2023 Vincent Clerc will be appointed new CEO of A.P. Møller - Mærsk A/S replacing Søren Skou who will leave the Group."
+}
+]
+},
+{
+"any": 2023,
+"a_mostra": 1,
+"ceo_31_10": "Vincent Clerc",
+"ceo_tancament_fy": "Vincent Clerc",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2023",
+"ceo_since": "2023-01-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/static-files/7038bde0-6b22-4534-bc48-d5f3ed554bd5",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": null,
+"titol_pagina": "Remuneration Report 2023",
+"pagina": null,
+"cita_literal": "Vincent Clerc was appointed CEO of A.P Moller - Maersk 1 January 2023 replacing Søren Skou."
+}
+]
+},
+{
+"any": 2022,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2022",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/change-ceo",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "Change of CEO",
+"pagina": "1",
+"cita_literal": "Effective as of 1 January 2023 Vincent Clerc will be appointed new CEO of A.P. Møller - Mærsk A/S replacing Søren Skou who will leave the Group."
+},
+{
+"nivell": "A",
+"url": "https://www.maersk.com/~/media_sc9/maersk/news/press-releases/files/2023/apmm-annual-report-2022.pdf",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2023-02-08",
+"titol_pagina": "Annual Report 2022",
+"pagina": "7",
+"cita_literal": "A thorough succession planning process ensured that the CEO role was transitioned successfully to Vincent Clerc by January 2023."
+}
+]
+},
+{
+"any": 2021,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2021",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.maersk.com/pt-br/news/articles/2022/12/12/the-board-of-directors-of-maersk-announces-planned-ceo-transition",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "The Board of Directors of A. P. Møller - Mærsk A/S announces planned CEO transition",
+"pagina": null,
+"cita_literal": "Since 2016 Soren Skou has led the transformation of A. P. Møller - Mærsk A/S (Maersk) from a diversified conglomerate to an integrated logistics company"
+}
+]
+},
+{
+"any": 2020,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2020",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.maersk.com/pt-br/news/articles/2022/12/12/the-board-of-directors-of-maersk-announces-planned-ceo-transition",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "The Board of Directors of A. P. Møller - Mærsk A/S announces planned CEO transition",
+"pagina": null,
+"cita_literal": "Since 2016 Soren Skou has led the transformation of A. P. Møller - Mærsk A/S (Maersk) from a diversified conglomerate to an integrated logistics company"
+}
+]
+},
+{
+"any": 2019,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2019",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.maersk.com/pt-br/news/articles/2022/12/12/the-board-of-directors-of-maersk-announces-planned-ceo-transition",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "The Board of Directors of A. P. Møller - Mærsk A/S announces planned CEO transition",
+"pagina": null,
+"cita_literal": "Since 2016 Soren Skou has led the transformation of A. P. Møller - Mærsk A/S (Maersk) from a diversified conglomerate to an integrated logistics company"
+}
+]
+},
+{
+"any": 2018,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2018",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://www.maersk.com/pt-br/news/articles/2022/12/12/the-board-of-directors-of-maersk-announces-planned-ceo-transition",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "The Board of Directors of A. P. Møller - Mærsk A/S announces planned CEO transition",
+"pagina": null,
+"cita_literal": "Since 2016 Soren Skou has led the transformation of A. P. Møller - Mærsk A/S (Maersk) from a diversified conglomerate to an integrated logistics company"
+}
+]
+},
+{
+"any": 2017,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2017",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/ap-moller-maersk-soren-skou-appointed-new-ceo-maersk-group",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2016-06-23",
+"titol_pagina": "Søren Skou appointed new CEO of Maersk Group",
+"pagina": "1",
+"cita_literal": "The changes are effective as of July 1, 2016."
+},
+{
+"nivell": "A",
+"url": "https://www.maersk.com/pt-br/news/articles/2022/12/12/the-board-of-directors-of-maersk-announces-planned-ceo-transition",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2022-12-12",
+"titol_pagina": "The Board of Directors of A. P. Møller - Mærsk A/S announces planned CEO transition",
+"pagina": null,
+"cita_literal": "Since 2016 Soren Skou has led the transformation of A. P. Møller - Mærsk A/S (Maersk)"
+}
+]
+},
+{
+"any": 2016,
+"a_mostra": 1,
+"ceo_31_10": "Søren Skou",
+"ceo_tancament_fy": "Søren Skou",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2016",
+"ceo_since": "2016-07-01",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/static-files/24d589cc-a053-4675-a0e1-5dbbf1a463a3",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2017-02-08",
+"titol_pagina": "Annual Report 2016",
+"pagina": "24",
+"cita_literal": "On 1 July 2016 Nils S. Andersen stepped down from the Management Board and was replaced by Søren Skou as Group CEO."
+}
+]
+},
+{
+"any": 2015,
+"a_mostra": 1,
+"ceo_31_10": "Nils Smedegaard Andersen",
+"ceo_tancament_fy": "Nils Smedegaard Andersen",
+"proxy_tancament": true,
+"canvi_entre_31_10_i_tancament": false,
+"fy_que_cobreix": "2015",
+"ceo_since": "2007-12",
+"estat": "verificada_A",
+"nivell_max": "A",
+"fonts": [
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/static-files/8df75570-85b6-4acf-83b9-7f55f93a8251",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2016-02-10",
+"titol_pagina": "Annual Report 2015",
+"pagina": "95",
+"cita_literal": "Nils S. Andersen (born 1958) Group CEO Member of Executive Board since 2007."
+},
+{
+"nivell": "A",
+"url": "https://investor.maersk.com/news-releases/news-release-details/annual-report-2015",
+"organitzacio_emissora": "A.P. Møller - Mærsk A/S",
+"data_document": "2016-02-10",
+"titol_pagina": "Annual Report 2015",
+"pagina": null,
+"cita_literal": "The Group CEO, Nils Smedegaard Andersen, states:"
+}
+]
+}
+],
+"cerques_fetas": [
+"site:maersk.com annual report 2025 CEO Vincent Clerc since January 2023 pdf",
+"site:maersk.com annual report 2022 CEO Søren Skou Vincent Clerc 2023",
+"site:maersk.com annual report 2016 CEO Søren Skou Nils Smedegaard Andersen July 2016",
+"Maersk annual report 2025 pdf Vincent Clerc 2025",
+"Maersk annual report 2015 Nils Smedegaard Andersen pdf",
+"Consulta de la pàgina oficial Financial Reports de Maersk",
+"Consulta de l'Annual Report 2015 i de l'Annual Report 2016",
+"Consulta de l'Annual Report 2022",
+"Consulta dels comunicats oficials de nomenament de 2016 i 2022",
+"Consulta del Remuneration Report 2023",
+"Intent d'obertura del PDF corporatiu Annual Report 2025: HTTP 403",
+"Intent d'obertura de la còpia PDF de Nasdaq de l'Annual Report 2025: accés no disponible"
+],
+"notes_metodologiques": "S'aplica D20-D23 del protocol v1.2.0. Els 11 anys són a la mostra perquè tots tenen C. S'identifiquen tres tinences executives: Nils Smedegaard Andersen (desembre 2007-juny 2016), Søren Skou (juliol 2016-desembre 2022) i Vincent Clerc (des de gener 2023). Els relleus documentats van tenir efecte l'1 de juliol de 2016 i l'1 de gener de 2023, de manera que no afecten el tram 31/10-tancament de cap exercici de la mostra. El comunicat de 2022 estableix explícitament que el relleu seria efectiu l'1 de gener de 2023; la referència retrospectiva de l'Annual Report 2022 a la jubilació de Søren Skou el desembre de 2022 no acredita per si sola una substitució efectiva abans del tancament. Els anys 2017-2021 i 2024 es reconstrueixen per continuïtat de les tinences documentades, sense haver obert individualment els seus informes anuals. Per això, les seves fonts acrediten el període executiu però no una comprovació directa del CEO de tancament del FY corresponent. La classificació verificada_A correspon a la identitat i la tinença, no a una auditoria individual de tots els informes anuals. El PDF complet de 2025 s'ha localitzat a l'enllaç corporatiu, però no s'ha pogut obrir; la verificació del nom es basa en el comunicat oficial de publicació de l'informe i el comunicat de nomenament. No s'atribueix cap pàgina no comprovada a aquest PDF. Els valors proxy_tancament=true indiquen l'aplicació de D21, però l'absència de canvis entre 31/10 i tancament no ha estat contrastada directament amb cadascun dels onze informes. No s'han calculat hashes SHA-256. No s'ha investigat si els CEO eren fundadors ni la història fundacional."
+}

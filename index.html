@@ -6,6 +6,8 @@
 body{font-family:system-ui,sans-serif;margin:0;background:#f6f7f9;color:#1d2330}
 header{background:#1d3557;color:#fff;padding:16px 20px}h1{margin:0;font-size:1.3rem}
 header div{opacity:.92;margin-top:4px}
+header a{color:#ffe8a3}
+.topnav{font-size:.95rem}
 .banner{background:#ffe8a3;color:#5a4300;padding:10px 20px;border-bottom:1px solid #e0c060;line-height:1.45}
 .banner p{margin:0 0 6px}.banner p:last-child{margin:0}
 main{padding:16px 20px;max-width:1440px;margin:auto}
@@ -55,7 +57,7 @@ blockquote{margin:6px 0;padding:6px 10px;background:#f6f7f9;border-left:3px soli
   .banner{font-size:.92rem}
 }
 </style></head><body>
-<header><h1>Dashboard Fundadors · STOXX Europe 600</h1><div>Fundadors i pertinença anual a l'iShares STOXX Europe 600 UCITS ETF (DE), 2015–2025</div></header>
+<header><h1>Dashboard Fundadors · STOXX Europe 600</h1><div>Fundadors i pertinença anual a l'iShares STOXX Europe 600 UCITS ETF (DE), 2015–2025</div><div class="topnav"><a href="evidencia/ceo/">Arxiu d'evidència CEO (pilot de 3 empreses)</a></div></header>
 <div class="banner">
 <p><strong>Prototip.</strong> Les fitxes de fundadors marcades «DADA D'EXEMPLE» són il·lustratives i no estan verificades.</p>
 <p>La graella surt dels informes semestrals amb tancament el 31 d'octubre. <span class="mk C">C</span> present a la cartera el 31/10. <span class="mk V">V</span> sortida en la finestra maig–octubre, absent de la cartera final. <span class="mk CV">C+V</span> una línia C i una línia V aquell any. La cel·la buida vol dir que no hi ha evidència admissible aquell any, no que l'empresa fos absent els dotze mesos. Una empresa és a la mostra de l'any t si la cel·la és C o C+V. La clau és l'ISIN de referència: una fila per empresa.</p>
@@ -93,6 +95,7 @@ blockquote{margin:6px 0;padding:6px 10px;background:#f6f7f9;border-left:3px soli
 </main>
 <div id="det"><div class="c" id="dc"></div></div>
 <script>
+const CEO={"GB00B1YW4409":1,"DK0010244508":1,"IT0001233417":1};
 const EX={"DE000A1EWWW0":{any:"(exemple) 1949",fund:["(exemple) Nom Fundador"],estat:"proposada"},
 "CH0012221716":{any:"(exemple) 1988",fund:["(exemple) Fundador A","(exemple) Fundador B"],estat:"discutida"},
 "GB0007980591":{any:"(exemple) 1909",fund:["(exemple) Nom Fundador"],estat:"verificada"}};
@@ -182,6 +185,7 @@ dc.innerHTML=`<button type="button" id="tanca" style="float:right">Tanca</button
 <p><b>A la mostra (C o C+V):</b> ${anys.length?anys.join(", "):"—"}</p>
 ${ident}${src}
 <p><b>Any de fundació:</b> ${esc(r.any)}<br><b>Fundador/s:</b> ${esc(r.fund)}<br><b>Estat:</b> <span class="st ${r.estat}">${r.estat}</span></p>
+${CEO[r.isin]?`<p><a href="evidencia/ceo/#${esc(r.isin)}">Arxiu d'evidència CEO d'aquest ISIN (pilot)</a></p>`:""}
 <h3>Evidències (${r.nev})</h3>`+
 (r.ev.length?r.ev.map(v=>`<div class="ev"><b>Tipus:</b> ${esc(v.tipus)}<br><b>URL:</b> ${esc(v.url)}<br><b>Data de captura:</b> ${esc(v.captura)}<br><b>SHA-256:</b> <code>${esc(v.hash)}</code><br><b>Pàgina:</b> ${esc(v.pag)}<blockquote>${esc(v.frag)}</blockquote><b>Arxiu:</b> ${esc(v.arxiu)}</div>`).join(""):"<p>Encara no hi ha evidències. Pendent de recerca.</p>");
 det.style.display="flex";
