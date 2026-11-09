@@ -1,0 +1,22 @@
+{
+  "generat_per": "scripts/build_index.py",
+  "nota": "Índex dels fitxers presents. No conté fundadors ni evidències. Torna a executar l'script després d'afegir o treure un JSON.",
+  "empreses": [
+    {
+      "isin": "BE0003764785",
+      "nom": "Ackermans & van Haaren N.V.",
+      "path": "data/empreses/BE0003764785.json"
+    },
+    {
+      "isin": "DE0005552004",
+      "nom": "Deutsche Post AG",
+      "path": "data/empreses/DE0005552004.json"
+    },
+    {
+      "isin": "ES0167050915",
+      "nom": "ACS, Act.de Constr.y Serv. SA",
+      "path": "data/empreses/ES0167050915.json"
+    }
+  ],
+  "fundadors": []
+}
